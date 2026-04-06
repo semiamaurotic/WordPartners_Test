@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Biblical Theology Timeline</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T104357Z" creationid="nathanwatkins" creationdate="20260406T104220Z">
+        <seg>!!!!!!!! ไทม์ไลน์ศาสนศาสตร์พระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Biblical theological reflection</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
