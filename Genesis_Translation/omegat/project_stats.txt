@@ -1,0 +1,14 @@
+4/6/26, 1:53 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	    1062	14393	                  69876	                 82588	     1	
+Remaining:       	    1062	14393	                  69876	                 82588	     1	
+Unique:          	     799	12558	                  60158	                 71324	     1	
+Unique Remaining:	     799	12558	                  60158	                 71324	     1	
+
+
+Individual File Statistics:
+
+File Name                                         	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+Genesis 5.0 - Letter - 2024.08.01 translation.docx	          1062	              1062	            799	                      799	      14393	          14393	       12558	                 12558	                        69876	                            69876	                         60158	                                   60158	                       82588	                           82588	                        71324	                                  71324	
