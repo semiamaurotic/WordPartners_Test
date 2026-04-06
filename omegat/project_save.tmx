@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Demonstrate&lt;t0/&gt;: &lt;t1/&gt;The &lt;t2/&gt;purpose of these sessions is to model expository preaching and teaching. Expository preaching and teaching &lt;t3/&gt;seeks&lt;t4/&gt; to proclaim the author’s message with his purpose and tone, showing how it unfolds the glories of Christ, &lt;t5/&gt;in order to&lt;t6/&gt; shepherd the transformation God intends. Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon&lt;t7/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130855Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
+        <seg>สาธิต: จุดมุ่งหมายของช่วงเหล่านี้คือเป็นแบบอย่างของการเทศนาแบบอรรถาธิบายและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนด้วยจุดประสงค์และน้ำเสียงของเขา แสดงให้เห็นว่าข้อความนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่าย ๆ คือการเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตจากพระธรรมตอนนั้นๆ เป็นจุดศูนย์กลางของคำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Describe</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -422,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Dig &amp; Discover&lt;t0/&gt;: The &lt;t1/&gt;purpose of these sessions is to learn and practice hermeneutical &lt;t2/&gt;principles&lt;t3/&gt; so we are better equipped to explain the Bible’s message and shepherd others with it.&lt;t4/&gt; (See the &lt;t5/&gt;Dig &amp; Discover Principles&lt;t6/&gt; booklet&lt;t7/&gt;.)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130901Z" creationid="nathanwatkins" creationdate="20260406T130901Z">
+        <seg>ขุดค้นและค้นพบ: จุดมุ่งหมายของช่วงเหล่านี้คือเรียนรู้และฝึกใช้หลักการตีความพระคัมภีร์ เพื่อให้เราพร้อมยิ่งขึ้นที่จะอธิบายสารของพระคัมภีร์และใช้สารนั้นในการอภิบาลผู้อื่น (ดูหนังสือ หลักการขุดค้นและค้นพบ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Direct</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -442,6 +458,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>คุณพบรูปแบบใดบ้าง: การกล่าวซ้ำ การเปรียบเทียบ/ความตรงกันข้าม การเปลี่ยนแปลง/การเปลี่ยนตอนที่สำคัญ ความประหลาดใจ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do&lt;t0/&gt;: &lt;t1/&gt;The &lt;t2/&gt;purpose of these sessions is to help us become better expository preachers and teachers of the Word of God. This happens through your preparation and presentation of a passage of Scripture. The workshop leader and peers will provide feedback on your work for your development. In the early stages this involves group study and simple explanations. Later, it moves to individual presentations and then fuller&lt;t3/&gt; &lt;t4/&gt;sermons.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130908Z" creationid="nathanwatkins" creationdate="20260406T130908Z">
+        <seg>ปฏิบัติ: จุดมุ่งหมายของช่วงเหล่านี้คือช่วยให้เราเป็นผู้เทศนาและผู้สอนพระวจนะของพระเจ้าแบบอรรถาธิบายที่ดีขึ้น ซึ่งจะเกิดขึ้นผ่านการเตรียมและการนำเสนอพระธรรมตอนหนึ่ง ผู้นำเวิร์กช็อปและเพื่อนร่วมกลุ่มจะให้ข้อเสนอแนะต่อผลงานของคุณเพื่อการพัฒนา ในช่วงเริ่มต้นจะเป็นการศึกษาร่วมกันเป็นกลุ่มและการอธิบายแบบง่ายๆ ต่อมาจะขยับไปสู่การนำเสนอรายบุคคล และท้ายที่สุดจะเป็นคำเทศนาที่สมบูรณ์ยิ่งขึ้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -1830,6 +1854,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Three Kinds of Sessions</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130840Z" creationid="nathanwatkins" creationdate="20260406T130840Z">
+        <seg>เวิร์กช็อปนี้ใช้การเรียนการสอนสามรูปแบบ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Three Parts to the Definition</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2294,6 +2326,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>apply &lt;t0/&gt;the principles in your on-going Bible study and sermon preparation&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130937Z" creationid="nathanwatkins" creationdate="20260406T130937Z">
+        <seg>นำหลักการไปใช้ในการศึกษาพระคัมภีร์และการเตรียมคำเทศนาอย่างต่อเนื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>be transformed by God’s Word&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101233Z" creationid="nathanwatkins" creationdate="20260406T101233Z">
@@ -2394,6 +2434,30 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>ทำให้คนรู้น้อยมีปัญญา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>meet &lt;t0/&gt;at least twice a year for a multi-day workshop&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130921Z" creationid="nathanwatkins" creationdate="20260406T130921Z">
+        <seg>พบกันอย่างน้อยปีละสองครั้งสำหรับเวิร์กช็อปหลายวัน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>multiply &lt;t0/&gt;what you’ve learned in these workshops by training others in, &lt;t1/&gt;through&lt;t2/&gt;, and beyond your church&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T131054Z" creationid="nathanwatkins" creationdate="20260406T131054Z">
+        <seg>ขยายผลสิ่งที่ได้เรียนรู้จากเวิร์กช็อปเหล่านี้ ด้วยการฝึกผู้อื่นให้ทำได้เช่นเดียวกัน ทั้งในคริสตจักรของคุณ ผ่านคริสตจักรของคุณ และก้าวออกไปนอกคริสตจักรของคุณ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>prepare &lt;t0/&gt;beforehand by completing the &lt;t1/&gt;p&lt;t2/&gt;re-assignment&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130933Z" creationid="nathanwatkins" creationdate="20260406T130933Z">
+        <seg>เตรียมตัวล่วงหน้าโดยทำงานที่ได้รับมอบหมายก่อนอบรมให้เสร็จ</seg>
       </tuv>
     </tu>
     <tu>
