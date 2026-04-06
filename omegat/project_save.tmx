@@ -4,6 +4,2150 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.1_0_42ef0143" segtype="paragraph" srclang="en-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>1 &amp; 2 Samuel</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>1 และ 2 ซามูเอล</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>1. Key Theme</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>1. ธีมสำคัญ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2 Timothy</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>2 ทิโมธี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>2. Existing Frameworks</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>2. กรอบแนวความคิดที่มีอยู่เดิม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>55</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091330Z" creationid="nathanwatkins" creationdate="20260406T091330Z">
+        <seg>ความช่วยเหลือเพิ่มเติม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Visual of the Process</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ภาพแสดงกระบวนการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>A Word of Encouragement</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำหนุนใจ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>After the workshop&lt;t0/&gt;, &lt;t1/&gt;to review your learning and take it further for preaching and teaching the book of the Bible we have studied. There will be more in the workbook than can be covered in the workshop&lt;t2/&gt;,&lt;t3/&gt; so you can study more thoroughly at home.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101931Z" creationid="nathanwatkins" creationdate="20260406T101931Z">
+        <seg>หลังเวิร์กช็อป เพื่อทบทวนสิ่งที่เรียนรู้และต่อยอดสำหรับการเทศนาและการสอนพระคัมภีร์ที่เราได้ศึกษา คู่มือเวิร์กช็อปเล่มนี้มีเนื้อหามากกว่าที่เราจะเรียนรู้ได้ทั้งหมดในเวิร์กช็อป ดังนั้น ท่านสามารถศึกษาเพิ่มเติมได้ที่บ้าน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Aim: Proclaim and shepherd the listeners with the main idea and transformational intent of the author.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเล็งเป้า: การเทศนาและอภิบาลผู้ฟังด้วยใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนพระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>All the previous principles help us get to the main idea and transformational intent. So, we will be using all the previous principles in this session.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หลักการทั้งหมดก่อนหน้านี้ล้วนช่วยนำเราไปสู่ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง ดังนั้น ในบทนี้เราจะใช้หลักการทั้งหมดที่เรียนมาก่อนหน้านี้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>An Initial Attempt</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ลองทำครั้งแรก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apocalyptic</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>วรรณกรรมวิวรณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Application can take many forms. A few examples are</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การประยุกต์ใช้สามารถมีหลายรูปแบบ ตัวอย่างเช่น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>นำไปประยุกต์ใช้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Approach</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แนวทางหรือวิธีการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Arranged in a specific way</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>จัดวางในรูปแบบเฉพาะ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ask God to change us and bring our mind, emotion&lt;t0/&gt;,&lt;t1/&gt; and will into alignment with &lt;t2/&gt;his&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093204Z" creationid="nathanwatkins" creationdate="20260406T093204Z">
+        <seg>ทูลขอพระเจ้าให้ทรงเปลี่ยนแปลงเรา และโน้มนำความคิด อารมณ์ และเจตจำนงของเราให้สอดคล้องกับพระองค์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ask God to reveal where our frameworks differ from the text.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทูลขอพระเจ้าให้ทรงสำแดงว่า กรอบแนวความคิดของเราแตกต่างจากเนื้อหาตรงไหน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Before the workshop&lt;t0/&gt;, &lt;t1/&gt;as a preparation guide, helping you think through the use of the &lt;t2/&gt;p&lt;t3/&gt;rinciples in the book of the Bible being studied;</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101917Z" creationid="nathanwatkins" creationdate="20260406T101917Z">
+        <seg>ก่อนเวิร์กช็อป ใช้คู่มือเล่มนี้เพื่อเป็นคู่มือเตรียมตัว ช่วยให้คุณคิดทบทวนการใช้หลักการต่างๆ ในพระธรรมที่กำลังศึกษา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biblical Theology</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ศาสนศาสตร์พระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Biblical theological reflection</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การใคร่ครวญเชิงศาสนศาสตร์พระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Church:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คริสตจักร:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clearly state the main idea and transformational intent. What is God seeking to accomplish in the life of the listener? The answer to this question should guide the sermon from beginning to end.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ระบุใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงให้ชัดเจน พระเจ้าทรงประสงค์จะกระทำสิ่งใดในชีวิตของผู้ฟัง? คำตอบของคำถามนี้ควรเป็นสิ่งที่ชี้นำคำเทศนาตั้งแต่ต้นจนจบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บทสรุป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Concrete</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป็นรูปธรรม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider how the main idea and transformational intent of the text relates to biblical theology and leads us to proclaim Christ.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พิจารณาว่าใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของพระคัมภีร์ตอนนั้นๆ เชื่อมโยงกับหลักศาสนศาสตร์พระคัมภีร์อย่างไร และนำเราไปสู่การประกาศพระคริสต์ได้อย่างไร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Contents</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093606Z" creationid="nathanwatkins" creationdate="20260406T093606Z">
+        <seg>สารบัญ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Core Training: Multiplication (Years 3 &amp; 4)</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การอบรมหลัก: การทวีคูณ (ปีที่ 3 และ 4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Core Training: Transformation (Years 1 &amp; 2)</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การอบรมหลัก: การเปลี่ยนแปลง (ปีที่ 1 และ 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Culture:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>วัฒนธรรม:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Define</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ให้คำจำกัดความ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Demonstrate</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สาธิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Describe</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บรรยาย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Developing skills to study,</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พัฒนาทักษะในการศึกษา,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Direct</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ตรงไปตรงมา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ปฏิบัติ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do you find any patterns: repetitions, comparisons/contrasts, major shifts/transitions, surprises?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คุณพบรูปแบบใดบ้าง: การกล่าวซ้ำ การเปรียบเทียบ/ความตรงกันข้าม การเปลี่ยนแปลง/การเปลี่ยนตอนที่สำคัญ ความประหลาดใจ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Does the text intend for me to make this application?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ข้อความพระคัมภีร์ตอนนี้มีเจตนาให้ฉันนำไปประยุกต์ใช้ในลักษณะนี้หรือไม่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drawing on the previous principles, it helps us align the message to communicate and shepherd the change God intends.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ช่วยให้เราจัดวางถ้อยคำที่ต้องการสื่อสารให้สอดคล้องกับสารโดยนำหลักการที่ได้เรียนมาก่อนหน้านี้มาใช้ เพื่ออภิบาลและนำผู้อื่นไปสู่การเปลี่ยนแปลงตามที่พระเจ้าทรงประสงค์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>During the workshop&lt;t0/&gt;, &lt;t1/&gt;so you can take notes on your learning and keep them organized by &lt;t2/&gt;p&lt;t3/&gt;rinciple;</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101925Z" creationid="nathanwatkins" creationdate="20260406T101925Z">
+        <seg>ระหว่างเวิร์กช็อป เพื่อให้คุณจดบันทึกสิ่งที่เรียนรู้และจัดระเบียบตามหลักการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Emotive</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สื่ออารมณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ephesians or Hebrews</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เอเฟซัส หรือ ฮีบรู</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Epistle</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>จดหมายฝาก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Evaluation takes place before entering each new phase.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>มีการประเมินก่อนเข้าสู่ช่วงใหม่แต่ละช่วง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Evaluative Questions</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำถามเพื่อการประเมิน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Every expository sermon seeks to answer key questions:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำเทศนาแบบอรรถาธิบายทุกบทมุ่งตอบคำถามสำคัญต่อไปนี้:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Examine Your Work</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ตรวจทานงานของคุณ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example Sermon &lt;t0/&gt;on&lt;t1/&gt; &lt;t2/&gt;Genesis 1:1‒2:3</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093944Z" creationid="nathanwatkins" creationdate="20260406T093944Z">
+        <seg>ตัวอย่างคำเทศนาจาก ปฐมกาล 1:1–2:3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Example Sermon on Genesis 50:15-21</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100242Z" creationid="nathanwatkins" creationdate="20260406T100242Z">
+        <seg>ตัวอย่างคำเทศนาจาก ปฐมกาล 50:15-21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Expectations</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ความคาดหวัง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explain</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>อธิบาย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Explanations and applications of Jesus' work that empower us in the New Covenant</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำอธิบายและการประยุกต์ใช้พระราชกิจของพระเยซูที่เสริมกำลังเราในพันธสัญญาใหม่</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Four Questions for Doing Biblical Theology</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สี่คำถามสำหรับศาสนศาสตร์พระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Frameworks affect how we read the Bible. When we sit down to study a text, frameworks influence the way we think about God, man, sin, suffering, salvation, and many other things. Some frameworks accurately reflect the biblical text; others do not. We must recognize the distinction between text and framework as well as the influence our frameworks exercise over us.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>กรอบแนวความคิดส่งผลต่อวิธีที่เราอ่านพระคัมภีร์ เมื่อเรานั่งลงเพื่อศึกษาเนื้อหา กรอบแนวความคิดจะมีอิทธิพลต่อวิธีที่เราคิดเกี่ยวกับพระเจ้า มนุษย์ บาป ความทุกข์ ความรอด และอีกหลายเรื่อง กรอบแนวความคิดบางอย่างสะท้อนเนื้อหาพระคัมภีร์ได้อย่างถูกต้อง แต่บางอย่างไม่ใช่ เราจำเป็นต้องตระหนักถึงความแตกต่างระหว่าง “เนื้อหา” กับ “กรอบแนวความคิด” รวมทั้งอิทธิพลที่กรอบแนวความคิดของเรามีต่อเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Further Thoughts about Application and Shepherding</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ข้อคิดเพิ่มเติมเรื่องการประยุกต์ใช้และการอภิบาล</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General Preparation</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเตรียมตัวทั่วไป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ปฐมกาล</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis 10:1‒11:9</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095324Z" creationid="nathanwatkins" creationdate="20260406T095324Z">
+        <seg>ปฐมกาล 10:1‒11:9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis 11:27&lt;t0/&gt;–&lt;t1/&gt;12:20</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095339Z" creationid="nathanwatkins" creationdate="20260406T095339Z">
+        <seg>ปฐมกาล 11:27‒12:20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis 3:1-24</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T094906Z" creationid="nathanwatkins" creationdate="20260406T094906Z">
+        <seg>ปฐมกาล 3:1-24</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genre</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ประเภทวรรณกรรม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genre &lt;t0/&gt;and Structure of Genesis 2:4-4:26</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T094838Z" creationid="nathanwatkins" creationdate="20260406T094420Z">
+        <seg>ประเภทวรรณกรรมและโครงสร้างของ ปฐมกาล 2:4-4:26</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genre and Structure of &lt;t0/&gt;Genesis 5:1‒6:8</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T094927Z" creationid="nathanwatkins" creationdate="20260406T094927Z">
+        <seg>ประเภทวรรณกรรมและโครงสร้างของ ปฐมกาล 5:1-6:8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genre and Structure of the Book</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100028Z" creationid="nathanwatkins" creationdate="20260406T091531Z">
+        <seg>ประเภทวรรณกรรมและโครงสร้างของพระธรรม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Give it another attempt. Make your statement complete, clear, and concise.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ลองเขียนอีกครั้ง ทำให้ข้อความของคุณสมบูรณ์ ชัดเจน และกระชับ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Goals</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป้าหมาย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>God's character being given full expression in Jesus</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระลักษณะของพระเจ้าที่สำแดงอย่างเต็มบริบูรณ์ในพระเยซู</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good Questions</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำถามที่ดี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Gospel</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระกิตติคุณ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Habakkuk</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ฮาบากุก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How &lt;t0/&gt;I&lt;t1/&gt;s &lt;t2/&gt;T&lt;t3/&gt;his &lt;t4/&gt;W&lt;t5/&gt;orkbook &lt;t6/&gt;D&lt;t7/&gt;esigned?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101503Z" creationid="nathanwatkins" creationdate="20260406T101503Z">
+        <seg>คู่มือเวิร์กช็อปเล่มนีถูกออกแบบมาอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How &lt;t0/&gt;to Use&lt;t1/&gt; &lt;t2/&gt;T&lt;t3/&gt;his &lt;t4/&gt;W&lt;t5/&gt;orkbook</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101843Z" creationid="nathanwatkins" creationdate="20260406T101843Z">
+        <seg>วิธีใช้คู่มือเวิร์กช็อปเล่มนี้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How Will We Get There?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เราจะถึงเป้าหมายได้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How does he say it?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เขาพูดอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How does this shape the way we shepherd people?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การตอบสนองของผู้ฟังกำหนดแนวทางที่เขาเลี้ยงดูผู้อื่นอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How does this work?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ใช้หลักการนี้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How has the transformational intent of &lt;t0/&gt;Genesis&lt;t1/&gt; reshaped your frameworks? Put simply, what do you need to change now that God&lt;t2/&gt;’&lt;t3/&gt;s Word has spoken to you?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T092911Z" creationid="nathanwatkins" creationdate="20260406T092911Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลงของปฐมกาลได้ปรับกรอบแนวความคิดของคุณเสียใหม่อย่างไร? พูดให้ตรง ๆ ก็คือ คุณจำเป็นต้องเปลี่ยนอะไรบ้าง เมื่อพระวจนะของพระเจ้าได้ตรัสกับคุณแล้ว?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How have the key themes in the main idea and transformational intent developed through the Bible's story to this point?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ธีม (Theme) ในใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงได้พัฒนาผ่านเรื่องราวของพระคัมภีร์จนไปถึงจุดนี้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How should this shape the way you would preach the book?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ความเข้าใจดังกล่าวควรหล่อหลอมวิธีที่คุณจะเทศนาพระธรรมเล่มนี้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How well does it incorporate the tone and transformational intent of the author?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งที่คุณเขียนผสานน้ำเสียงและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนได้ดีเพียงใด?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How would you use the transformational intent of &lt;t0/&gt;Genesis&lt;t1/&gt; to shepherd people in reshaping their frameworks? What specific and compelling applications would you make in your context?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T092944Z" creationid="nathanwatkins" creationdate="20260406T092944Z">
+        <seg>คุณจะใช้เจตนาสู่การเปลี่ยนแปลงของปฐมกาลในการอภิบาลผู้อื่นให้ปรับกรอบแนวความคิดของตนอย่างไร? คุณจะประยุกต์ใช้ในบริบทของคุณอย่างเฉพาะเจาะจงและหนักแน่นอย่างไรบ้าง?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>If we take the shortcut, we will likely misinterpret and misapply the text.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หากเราเลือกทางลัด เรามักมีแนวโน้มที่จะตีความผิดและประยุกต์ใช้ผิด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Illustrate</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ยกตัวอย่างประกอบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Imaginative</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ใช้จินตนาการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In light of that, what is the passage saying to us today?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เมื่อเข้าใจเช่นนั้นแล้ว พระธรรมตอนนี้กำลังพูดอะไรกับเราในวันนี้?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It convicts: Jeremiah 23:28-29</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระวจนะของพระเจ้าทรงทำให้สำนึกผิด: เยเรมีย์ 23:28-29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It creates: Genesis 1:3; Psalm 33:9</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระวจนะของพระเจ้าทรงสร้าง: ปฐมกาล 1:3; สดุดี 33:9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is sovereign over human weaknesses: Philippians 1:15-18</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระวจนะของพระเจ้ามีอำนาจสูงสุดเหนือความอ่อนแอของมนุษย์: ฟีลิปปี 1:15-18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is the way Jesus and the disciples understood the Bible.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>นี่คือวิธีที่พระเยซูและสาวกเข้าใจพระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is unstoppable: Proverbs 21:30; Acts 5:17-42; 2 Timothy 2:9</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ไม่มีสิ่งใดหยุดยั้งพระวจนะของพระเจ้าได้: สุภาษิต 21:30; กิจการ 5:17-42; 2 ทิโมธี 2:9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will enrich your experience in the workshop if you work through each lesson in this workbook. Come ready to participate in a conversation, bringing your observations, conclusions, and questions.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ประสบการณ์ของคุณในเวิร์กช็อปจะเพิ่มพูนขึ้นหากคุณทำแบบฝึกในคู่มือเวิร์กช็อปเล่มนี้ให้ครบทุกบทเรียน โปรดเตรียมพร้อมที่จะมีส่วนร่วมในการสนทนา โดยเตรียมข้อสังเกต ข้อสรุป และคำถามของคุณมาด้วย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It will help us to</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คู่มือเล่มนี้จะช่วยให้เรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Jonah</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>โยนาห์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Law</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บทบัญญัติ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Legalism</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การยึดกฎเกณฑ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>License</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การใช้เสรีภาพเกินขอบเขต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Highways on a Map</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทางหลวงสายหลักบนแผนที่</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Idea &lt;t0/&gt;and&lt;t1/&gt; Transformational Intent of Genesis 6:9&lt;t2/&gt;–&lt;t3/&gt;9:29</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095247Z" creationid="nathanwatkins" creationdate="20260406T095123Z">
+        <seg>ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของ ปฐมกาล 6:9-9:29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Idea &lt;t0/&gt;and&lt;t1/&gt; Transformational Intent of the Book</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100058Z" creationid="nathanwatkins" creationdate="20260406T095921Z">
+        <seg>ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของพระธรรม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main Idea and Transformational Intent of the Book</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของหนังสือ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main idea</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ใจความสำคัญ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Man shall not live by bread alone,</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>มนุษย์จะดำรงชีวิตด้วยอาหารเพียงอย่างเดียวไม่ได้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mark</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>มาระโก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mark 7:1-13.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>มาระโก 7:1–13.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>More to be desired are they &lt;t0/&gt;than&lt;t1/&gt; gold,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100933Z" creationid="nathanwatkins" creationdate="20260406T100933Z">
+        <seg>น่าปรารถนามากกว่าทองคำ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Moreover, by them is your servant warned;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>อนึ่ง สิ่งเหล่านี้เป็นที่ตักเตือนผู้รับใช้ของพระองค์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Morning Expositions</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การอธิบายพระวจนะในช่วงเช้า (ถ้ามี)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Narrative</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เรื่องเล่า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บันทึก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notice the commitment of the Apostles to the Word of God: Acts 6:1-4</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สังเกตความมุ่งมั่นของอัครทูตต่อพระวจนะของพระเจ้า: กิจการ 6:1-4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Other Helps</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ความช่วยเหลือเพิ่มเติม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our Goals</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป้าหมายของเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our Process</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>กระบวนการของเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Our workshops are centered around studying through a book of the Bible so that</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เวิร์กช็อปของเรามุ่งเน้นการศึกษาผ่านพระธรรมแต่ละเล่มในพระคัมภีร์ เพื่อว่า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ภาพรวม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Overview of the Training and Workshop</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ภาพรวมของการอบรมและเวิร์กช็อป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pastors and church leaders with significant Word ministries who have&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T090806Z" creationid="nathanwatkins" creationdate="20260406T090806Z">
+        <seg>ผู้รับใช้และผู้นำคริสตจักรที่มีพันธกิจด้านพระวจนะอันทรงคุณค่า ซึ่งมี:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pictorial</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เชิงภาพพจน์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Poetry</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บทกวี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Practice</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แบบฝึกหัด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pre-Assignment</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>งานมอบหมายล่วงหน้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Pre-Assignment Notes</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บันทึกงานมอบหมายล่วงหน้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preaching applies the text to our audience&lt;t0/&gt;’&lt;t1/&gt;s frameworks. The transformation God intends is at the heart level of our frameworks. Specific and compelling application in our sermons is made by addressing the text to our audience&lt;t2/&gt;’&lt;t3/&gt;s frameworks.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093251Z" creationid="nathanwatkins" creationdate="20260406T093251Z">
+        <seg>การเทศนาคือการนำเนื้อหาไปประยุกต์กับกรอบแนวความคิดของผู้ฟัง การเปลี่ยนแปลงที่พระเจ้าทรงตั้งใจไว้อยู่ที่ระดับ “จิตใจ” ของกรอบแนวความคิดของเรา การประยุกต์ใช้ที่เฉพาะเจาะจงและทรงพลังในคำเทศนาของเราเกิดขึ้นได้ เมื่อเรานำเนื้อหาไปสื่อสารกับกรอบแนวความคิดของผู้ฟัง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preaching for Transformation</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเทศนาเพื่อการเปลี่ยนแปลง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preparation and Presentation</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเตรียมและการนำเสนอ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Principles Flow Chart</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แผนผังลำดับของหลักการต่างๆ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Principles covered:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หลักการที่ครอบคลุม:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>กระบวนการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Prophecy</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำพยากรณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Propositional</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป็นข้อความเชิงข้อเสนอ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Psalm 19:7-11; Isaiah 55:9-11; 2 Timothy 3:16-17.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สดุดี 19:7–11; อิสยาห์ 55:9–11; 2 ทิโมธี 3:16–17.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Psalm 34:11; Isaiah 55:1-3; Mark 4:3-25; 2 Timothy 2:14-19 (especially verse 15).</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สดุดี 34:11; อิสยาห์ 55:1–3; มาระโก 4:3–25; 2 ทิโมธี 2:14–19 (โดยเฉพาะข้อ 15).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Psalms</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สดุดี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Putting the Sermon Together</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเรียบเรียงคำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Questions</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คำถาม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read and pray</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>อ่านและอธิษฐาน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Refine Your Work</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ปรับปรุงงานของคุณ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reflection &lt;t0/&gt;&amp;&lt;t1/&gt; Next Steps</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100247Z" creationid="nathanwatkins" creationdate="20260406T100247Z">
+        <seg>การทบทวนและก้าวต่อไป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revised main idea &amp; transformational intent</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ปรับปรุงใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select material to demonstrate main idea and structure.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เลือกเนื้อหาเพื่อแสดงให้เห็นใจความสำคัญและโครงสร้าง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selection</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การคัดเลือก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 1</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เซสชั่นที่ 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 11</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T092812Z" creationid="nathanwatkins" creationdate="20260406T092812Z">
+        <seg>เซสชั่นที่ 11</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 12</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T092804Z" creationid="nathanwatkins" creationdate="20260406T092804Z">
+        <seg>เซสชั่นที่ 12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 12&lt;t0/&gt;: &lt;t1/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100124Z" creationid="nathanwatkins" creationdate="20260406T100124Z">
+        <seg>เซสชั่นที่ 12: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 1&lt;t0/&gt;1&lt;t1/&gt;: &lt;t2/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100116Z" creationid="nathanwatkins" creationdate="20260406T100116Z">
+        <seg>เซสชั่นที่ 11: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 1&lt;t0/&gt;: &lt;t1/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091357Z" creationid="nathanwatkins" creationdate="20260406T091357Z">
+        <seg>เซสชั่นที่ 1: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;1&lt;t1/&gt;0&lt;t2/&gt;: &lt;t3/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095405Z" creationid="nathanwatkins" creationdate="20260406T095405Z">
+        <seg>เซสชั่นที่ 6: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;1&lt;t1/&gt;3&lt;t2/&gt;: Demonstrate</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100221Z" creationid="nathanwatkins" creationdate="20260406T100221Z">
+        <seg>เซสชั่นที่ 13: การสาธิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;2&lt;t1/&gt;: &lt;t2/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093628Z" creationid="nathanwatkins" creationdate="20260406T093628Z">
+        <seg>เซสชั่นที่ 2: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;3&lt;t1/&gt;: Demonstrate</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093639Z" creationid="nathanwatkins" creationdate="20260406T093639Z">
+        <seg>เซสชั่นที่ 3: การสาธิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;4&lt;t1/&gt;: &lt;t2/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093954Z" creationid="nathanwatkins" creationdate="20260406T093954Z">
+        <seg>เซสชั่นที่ 4: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;5&lt;t1/&gt;: &lt;t2/&gt;Do</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T094854Z" creationid="nathanwatkins" creationdate="20260406T094854Z">
+        <seg>เซสชั่นที่ 5: ปฏิบัติ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;6&lt;t1/&gt;: &lt;t2/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T094922Z" creationid="nathanwatkins" creationdate="20260406T094922Z">
+        <seg>เซสชั่นที่ 6: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;7&lt;t1/&gt;: &lt;t2/&gt;Dig &amp; Discover</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095101Z" creationid="nathanwatkins" creationdate="20260406T095101Z">
+        <seg>เซสชั่นที่ 7: ขุดค้นและค้นพบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;8&lt;t1/&gt;: &lt;t2/&gt;Do</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095310Z" creationid="nathanwatkins" creationdate="20260406T095310Z">
+        <seg>เซสชั่นที่ 8: ปฏิบัติ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session &lt;t0/&gt;9&lt;t1/&gt;: &lt;t2/&gt;Do</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095333Z" creationid="nathanwatkins" creationdate="20260406T095333Z">
+        <seg>เซสชั่นที่ 9: ปฏิบัติ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แสดง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show the structure of the author.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แสดงโครงสร้างของผู้เขียนพระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show the structure.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แสดงโครงสร้าง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ระบุ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Structure</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>โครงสร้าง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Study to Sermon</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>จากการศึกษาสู่คำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text &amp; Framework reflection</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การไตร่ตรองเนื้อหาและกรอบแนวความคิด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text and Framework</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เนื้อหาและกรอบแนวความคิด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;t0/&gt;goal is to become better expositors of God’s Word; preachers and teachers who proclaim the author’s message with his purpose and tone, showing how it unfolds the glories of Christ, in order to shepherd the transformation God intends. It is our conviction that the author has a transformational intent in the book inspired &lt;t1/&gt;by the Holy Spirit.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101340Z" creationid="nathanwatkins" creationdate="20260406T101340Z">
+        <seg>เป้าหมายคือเป็นผู้อธิบายพระวจนะของพระเจ้าที่ดีขึ้น เป็นผู้เทศนาและผู้สอนที่ประกาศเนื้อความของผู้เขียนตามจุดมุ่งหมายและน้ำเสียงของเขา รวมทั้งแสดงให้เห็นว่าข้อความนั้นเปิดเผยพระสิริอันรุ่งโรจน์ของพระคริสต์อย่างไร เพื่อจะนำไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงมุ่งหมาย เรามีความเชื่อมั่นว่าผู้เขียนมีเจตนานำผู้อ่านไปสู่การเปลี่ยนแปลงชีวิตผ่านหนังสือที่ได้รับการดลใจโดยพระวิญญาณบริสุทธิ์ * (ต่อไปนี้ คำว่า “เจตนาสู่การเปลี่ยนแปลง” ในหนังเล่มนี้ หมายถึง “ผู้เขียนพระคัมภีร์มีเจตนานำผู้อ่านไปสู่การเปลี่ยนแปลงชีวิต” - ผู้แปล)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The &lt;t0/&gt;workbook is designed to enrich your learning from a workshop that&lt;t1/&gt; &lt;t2/&gt;will</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101512Z" creationid="nathanwatkins" creationdate="20260406T101512Z">
+        <seg>คู่มือเวิร์กช็อปเล่มนี้ถูกออกแบบมาเพื่อช่วยเสริมการเรียนรู้ของคุณจากเวิร์กช็อป ซึ่งจะ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Foundational Conviction Principle</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หลักการแห่งความเชื่อมั่นพื้นฐาน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Line</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เส้นหลักของพระวจนะ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Three-Legged Stool</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เก้าอี้สามขา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Workshop</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เวิร์กช็อป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The author intentionally chose the genre to suit his message and purpose.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ผู้เขียนตั้งใจเลือกประเภทวรรณกรรมให้เหมาะกับสารและจุดประสงค์ของเขา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The goal of preaching is the transformation the author is seeking.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป้าหมายของการเทศนาพระวจนะคือการเปลี่ยนแปลงตามที่ผู้เขียนกำลังมุ่งหวัง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The law of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;is perfect,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091837Z" creationid="nathanwatkins" creationdate="20260406T091837Z">
+        <seg>ธรรมบัญญัติของพระยาห์เวห์ดีพร้อม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The nature of Scripture: There is a uniqueness to God’s words. They alone can produce life and accomplish &lt;t0/&gt;his&lt;t1/&gt; purposes.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093315Z" creationid="nathanwatkins" creationdate="20260406T093315Z">
+        <seg>ธรรมชาติของพระคัมภีร์: ถ้อยคำของพระเจ้ามีความเป็นเอกลักษณ์ มีเพียงถ้อยคำของพระองค์เท่านั้นที่ให้ชีวิตและทำให้พระประสงค์ของพระองค์สำเร็จได้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The original context</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บริบทดั้งเดิม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The original context includes:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บริบทดั้งเดิมประกอบด้วย:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The training involves a commitment to</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การฝึกอบรมนี้ต้องอาศัยความมุ่งมั่นที่จะ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are key elements of preparing an expository message. When we are preaching, we should not use them in a mechanical way. Good communication will incorporate creativity and variety of style.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งเหล่านี้เป็นองค์ประกอบสำคัญในการเตรียมคำเทศนาแบบอรรถาธิบาย เมื่อเราเทศนาพระวจนะ เราไม่ควรใช้สิ่งเหล่านี้แบบแข็งทื่อโดยขาดการไตร่ตรอง การสื่อสารที่ดีจะผสานความคิดสร้างสรรค์และความหลากหลายของรูปแบบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This &lt;t0/&gt;process is not for the faint of heart. It is hard work to study the Word of God. Yet the reward is great! Remember the psalmist’s words: “More to be desired are they &lt;t1/&gt;than&lt;t2/&gt; gold, even much fine gold; sweeter also than honey and the drippings of the honeycomb” (Psalm&lt;t3/&gt; &lt;t4/&gt;19:10)&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T102001Z" creationid="nathanwatkins" creationdate="20260406T102001Z">
+        <seg>กระบวนการนี้ไม่เหมาะสำหรับคนใจไม่สู้ การศึกษาพระวจนะเป็นงานหนัก  แต่รางวัลนั้นยิ่งใหญ่! จงจำถ้อยคำของผู้เขียนสดุดีว่า "น่าปรารถนามากกว่าทองคำ ยิ่งกว่าทองบริสุทธิ์มากนัก หวานยิ่งกว่านำ้ผึ้งที่หยดลงจากรวง" (สดุดี 19:10)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This &lt;t0/&gt;workbook and the principles found in it are key to that desire. Why? They are designed to help us understand and be transformed by the living Word of God and to bring that transformation to others. They are integral in developing leaders &lt;t1/&gt;who will train pastors to preach God’s Word with God’s heart&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101018Z" creationid="nathanwatkins" creationdate="20260406T101018Z">
+        <seg>คู่มือเวิร์กช็อปเล่มนี้และหลักการที่อยู่ในคู่มือเล่มนี้เป็นกุญแจสำคัญต่อวิสัยทัศน์นั้น ทำไม? เพราะแบบฝึกหัดเหล่านี้ถูกออกแบบมาเพื่อช่วยให้เราเข้าใจและรับการเปลี่ยนแปลงโดยพระวจนะที่มีชีวิตของพระเจ้า และนำการเปลี่ยนแปลงนั้นไปสู่ผู้อื่น สิ่งเหล่านี้เป็นส่วนสำคัญในการพัฒนาผู้นำที่จะฝึกอบรมผู้รับใช้ให้เทศนาพระวจนะของพระเจ้าด้วยพระทัยของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This chart shows how the principles are connected and lead to an expository sermon.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แผนผังนี้แสดงให้เห็นว่า หลักการต่าง ๆ มีความเชื่อมโยงกันอย่างไรและนำไปสู่การเทศนาแบบอรรถาธิบายอย่างไร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This skill is learned by listening to expository preaching as much as being instructed in it. For this reason&lt;t0/&gt;,&lt;t1/&gt; we will listen to an expository message from God’s Word</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093041Z" creationid="nathanwatkins" creationdate="20260406T093041Z">
+        <seg>ทักษะนี้ไม่ได้เรียนรู้จากการอบรมเพียงอย่างเดียว แต่ยังเรียนรู้จากการฟังคำเทศนาที่ดีได้ด้วย เราเรียนรู้การเทศนาเชิงอธิบายโดยซึมซับผ่านการฟังได้พอ ๆ กับเรียนรู้ผ่านการอบรม ด้วยเหตุนี้ เราจะฟังคำเทศนาแบบอรรถาธิบายจากพระวจนะของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This work is licensed under the Creative Commons Attribution-&lt;t0/&gt;ShareAlike&lt;t1/&gt; 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T090143Z" creationid="nathanwatkins" creationdate="20260406T090143Z">
+        <seg>หนังสือเล่มนี่คืองานที่ได้รับอนุญาตภายใต้สัญญาอนุญาต Creative Commons Attribution-ShareAlike 4.0 International License. หากต้องการดูสำเนาของสัญญาอนุญาตนี้ โปรดไปที่ http://creativecommons.org/licenses/by-sa/4.0/.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Those who share our convictions about the Word of God:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ผู้ที่มีความเชื่อมั่นร่วมกับเราเกี่ยวกับพระวจนะของพระเจ้า:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Three Parts to the Definition</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>องค์ประกอบ 3 ประการของคำจำกัดความ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Through this session we want to</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ในช่วงนี้ เราต้องการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Through this session, we want to</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ตลอดช่วงนี้ เราต้องการให้คุณ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Timing: We must work through the text, utilizing every principle in this booklet, before we can write the sermon.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เวลาและกระบวนการ: เราต้องศึกษาเนื้อหาของพระคัมภีร์อย่างรอบคอบโดยใช้หลักการทั้งหมดเล่มนี้ก่อนที่จะเริ่มลงมือเขียนคำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To go above the line and say more is to add to what God has said. This is the error of legalism.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การไปเกินกว่าเส้นหลักและพูดเกินกว่านั้น คือการเติมสิ่งที่พระเจ้าตรัสไว้ นี่คือความผิดพลาดของการถือกฎเคร่งครัด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To go below the line and say less is to subtract from what God has said. This is the error of liberalism and license.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การไปต่ำกว่าเส้นหลักและพูดน้อยกว่านั้น คือการตัดทอนสิ่งที่พระเจ้าตรัสไว้ นี่คือความผิดพลาดของลัทธิเสรีนิยมและการปล่อยเสรีภาพเกินขอบเขต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tone and mood</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>น้ำเสียงและอารมณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformation and multiplication</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเปลี่ยนแปลงและการทวีคูณ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformation and multiplication are part of our Core Training. Sustainability is the aim of our Advanced Training.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเปลี่ยนแปลงและการทวีคูณเป็นส่วนหนึ่งของการอบรมหลักของเรา ความยั่งยืนเป็นเป้าหมายของการอบรมขั้นสูงของเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformational intent</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traveling Instructions</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เส้นทางสู่การประยุกต์ใช้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Under the following terms:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T045658Z" creationid="OmegaT Aligner" creationdate="20260406T045658Z">
+        <seg>ภายใต้เงื่อนไขต่อไปนี้:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Units of thought</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หน่วยความคิด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Us today</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เราในวันนี้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use of language:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การใช้ภาษา:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We believe God’s Word gives life.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091758Z" creationid="nathanwatkins" creationdate="20260406T091758Z">
+        <seg>เรามีความเชื่อว่าพระวจนะของพระเจ้าให้ชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We look forward to our time with you and believe it will be rich. We are asking God to speak powerfully through &lt;t0/&gt;his&lt;t1/&gt; Word and continue to change our lives and ministries for &lt;t2/&gt;his&lt;t3/&gt; own glory.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T102041Z" creationid="nathanwatkins" creationdate="20260406T102041Z">
+        <seg>เรารอคอยเวลาที่จะได้ใช้เวลาร่วมกับคุณ และเชื่อว่าจะเป็นเวลาที่มีค่าเราทูลขอพระเจ้าให้ตรัสอย่างทรงพลังผ่านพระวจนะของพระองค์ และทรงเปลี่ยนแปลงชีวิตและพันธกิจของเราต่อไปเพื่อพระสิริของพระองค์เอง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093421Z" creationid="nathanwatkins" creationdate="20260406T093421Z">
+        <seg>ยินดีต้อนรับ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Welcome!</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ยินดีต้อนรับ!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What &lt;t0/&gt;W&lt;t1/&gt;ill &lt;t2/&gt;T&lt;t3/&gt;his &lt;t4/&gt;W&lt;t5/&gt;orkbook &lt;t6/&gt;D&lt;t7/&gt;o?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101225Z" creationid="nathanwatkins" creationdate="20260406T101225Z">
+        <seg>คู่มือเล่มนีจะทําอะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What We Believe</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งที่เราเชื่อ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What We Desire</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งที่เราปรารถนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What We Do</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งที่เราทำ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What does it capture from the text?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งที่คุณเขียนสะท้อนประเด็นหรือใจความอะไรจากเนื้อหาพระคัมภีร์นั้นๆ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What does it mean?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>มันหมายความว่าอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What does this mean?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หมายความว่าอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What existing frameworks (worldviews) does this challenge?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บทบาทดังกล่าวท้าทายกรอบแนวความคิด (โลกทัศน์) ใดของคุณและผู้ที่คุณดูแล?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What in the text led you to express it this way?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>อะไรในเนื้อหาพระคัมภีร์ทำให้คุณเขียนออกมาแบบนี้?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is expository preaching?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเทศนาแบบอรรถาธิบายคืออะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is expository preaching? Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101348Z" creationid="nathanwatkins" creationdate="20260406T101348Z">
+        <seg>การเทศนาแบบอรรถาธิบายคืออะไร? กล่าวง่ายๆ ว่า การเทศนาแบบอรรถาธิบายหมายถึงการที่ใจความของพระคัมภีร์ ซึ่งมีพลังในการเปลี่ยนแปลงชีวิต เป็นจุดศูนย์กลางของคำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What response is God seeking from the listener?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระเจ้าทรงแสวงหาการตอบสนองอะไรจากผู้ฟัง?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What was the author saying to the original audience?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ผู้เขียนกำลังพูดอะไรกับผู้ฟังในยุคนั้น?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When God’s living Word is faithfully proclaimed, its life goes deep and spreads wide. Our vision is&lt;t0/&gt; &lt;t1/&gt;“&lt;t2/&gt;to see the Word of God flow&lt;t3/&gt;ing&lt;t4/&gt; powerfully through every church to every nation&lt;t5/&gt;.&lt;t6/&gt;”</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101005Z" creationid="nathanwatkins" creationdate="20260406T101005Z">
+        <seg>เมื่อพระวจนะของพระเจ้าที่มีชีวิตถูกประกาศอย่างสัตย์ซื่อ ชีวิตนั้นหยั่งลึกและแผ่กว้าง วิสัยทัศน์ของ เวิร์ดพาร์ทเนอร์ WordPartners คือ "อยากเห็นพระวจนะของพระเจ้าไหลไปอย่างทรงพลังผ่านทุกคริสตจักรสู่ทุกชนชาติ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>When we go the long route through the original context,</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แต่เมื่อเราเลือกเดินทางผ่านบริบทดั้งเดิม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who Should Be&lt;t0/&gt; Here?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T090411Z" creationid="nathanwatkins" creationdate="20260406T090411Z">
+        <seg>ใครควรมาอยู่ที่นี่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why &lt;t0/&gt;T&lt;t1/&gt;his &lt;t2/&gt;W&lt;t3/&gt;orkbook?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091749Z" creationid="nathanwatkins" creationdate="20260406T091749Z">
+        <seg>คู่มือเล่มนี้มีประโยชน์อะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why Are We Here?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำไมเราจึงมาที่นี่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why Study through Books of the Bible?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำไมจึงศึกษาผ่านพระธรรมต่างๆ ในพระคัมภีร์ ทีละเล่ม?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why This Approach?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำไมเราจึงใช้แนวทางนี้?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is it here?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เหตุใดจึงมีข้อความพระคัมภีร์ตอนนี้อยู่ที่นี่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is this important?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เรื่องนี้สำคัญอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why study this book? What unique contribution does it make to the whole of the Bible? In other words, what would we miss if we did not have this book? What do we gain because we do have it?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระธรรมเล่มนี้มีส่วนช่วยอะไรเป็นพิเศษต่อพระคัมภีร์ทั้งเล่ม? กล่าวอีกนัยหนึ่ง ถ้าไม่มีพระธรรมเล่มนี้ เราจะพลาดอะไรไปบ้าง? และถ้าเรามีพระธรรมเล่มนี้ เราจะได้รับอะไรมากขึ้น?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why study this book? Why was it written?</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำไมจึงศึกษาพระธรรมเล่มนี้? ทำไมจึงเขียนขึ้น?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wisdom</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ปัญญา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WordPartners Training</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การฝึกอบรมขององค์กรเวิร์ดพาร์ทเนอร์ (WordPartners)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Work to understand our frameworks.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พยายามทำความเข้าใจกรอบแนวความคิดของเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workshops</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เวิร์กช็อป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Write your introduction and conclusion last. The introduction opens the door to the main idea and transformational intent, and the conclusion provides a summary and final challenge.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เขียนคำนำและบทสรุปเป็นลำดับสุดท้าย โดยที่คำนำควรเป็นการเปิดประตูเข้าสู่ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง ส่วนบทสรุปควรเป็นการสรุปเนื้อหาและคำท้าทายผู้ฟังเป็นครั้งสุดท้าย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You &lt;t0/&gt;are holding a workbook that will enrich your learning from the workshop on the book of &lt;t1/&gt;Genesis&lt;t2/&gt;. It is one of many workshops taught by WordPartners as we seek to &lt;t3/&gt;elevate God’s life-giving Word in the hearts, lives, and ministries of pastors and their people&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091730Z" creationid="nathanwatkins" creationdate="20260406T091730Z">
+        <seg>คุณกำลังถือคู่มือเวิร์กช็อปที่จะช่วยเสริมการเรียนรู้ของคุณจากเวิร์กช็อปในพระธรรมปฐมกาลนี่เป็นหนึ่งในหลายเวิร์กช็อปที่เวิร์ดพาร์ทเนอร์สอน ในขณะที่ เวิร์ดพาร์ทเนอร์พยายามยกระดับพระวจนะที่ให้ชีวิตของพระเจ้าลงไปในใจ ในชีวิต และในการทำงานของผู้รับใช้และสมาชิกในคริสตจักรของพวกเขา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You are free to:</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T090302Z" creationid="nathanwatkins" creationdate="20260406T090302Z">
+        <seg>คุณสามารถที่จะ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You will get the most out of this workbook by using it</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คุณจะได้รับประโยชน์สูงสุดจากคู่มือเวิร์กช็อปเล่มนี้โดยการใช้มัน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>You:</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>คุณ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and drippings of the honeycomb.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ที่หยดลงจากรวง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>and righteous altogether.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>และชอบธรรมทั้งสิ้น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>be transformed by God’s Word&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101233Z" creationid="nathanwatkins" creationdate="20260406T101233Z">
+        <seg>รับการเปลี่ยนแปลงโดยพระวจนะของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>become better readers of God’s Word&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101231Z" creationid="nathanwatkins" creationdate="20260406T101231Z">
+        <seg>เป็นผู้อ่านพระวจนะของพระเจ้าได้เข้าใจมากขึ้น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>build your skill to read, understand&lt;t0/&gt;,&lt;t1/&gt; and proclaim the text for the transformation God desires&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101749Z" creationid="nathanwatkins" creationdate="20260406T101749Z">
+        <seg>พัฒนาทักษะของคุณในการอ่าน เข้าใจ และประกาศข้อพระคัมภีร์ เพื่อนำไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงปรารถนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>but by every word that comes from the mouth of God.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แต่ต้องดำรงชีวิตด้วยพระวจนะทุกคำซึ่งออกมาจากพระโอษฐ์ของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>enduring forever;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ถาวรเป็นนิตย์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>enlightening the eyes;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำให้ดวงตากระจ่างแจ้ง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>even much fine gold;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ยิ่งกว่าทองบริสุทธิ์มากนัก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>grow in confidence and skill &lt;t0/&gt;in proclaiming &lt;t1/&gt;God’s Word&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101240Z" creationid="nathanwatkins" creationdate="20260406T101240Z">
+        <seg>เติบโตในความมั่นใจและทักษะในการเทศนาพระวจนะของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>help you pass on the learning to others.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ช่วยให้คุณถ่ายทอดการเรียนรู้นั้นต่อไปยังผู้อื่นได้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>in keeping them there is great reward&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100946Z" creationid="nathanwatkins" creationdate="20260406T100946Z">
+        <seg>การรักษาข้อความเหล่านั้นก็ได้บำเหน็จยิ่งใหญ่</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>interact with the text through good questions&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101547Z" creationid="nathanwatkins" creationdate="20260406T101547Z">
+        <seg>มีปฏิสัมพันธ์กับข้อพระคัมภีร์ผ่านคำถามที่ดี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>learn &lt;t0/&gt;through&lt;t1/&gt; conversation with others&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101743Z" creationid="nathanwatkins" creationdate="20260406T101743Z">
+        <seg>เรียนรู้ผ่านการสนทนากับผู้อื่น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>making wise the simple;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำให้คนรู้น้อยมีปัญญา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>rejoicing the heart;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำให้ใจยินดี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>reviving the soul;</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ฟื้นฟูชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>shepherd others with the transformation God is seeking.</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป็นผู้เลี้ยงดูผู้อื่นเพื่อนำไปสู่การเปลี่ยนแปลงชีวิตที่พระเจ้าต้องการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>sweeter also than honey</seg>
+      </tuv>
+      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หวานยิ่งกว่าน้ำผึ้ง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the commandment of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;is pure,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100904Z" creationid="nathanwatkins" creationdate="20260406T100904Z">
+        <seg>พระบัญญัติของพระยาห์เวห์นั้นบริสุทธิ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the fear of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;is clean,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100916Z" creationid="nathanwatkins" creationdate="20260406T100916Z">
+        <seg>ความยำเกรงพระยาห์เวห์นั้นสะอาดหมดจด</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the precepts of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;are right,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100851Z" creationid="nathanwatkins" creationdate="20260406T100851Z">
+        <seg>ข้อบังคับของพระยาห์เวห์นั้นถูกต้อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the rules of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;are true,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100922Z" creationid="nathanwatkins" creationdate="20260406T100922Z">
+        <seg>กฏหมายของพระยาห์เวห์ก็สัตย์จริง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>the testimony of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;is sure,</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T092550Z" creationid="nathanwatkins" creationdate="20260406T092550Z">
+        <seg>พระโอวาทของพระยาห์เวห์นั้นแน่นอน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>use a learning methodology of “see, learn&lt;t0/&gt;,&lt;t1/&gt; and practice&lt;t2/&gt;.”</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101534Z" creationid="nathanwatkins" creationdate="20260406T101534Z">
+        <seg>ใช้วิธีการเรียนรู้แบบ "ดู เรียนรู้ และฝึกปฏิบัติ"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>work through a book of the Bible&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101515Z" creationid="nathanwatkins" creationdate="20260406T101515Z">
+        <seg>ศึกษาพระธรรมหนึ่งเล่มในพระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>– Matthew 4:4&lt;t0/&gt;b</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091826Z" creationid="nathanwatkins" creationdate="20260406T091826Z">
+        <seg>มัทธิว 4:4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>– Psalm 19:7-1&lt;t0/&gt;1</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100949Z" creationid="nathanwatkins" creationdate="20260406T100949Z">
+        <seg>สดุดี 19:7-11</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
