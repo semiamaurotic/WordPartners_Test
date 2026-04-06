@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130028Z" creationid="nathanwatkins" creationdate="20260406T130028Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1. Key Theme</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -30,10 +38,42 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130048Z" creationid="nathanwatkins" creationdate="20260406T130048Z">
+        <seg>2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2. Existing Frameworks</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>2. กรอบแนวความคิดที่มีอยู่เดิม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130105Z" creationid="nathanwatkins" creationdate="20260406T130105Z">
+        <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>4.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130112Z" creationid="nathanwatkins" creationdate="20260406T130112Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>5.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130118Z" creationid="nathanwatkins" creationdate="20260406T130118Z">
+        <seg>5.</seg>
       </tuv>
     </tu>
     <tu>
@@ -222,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Capacity</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130115Z" creationid="nathanwatkins" creationdate="20260406T130115Z">
+        <seg>ศักยภาพ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Character</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130018Z" creationid="nathanwatkins" creationdate="20260406T125924Z">
+        <seg>ลักษณะนิสัย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Church:</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -234,6 +290,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>ระบุใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงให้ชัดเจน พระเจ้าทรงประสงค์จะกระทำสิ่งใดในชีวิตของผู้ฟัง? คำตอบของคำถามนี้ควรเป็นสิ่งที่ชี้นำคำเทศนาตั้งแต่ต้นจนจบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Competence</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130109Z" creationid="nathanwatkins" creationdate="20260406T130109Z">
+        <seg>ความสามารถ</seg>
       </tuv>
     </tu>
     <tu>
@@ -270,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Conviction</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130102Z" creationid="nathanwatkins" creationdate="20260406T130102Z">
+        <seg>ความเชื่อมั่น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Core Training: Multiplication (Years 3 &amp; 4)</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -282,6 +354,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การอบรมหลัก: การเปลี่ยนแปลง (ปีที่ 1 และ 2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Courage</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130122Z" creationid="nathanwatkins" creationdate="20260406T130122Z">
+        <seg>ความกล้าหาญ</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +490,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>จดหมายฝาก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Equip leaders to carry forward a sustainable multiplication strategy that trains pastors to preach God’s Word with God’s heart</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T125847Z" creationid="nathanwatkins" creationdate="20260406T125847Z">
+        <seg>เสริมสร้างผู้นำให้สานต่อยุทธศาสตร์การทวีคูณที่ยั่งยืน โดยการฝึกอบรมผู้รับใช้ให้เทศนาพระวจนะของพระเจ้าด้วยพระทัยของพระเจ้า</seg>
       </tuv>
     </tu>
     <tu>
@@ -1882,6 +1970,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>บทบาทดังกล่าวท้าทายกรอบแนวความคิด (โลกทัศน์) ใดของคุณและผู้ที่คุณดูแล?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What if every country in the world had teams of pastors devoted to training others to preach God’s life-giving &lt;t0/&gt;Word&lt;t1/&gt; in, &lt;t2/&gt;through&lt;t3/&gt;, and beyond the local church?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T125859Z" creationid="nathanwatkins" creationdate="20260406T125859Z">
+        <seg>จะเป็นอย่างไรถ้าทุกประเทศในโลกมีทีมของผู้รับใช้ที่ทุ่มเทในการฝึกอบรมผู้อื่นให้เทศนาพระวจนะที่ให้ชีวิตของพระเจ้าทั้งในคริสตจักรท้องถิ่น ผ่านคริสตจักรท้องถิ่น และนอกเหนือจากคริสตจักรท้องถิ่น?</seg>
       </tuv>
     </tu>
     <tu>
