@@ -1,2 +1,5 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 Biblical Theology	ศาสนศาสตร์พระคัมภีร์
+genre	ประเภทวรรณกรรม
+structure	โครงสร้าง
+principle	หลักการ
