@@ -12,3 +12,5 @@ Study to Sermon	จากการศึกษาสู่คำเทศนา
 Text and Framework	เนื้อหาและกรอบแนวความคิด
 Traveling Instructions	เส้นทางสู่การประยุกต์ใช้
 Pre-Assignment	งานมอบหมายล่วงหน้า
+expository sermon	คำเทศนาแบบอรรถาธิบาย
+expository preaching	การเทศนาแบบอรรถาธิบาย
