@@ -1982,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Translated by &lt;t0/&gt;[Translator, please replace this red text with your name&lt;t1/&gt;.&lt;t2/&gt;]</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103149Z" creationid="nathanwatkins" creationdate="20260407T103149Z">
+        <seg>แปลโดย&lt;t0/&gt;[โปรดแทนที่ข้อความสีแดงนี้ด้วยชื่อของคุณ]&lt;t1/&gt;.&lt;t2/&gt;]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Traveling Instructions</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
