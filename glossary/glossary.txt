@@ -3,3 +3,8 @@ Biblical Theology	ศาสนศาสตร์พระคัมภีร์
 genre	ประเภทวรรณกรรม
 structure	โครงสร้าง
 principle	หลักการ
+Dig & Discover	ขุดค้นและค้นพบ
+Transformational Intent	เจตนาสู่การเปลี่ยนแปลง
+Main Idea	ใจความสำคัญ
+Session	เซสชั่น
+Genre	ประเภทวรรณกรรม
