@@ -1246,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Palos Heights, IL 60463</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260407T082449Z" creationid="Angkana Laksa" creationdate="20260407T082449Z">
+        <seg>Palos Heights, IL 60463</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Part&lt;t0/&gt;nership</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130507Z" creationid="nathanwatkins" creationdate="20260406T130507Z">
@@ -1990,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>United States of America</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260407T082452Z" creationid="Angkana Laksa" creationdate="20260407T082452Z">
+        <seg>United States of America</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Units of thought</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2274,6 +2290,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การฝึกอบรมขององค์กรเวิร์ดพาร์ทเนอร์ (WordPartners)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>WordPartners, &lt;t0/&gt;2024</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260407T082514Z" creationid="Angkana Laksa" creationdate="20260407T082514Z">
+        <seg>WordPartners, &lt;t0/&gt;2024</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2634,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101515Z" creationid="nathanwatkins" creationdate="20260406T101515Z">
         <seg>ศึกษาพระธรรมหนึ่งเล่มในพระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>www.wordpartners.org</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260407T082455Z" creationid="Angkana Laksa" creationdate="20260407T082455Z">
+        <seg>www.wordpartners.org</seg>
       </tuv>
     </tu>
     <tu>
