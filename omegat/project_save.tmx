@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en-US">
+        <seg>.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103345Z" creationid="nathanwatkins" creationdate="20260407T103345Z">
+        <seg>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>1 &amp; 2 Samuel</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>1. ธีมสำคัญ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>100</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103342Z" creationid="nathanwatkins" creationdate="20260407T103342Z">
+        <seg>100</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +78,34 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>21</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103255Z" creationid="nathanwatkins" creationdate="20260407T103255Z">
+        <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>3.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130105Z" creationid="nathanwatkins" creationdate="20260406T130105Z">
         <seg>3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>33</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103300Z" creationid="nathanwatkins" creationdate="20260407T103300Z">
+        <seg>33</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>39</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103302Z" creationid="nathanwatkins" creationdate="20260407T103302Z">
+        <seg>39</seg>
       </tuv>
     </tu>
     <tu>
@@ -78,6 +118,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>41</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103304Z" creationid="nathanwatkins" creationdate="20260407T103304Z">
+        <seg>41</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>47</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103307Z" creationid="nathanwatkins" creationdate="20260407T103307Z">
+        <seg>47</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>5.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130118Z" creationid="nathanwatkins" creationdate="20260406T130118Z">
@@ -86,10 +142,106 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>51</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103312Z" creationid="nathanwatkins" creationdate="20260407T103312Z">
+        <seg>51</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>55</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091330Z" creationid="nathanwatkins" creationdate="20260406T091330Z">
         <seg>ความช่วยเหลือเพิ่มเติม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>57</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103315Z" creationid="nathanwatkins" creationdate="20260407T103315Z">
+        <seg>57</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>63</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103317Z" creationid="nathanwatkins" creationdate="20260407T103317Z">
+        <seg>63</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>67</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103320Z" creationid="nathanwatkins" creationdate="20260407T103320Z">
+        <seg>67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>71</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103322Z" creationid="nathanwatkins" creationdate="20260407T103322Z">
+        <seg>71</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>75</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103325Z" creationid="nathanwatkins" creationdate="20260407T103325Z">
+        <seg>75</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>83</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103327Z" creationid="nathanwatkins" creationdate="20260407T103327Z">
+        <seg>83</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>91</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103329Z" creationid="nathanwatkins" creationdate="20260407T103329Z">
+        <seg>91</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>93</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103333Z" creationid="nathanwatkins" creationdate="20260407T103333Z">
+        <seg>93</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>96</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103335Z" creationid="nathanwatkins" creationdate="20260407T103335Z">
+        <seg>96</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>98</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103337Z" creationid="nathanwatkins" creationdate="20260407T103337Z">
+        <seg>98</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>99</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103339Z" creationid="nathanwatkins" creationdate="20260407T103339Z">
+        <seg>99</seg>
       </tuv>
     </tu>
     <tu>
@@ -498,6 +650,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101925Z" creationid="nathanwatkins" creationdate="20260406T101925Z">
         <seg>ระหว่างเวิร์กช็อป เพื่อให้คุณจดบันทึกสิ่งที่เรียนรู้และจัดระเบียบตามหลักการ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E&lt;t0/&gt;dition&lt;t1/&gt; 5.0 –&lt;t2/&gt; &lt;t3/&gt;[Translator, please replace this red text with the name of&lt;t4/&gt; the&lt;t5/&gt; language you are translating this material into]</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103204Z" creationid="nathanwatkins" creationdate="20260407T103204Z">
+        <seg>อี&lt;t0/&gt;ฉบับ&lt;t1/&gt; 5.0 –&lt;t2/&gt;&lt;t3/&gt;[โปรดแทนที่ข้อความสีแดงนี้ด้วยชื่อของนักแปล]&lt;t4/&gt; ที่&lt;t5/&gt; [ภาษาที่คุณกำลังแปลเนื้อหานี้]</seg>
       </tuv>
     </tu>
     <tu>
