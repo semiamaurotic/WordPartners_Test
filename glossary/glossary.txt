@@ -14,3 +14,45 @@ Traveling Instructions	เส้นทางสู่การประยุก
 Pre-Assignment	งานมอบหมายล่วงหน้า
 expository sermon	คำเทศนาแบบอรรถาธิบาย
 expository preaching	การเทศนาแบบอรรถาธิบาย
+Word of God	พระวจนะของพระเจ้า
+The Line	เส้นหลัก
+Framework	กรอบแนวความคิด
+Transformation	การเปลี่ยนแปลง
+Structure	โครงสร้าง
+Application	การประยุกต์ใช้
+Covenant	พันธสัญญา
+Genre	ประเภทวรรณกรรม
+New Covenant	พันธสัญญาใหม่
+Shepherd	อภิบาล
+Epistle	จดหมาย
+Preaching	การเทศนาพระวจนะ
+The Line (heading)	เส้นหลักของพระวจนะ
+Main Highways	ทางหลวงสายหลัก
+Tone and Mood	น้ำเสียงและอารมณ์
+Gospel	พระกิตติคุณ
+Old Covenant	พันธสัญญาเดิม
+Law	ธรรมบัญญัติ
+Apocalyptic	วิวรณ์
+Prophecy	คำพยากรณ์
+Grace	พระคุณ
+Poetry	บทกวี
+Wisdom	ปัญญา
+Bull’s-eye (Target)	ภาพเปรียบเทียบ
+Author’s Intent	เจตนาของผู้เขียน
+Legalism	ลัทธินิติธรรม
+License	การใช้เสรีภาพเกินขอบเขต
+Original Context	บริบทดั้งเดิม
+Units of Thought	หน่วยความคิด
+Parable	อุปมา
+Historical Narrative	เรื่องราวทางประวัติศาสตร์
+Biblical Narrative	เรื่องราวในพระคัมภีร์
+Wisdom Literature	วรรณกรรมแห่งปัญญา
+Biblical Context	บริบทพระคัมภีร์
+Prophet	ผู้พยากรณ์
+Apocalyptic Literature	วรรณกรรมวิวรณ์
+Holy Spirit	พระวิญญาณบริสุทธิ์
+Observation	การสังเกต
+Biblical Context	บริบทเดิมตามพระคัมภีร์
+Literary Connections	การเชื่อมโยงทางวรรณกรรม
+Basic Questions	คำถามพื้นฐาน
+Powerful Questions	คำถามทรงพลัง
