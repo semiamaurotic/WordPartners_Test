@@ -39,7 +39,6 @@ Poetry	บทกวี
 Wisdom	ปัญญา
 Bull’s-eye (Target)	ภาพเปรียบเทียบ
 Author’s Intent	เจตนาของผู้เขียน
-Legalism	ลัทธินิติธรรม
 License	การใช้เสรีภาพเกินขอบเขต
 Original Context	บริบทดั้งเดิม
 Units of Thought	หน่วยความคิด
@@ -56,3 +55,5 @@ Biblical Context	บริบทเดิมตามพระคัมภีร
 Literary Connections	การเชื่อมโยงทางวรรณกรรม
 Basic Questions	คำถามพื้นฐาน
 Powerful Questions	คำถามทรงพลัง
+Legalism	การยึดกฎเกณฑ์
+Liberalism	ลัทธิเสรีนยิม
