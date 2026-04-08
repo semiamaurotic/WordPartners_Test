@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Deuteronomy 29:1–34:12</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T073206Z" creationid="Angkana Laksa" creationdate="20260408T073206Z">
+        <seg>เฉลยธรรมบัญญัติ 29:1–34:12</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Developing skills to study,</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1026,6 +1034,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>ฮาบากุก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hebrews 11:1-40</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T073215Z" creationid="Angkana Laksa" creationdate="20260408T073215Z">
+        <seg>ฮีบรู 11:1-40</seg>
       </tuv>
     </tu>
     <tu>
