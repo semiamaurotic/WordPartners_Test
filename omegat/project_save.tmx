@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Explain the principle of Good Questions using these illustrations:</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T070954Z" creationid="Angkana Laksa" creationdate="20260408T070954Z">
+        <seg>อธิบายหลักการเรื่องการตั้งคำถามที่ดีโดยใช้ภาพประกอบเหล่านี้:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Explanations and applications of Jesus' work that empower us in the New Covenant</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2635,6 +2643,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เรื่องนี้สำคัญอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Why is this principle important for preaching&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T070854Z" creationid="Angkana Laksa" creationdate="20260408T070854Z">
+        <seg>ทำไมหลักการนี้จึงมีความสำคัญต่อการเทศนาพระวจนะ&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
