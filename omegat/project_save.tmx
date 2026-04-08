@@ -2543,6 +2543,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is the setting?</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072130Z" creationid="Angkana Laksa" creationdate="20260408T072130Z">
+        <seg>เนื้อเรื่องคืออะไร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What response is God seeking from the listener?</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
