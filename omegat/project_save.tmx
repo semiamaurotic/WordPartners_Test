@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does the story begin and end? How does the story unfold?</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072231Z" creationid="Angkana Laksa" creationdate="20260408T072231Z">
+        <seg>เรื่องราวเริ่มต้นและจบลงอย่างไร และดำเนินไปอย่างไร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does this shape the way we shepherd people?</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2543,6 +2551,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is the main tension or conflict in the story?</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072259Z" creationid="Angkana Laksa" creationdate="20260408T072259Z">
+        <seg>ปมขัดแย้งหรือความตึงเครียดหลักในเรื่องนี้คืออะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is the setting?</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072130Z" creationid="Angkana Laksa" creationdate="20260408T072130Z">
@@ -2579,6 +2595,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>แต่เมื่อเราเลือกเดินทางผ่านบริบทดั้งเดิม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where is the climax of the book? How do you know?</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072716Z" creationid="Angkana Laksa" creationdate="20260408T072716Z">
+        <seg>จุดไคลแมกซ์ของพระธรรมเล่มนี้อยู่ตรงไหน? คุณรู้ได้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
