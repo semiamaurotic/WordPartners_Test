@@ -2943,6 +2943,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>know why these principles are important&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T074640Z" creationid="Angkana Laksa" creationdate="20260408T074640Z">
+        <seg>เข้าใจว่าทำไมหลักการเหล่านี้จึงสำคัญ&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>learn &lt;t0/&gt;through&lt;t1/&gt; conversation with others&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101743Z" creationid="nathanwatkins" creationdate="20260406T101743Z">
