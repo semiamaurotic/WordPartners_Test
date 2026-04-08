@@ -2559,6 +2559,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Who are the main characters in the book?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T041344Z" creationid="nathanwatkins" creationdate="20260408T041344Z">
+        <seg>ตัวละครหลักในพระธรรมเล่มนี้มีใครบ้าง?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Why &lt;t0/&gt;T&lt;t1/&gt;his &lt;t2/&gt;W&lt;t3/&gt;orkbook?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091749Z" creationid="nathanwatkins" creationdate="20260406T091749Z">
