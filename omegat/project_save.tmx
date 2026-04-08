@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Published by</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T022706Z" creationid="nathanwatkins" creationdate="20260408T022706Z">
+        <seg>จัดพิมพ์โดย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Putting the Sermon Together</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1858,6 +1866,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095333Z" creationid="nathanwatkins" creationdate="20260406T095333Z">
         <seg>เซสชั่นที่ 9: ปฏิบัติ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session&lt;t0/&gt; 10</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T022559Z" creationid="nathanwatkins" creationdate="20260408T022559Z">
+        <seg>เซสชั่นที่ 10</seg>
       </tuv>
     </tu>
     <tu>
