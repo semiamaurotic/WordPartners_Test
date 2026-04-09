@@ -2807,18 +2807,17 @@
       <tuv lang="en-US">
         <seg>Now take a moment and describe each unit of thought using a few key words.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164142Z" creationid="nathanwatkins" creationdate="20260409T164142Z">
-        <seg>(MT) {"translation": "ใช้เวลาสักครู่เพื่อสรุปใจความสำคัญของแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ"}
-กี่คำ"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174954Z" creationid="nathanwatkins" creationdate="20260409T164142Z">
+        <seg>(MT) ใช้เวลาสักครู่เพื่อสรุปใจความสำคัญของแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Now take a moment and describe each unit of thought using a few key words. Next, try to summarize the whole story in one sentence.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163628Z" creationid="nathanwatkins" creationdate="20260409T163628Z">
-        <seg>(MT) {"translation": "ตอนนี้ ให้คุณใช้เวลาสักครู่บรรยายแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ จากนั้นลองสรุปเรื่องราวทั้งหมดให้เหลือเพียงประโยคเดียว"}
-ค่เพียงประโยคเดียว"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174834Z" creationid="nathanwatkins" creationdate="20260409T163628Z">
+        <seg>(MT) ตอนนี้ ให้คุณใช้เวลาสักครู่บรรยายแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ จากนั้นลองสรุปเรื่องราวทั้งหมดให้เหลือเพียงประโยคเดียว"}
+ค่เพียงประโยคเดียว</seg>
       </tuv>
     </tu>
     <tu>
@@ -4471,9 +4470,8 @@
       <tuv lang="en-US">
         <seg>This session is about two principles – Genre and Structure – and the way they uniquely work together in a passage of Genesis that includes a genealogy&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163926Z" creationid="nathanwatkins" creationdate="20260409T163926Z">
-        <seg>(MT) {"translation": "บทเรียนนี้เกี่ยวกับหลักการสองประการ คือ ประเภทวรรณกรรมและโครงสร้าง รวมถึงวิธีที่หลักการทั้งสองทำงานสอดประสานกันอย่างมีเอกลักษณ์ในพระธรรมปฐมกาลตอนหนึ่งที่มีลำดับพงศ์พันธุ์รวมอยู่ด้วย&lt;t0/&gt;"}
-"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174854Z" creationid="nathanwatkins" creationdate="20260409T163926Z">
+        <seg>(MT) บทเรียนนี้เกี่ยวกับหลักการสองประการ คือ ประเภทวรรณกรรมและโครงสร้าง รวมถึงวิธีที่หลักการทั้งสองทำงานสอดประสานกันอย่างมีเอกลักษณ์ในพระธรรมปฐมกาลตอนหนึ่งที่มีลำดับพงศ์พันธุ์รวมอยู่ด้วย&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4897,9 +4895,8 @@
       <tuv lang="en-US">
         <seg>W&lt;t0/&gt;e will make precise and compelling applications, shaped by the author’s transformational intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163104Z" creationid="nathanwatkins" creationdate="20260409T163104Z">
-        <seg>(MT) {"translation": "เร&lt;t0/&gt;าจะประยุกต์ใช้อย่างแม่นยำและมีพลัง โดยให้เจตนารมณ์ในการเปลี่ยนแปลงชีวิตของผู้เขียนเป็นตัวกำหนดทิศทาง"}
-"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174752Z" creationid="nathanwatkins" creationdate="20260409T163104Z">
+        <seg>(MT) เร&lt;t0/&gt;าจะประยุกต์ใช้อย่างแม่นยำและมีพลัง โดยให้เจตนารมณ์ในการเปลี่ยนแปลงชีวิตของผู้เขียนเป็นตัวกำหนดทิศทาง</seg>
       </tuv>
     </tu>
     <tu>
@@ -6196,10 +6193,8 @@ t0/&gt;?”"}</seg>
       <tuv lang="en-US">
         <seg>see why this understanding and the practice of these principles is important for preaching Genesis&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164019Z" creationid="nathanwatkins" creationdate="20260409T164019Z">
-        <seg>(MT) {"translation": "เพื่อให้เห็นว่าเหตุใดความเข้าใจในเรื่องนี้และการนำหลักการเหล่านี้ไปใช้ จึงมีความสำคัญต่อการเทศนาพระธรรมปฐมกาล&lt;t0/&gt;"}
-"}
-/&gt;"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174922Z" creationid="nathanwatkins" creationdate="20260409T164019Z">
+        <seg>(MT) เพื่อให้เห็นว่าเหตุใดความเข้าใจในเรื่องนี้และการนำหลักการเหล่านี้ไปใช้ จึงมีความสำคัญต่อการเทศนาพระธรรมปฐมกาล&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6318,9 +6313,8 @@ t0/&gt;?”"}</seg>
       <tuv lang="en-US">
         <seg>understand the significance and function of genealogies in Genesis&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164018Z" creationid="nathanwatkins" creationdate="20260409T164018Z">
-        <seg>(MT) {"translation": "เข้าใจความสำคัญและหน้าที่ของลำดับพงศ์พันธุ์ในพระธรรมปฐมกาล&lt;t0/&gt;"}
-t0/"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174910Z" creationid="nathanwatkins" creationdate="20260409T164018Z">
+        <seg>(MT) เข้าใจความสำคัญและหน้าที่ของลำดับพงศ์พันธุ์ในพระธรรมปฐมกาล&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
