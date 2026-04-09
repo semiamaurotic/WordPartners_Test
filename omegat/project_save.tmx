@@ -519,6 +519,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Based on original material © The Proclamation Trust with kind permission. www.proctrust.org.uk</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171708Z" creationid="nathanwatkins" creationdate="20260409T171708Z">
+        <seg>(MT) เรียบเรียงจากเนื้อหาต้นฉบับ © The Proclamation Trust โดยได้รับอนุญาตอย่างเป็นทางการ www.proctrust.org.uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Based on original material © The Proclamation Trust with kind permission. www.proctrust.org.uk.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171648Z" creationid="nathanwatkins" creationdate="20260409T171648Z">
+        <seg>(MT) เรียบเรียงจากเนื้อหาต้นฉบับของ © The Proclamation Trust โดยได้รับความกรุณาอนุญาต www.proctrust.org.uk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before answering the questions below, you will want to review the explanation of Structure in Sessions 1, 4, 6, and 7. Please also review the discussions on &lt;t0/&gt;g&lt;t1/&gt;enealogies, &lt;t2/&gt;l&lt;t3/&gt;aw, and Tone &amp; Mood in Session 1.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170406Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
@@ -1177,6 +1193,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Exodus 34:27-33; Deuteronomy 29:29; 31:9-13; &lt;t0/&gt;2 &lt;t1/&gt;Timothy 3:16-17; 2 Peter 1:16-21.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171642Z" creationid="nathanwatkins" creationdate="20260409T171642Z">
+        <seg>(MT) อพยพ 34:27-33; เฉลยธรรมบัญญัติ 29:29; 31:9-13; &lt;t0/&gt;2&lt;t1/&gt;ทิโมธี 3:16-17; 2 เปโตร 1:16-21.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exodus 4:10-16; &lt;t0/&gt;Deuteronomy 4:1-2; &lt;t1/&gt;1 Samuel 3:1-21; Joshua 1:7-8; 2 Timothy 2:14-19; 4:1-8; Revelation 22:18-19.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171715Z" creationid="nathanwatkins" creationdate="20260409T171715Z">
+        <seg>(MT) อพยพ 4:10-16; &lt;t0/&gt;เฉลยธรรมบัญญัติ 4:1-2; &lt;t1/&gt;1 ซามูเอล 3:1-21; โยชูวา 1:7-8; 2 ทิโมธี 2:14-19; 4:1-8; วิวรณ์ 22:18-19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Expectations</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1349,6 +1381,22 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170134Z" creationid="nathanwatkins" creationdate="20260409T170134Z">
         <seg>(MT) ปฐมกาล 11:27–12:20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis 1:1-3; Deuteronomy 32:45-47; Ezekiel 36:1-38; John 3:1-17; Acts 1:8; Acts 2:1-48; 2 Corinthians 3:1-18; 2 Peter 1:21.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171726Z" creationid="nathanwatkins" creationdate="20260409T171726Z">
+        <seg>(MT) ปฐมกาล 1:1-3; เฉลยธรรมบัญญัติ 32:45-47; เอเสเคียล 36:1-38; ยอห์น 3:1-17; กิจการ 1:8; กิจการ 2:1-48; 2 โครินธ์ 3:1-18; 2 เปโตร 1:21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis 1:1–2:3; Psalm 19:7-11; Isaiah 55:9-11; John 1:1-5.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171654Z" creationid="nathanwatkins" creationdate="20260409T171654Z">
+        <seg>(MT) ปฐมกาล 1:1–2:3; สดุดี 19:7-11; อิสยาห์ 55:9-11; ยอห์น 1:1-5</seg>
       </tuv>
     </tu>
     <tu>
@@ -1604,10 +1652,36 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Hebrews 11:1-22 (or to 12:3)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171612Z" creationid="nathanwatkins" creationdate="20260409T171612Z">
+        <seg>(MT) ฮีบรู 11:1-22 (หรือจนถึง 12:3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hebrews 11:1-3</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171607Z" creationid="nathanwatkins" creationdate="20260409T171607Z">
+        <seg>(MT) ฮีบรู 11:1-3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Hebrews 11:1-40</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T073215Z" creationid="Angkana Laksa" creationdate="20260408T073215Z">
         <seg>ฮีบรู 11:1-40</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Hebrews 11:1-6</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171619Z" creationid="nathanwatkins" creationdate="20260409T171619Z">
+        <seg>(MT) ฮีบรู 11:1-6
+
+1 ความเชื่อคือความมั่นใจในสิ่งที่หวังไว้ และเป็นความแน่ใจในสิ่งที่มองไม่เห็น 2 เพราะด้วยความเชื่อนี้เอง บรรพบุรุษจึงได้รับการรับรองจากพระเจ้า 3 โดยความเชื่อ เราจึงเข้าใจว่าพระเจ้าทรงสร้างจักรวาลด้วยพระดำรัสของพระองค์ ดังนั้น สิ่งที่มองเห็นได้จึงไม่ได้ถูกสร้างขึ้นจากสิ่งที่ปรากฏให้เห็น 4 โดยความเชื่อ อาเบลจึงนำเครื่องบูชาที่ประเสริฐกว่าของคาอินมาถวายแด่พระเจ้า และโดยความเชื่อนั้นเอง ท่านจึงได้รับการรับรองว่าเป็นคนชอบธรรม เพราะพระเจ้าทรงรับรองของถวายของท่าน และแม้ท่านจะตายไปแล้ว ท่านก็ยังพูดผ่านทางความเชื่อนั้น 5 โดยความเชื่อ เอโนคจึงถูกรับขึ้นไปเพื่อไม่ให้ท่านต้องพบกับความตาย ไม่มีใครพบท่านอีกเพราะพระเจ้าทรงรับท่านไปแล้ว ก่อนที่ท่านจะถูกรับขึ้นไปนั้น ท่านได้รับการรับรองว่าเป็นที่พอพระทัยของพระเจ้า 6 และหากปราศจากความเชื่อแล้ว ก็เป็นไปไม่ได้เลยที่จะเป็นที่พอพระทัยของพระเจ้า เพราะผู้ที่จะมาเข้าเฝ้าพระเจ้าได้นั้น ต้องเชื่อว่าพระองค์ทรงดำรงอยู่ และทรงเป็นผู้ประทานบำเหน็จแก่ทุกคนที่เสาะแสวงหาพระองค์</seg>
       </tuv>
     </tu>
     <tu>
@@ -2332,6 +2406,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>John 1:1-18</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171610Z" creationid="nathanwatkins" creationdate="20260409T171610Z">
+        <seg>(MT) ยอห์น 1:1-18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Jonah</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2392,6 +2474,15 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164429Z" creationid="nathanwatkins" creationdate="20260409T164429Z">
         <seg>(MT) ใจความ &lt;t0/&gt;ส&lt;t1/&gt;ำคัญ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Main &lt;t0/&gt;i&lt;t1/&gt;dea &lt;t2/&gt;&amp;&lt;t3/&gt; &lt;t4/&gt;t&lt;t5/&gt;ransformational &lt;t6/&gt;i&lt;t7/&gt;ntent</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171753Z" creationid="nathanwatkins" creationdate="20260409T171753Z">
+        <seg>(MT) {"translation": "ใจความ&lt;t0/&gt;ส&lt;t1/&gt;ำคัญ &lt;t2/&gt;และ&lt;t3/&gt; &lt;t4/&gt;เ&lt;t5/&gt;จตนารมณ์เพื่อการ&lt;t6/&gt;เ&lt;t7/&gt;ปลี่ยนแปลงชีวิต"}
+แปลง"}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,6 +3713,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>State the &lt;t0/&gt;main idea &amp; transformational intent&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171613Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
+        <seg>(MT) ระบุ &lt;t0/&gt;ใจความสำคัญและจุดประสงค์เพื่อการเปลี่ยนแปลง&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Stories and literary devices</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160045Z" creationid="nathanwatkins" creationdate="20260409T160045Z">
@@ -4011,6 +4110,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The passages below are suggested due to their literary and/or biblical theological connection to &lt;t0/&gt;Genesis&lt;t1/&gt;. The leaders are free to adapt the expositions to the needs of their specific schedule and should select passages appropriate to their workshop.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171621Z" creationid="nathanwatkins" creationdate="20260409T171621Z">
+        <seg>(MT) ข้อพระคัมภีร์ด้านล่างนี้เป็นข้อแนะนำเนื่องจากมีความเชื่อมโยงกับ &lt;t0/&gt;พระธรรมปฐมกาล&lt;t1/&gt;ทั้งในเชิงวรรณกรรมและเทววิทยาพระคัมภีร์ ผู้นำมีอิสระที่จะปรับการบรรยายให้เข้ากับความต้องการตามตารางเวลาของตน และควรเลือกข้อพระคัมภีร์ที่เหมาะสมกับการอบรมเชิงปฏิบัติการของท่าน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The plot of every story has these essential elements (together these elements form the narrative arch)&lt;t0/&gt;:</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T155259Z" creationid="nathanwatkins" creationdate="20260409T155259Z">
@@ -4144,6 +4251,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>สิ่งเหล่านี้เป็นองค์ประกอบสำคัญในการเตรียมคำเทศนาแบบอรรถาธิบาย เมื่อเราเทศนาพระวจนะ เราไม่ควรใช้สิ่งเหล่านี้แบบแข็งทื่อโดยขาดการไตร่ตรอง การสื่อสารที่ดีจะผสานความคิดสร้างสรรค์และความหลากหลายของรูปแบบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>These are the books of the Bible covered in the workshops. The exact order may vary at the &lt;t0/&gt;t&lt;t1/&gt;rainer’s discretion&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171731Z" creationid="nathanwatkins" creationdate="20260409T171731Z">
+        <seg>(MT) นี่คือรายชื่อพระธรรมในพระคัมภีร์ที่จะศึกษาในเวิร์กช็อปต่างๆ ทั้งนี้ลำดับที่แน่นอนอาจเปลี่ยนแปลงได้ตาม&lt;t0/&gt;ดุ&lt;t1/&gt;ลยพินิจของผู้ฝึกอบรม&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4498,6 +4613,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160343Z" creationid="nathanwatkins" creationdate="20260409T160343Z">
         <seg>(MT) น้ำเสียง:&lt;t0/&gt; &lt;t1/&gt;ในทุกเรื่องราวจะมีทัศนคติของผู้เขียนที่มีต่อเนื้อเรื่องและตัวละครแฝงอยู่เสมอ นี่คือ &lt;t2/&gt;น้ำเสียง&lt;t3/&gt;ของผู้เขียน ซึ่งน้ำเสียงนี้จะแสดงออกผ่านการเลือกใช้คำบรรยาย คำกริยา สำนวน และจังหวะในการดำเนินเรื่องของผู้เขียนเอง&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tone&lt;t0/&gt; and mood</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171604Z" creationid="nathanwatkins" creationdate="20260409T171604Z">
+        <seg>(MT) น้ำเสียง&lt;t0/&gt; และอารมณ์</seg>
       </tuv>
     </tu>
     <tu>
@@ -5487,6 +5610,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>We are indebted to Peter Adam (&lt;t0/&gt;Speaking God’s Words: A Practical Theology of Preaching&lt;t1/&gt;) for the expression “God has spoken. It is written. Preach the Word.” Taking our cue from Deuteronomy 32:45-47, we have added the phrase &lt;t2/&gt;This Word is your life&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171655Z" creationid="nathanwatkins" creationdate="20260409T171655Z">
+        <seg>(MT) เราขอขอบคุณปีเตอร์ อดัม (&lt;t0/&gt;Speaking God’s Words: A Practical Theology of Preaching&lt;t1/&gt;) สำหรับคำกล่าวที่ว่า “พระเจ้าตรัสแล้ว มีเขียนไว้แล้ว จงเทศนาพระวจนะ” และตามแบบอย่างที่ปรากฏในเฉลยธรรมบัญญัติ 32:45-47 เราจึงได้เพิ่มวลีที่ว่า &lt;t2/&gt;“พระวจนะนี้คือชีวิตของท่าน”&lt;t3/&gt;เข้าไปด้วย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>We are introduced to many themes in God’s story. Like strands of a rope, they come together to reveal God’s work in Jesus.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170856Z" creationid="nathanwatkins" creationdate="20260409T170856Z">
@@ -6000,6 +6131,14 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What unique contribution does it make to the whole of the Bible? In other words, what would we miss if we did not have this book? What do we gain because we do have it? This question is critical because it is ultimately connected to the transformational intent of the book and how we will shepherd people with it&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171644Z" creationid="nathanwatkins" creationdate="20260409T171644Z">
+        <seg>(MT) พระธรรมเล่มนี้มีส่วนช่วยที่โดดเด่นอย่างไรต่อภาพรวมของพระคัมภีร์? พูดอีกอย่างก็คือ หากไม่มีพระธรรมเล่มนี้ เราจะขาดอะไรไป? และการมีพระธรรมเล่มนี้ทำให้เราได้รับอะไรบ้าง? คำถามนี้สำคัญอย่างยิ่ง เพราะท้ายที่สุดแล้วเรื่องนี้เชื่อมโยงกับจุดประสงค์ของพระธรรมเล่มนี้ที่มุ่งหวังให้เกิดการเปลี่ยนแปลงชีวิต และวิธีที่เราจะใช้พระธรรมเล่มนี้ในการดูแลอภิบาลผู้คน&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What was the author saying to the original audience?</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -6232,6 +6371,14 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Why&lt;t0/&gt; is&lt;t1/&gt; this question so important? It is critical because it is ultimately connected to the transformational intent of the book and how we will shepherd people with it.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171718Z" creationid="nathanwatkins" creationdate="20260409T171718Z">
+        <seg>(MT) ทำไม&lt;t0/&gt;คำถามนี้&lt;t1/&gt;ถึงสำคัญนัก? คำถามนี้สำคัญอย่างยิ่งเพราะเกี่ยวข้องโดยตรงกับเป้าหมายของพระธรรมเล่มนี้ที่มุ่งหวังจะเปลี่ยนแปลงชีวิต และส่งผลต่อวิธีที่เราจะใช้พระธรรมเล่มนี้ในการอภิบาลผู้คน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Wisdom</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -6344,6 +6491,14 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do not need&lt;t0/&gt; to translate or delete this text.]</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171609Z" creationid="nathanwatkins" creationdate="20260409T171609Z">
+        <seg>(MT) ท่านไม่จำเป็น&lt;t0/&gt;ต้องแปลหรือลบข้อความนี้]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will get the most out of this workbook by using it</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -6364,6 +6519,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>คุณ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>[Translator, this page has been intentionally left blank so a chart &lt;t0/&gt;can&lt;t1/&gt; be inserted &lt;t2/&gt;here &lt;t3/&gt;later.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171740Z" creationid="nathanwatkins" creationdate="20260409T171740Z">
+        <seg>(MT) [สำหรับผู้แปล: หน้านี้ตั้งใจเว้นว่างไว้เพื่อให้แผนภูมิ &lt;t0/&gt;สามารถ&lt;t1/&gt;นำมาแทรก &lt;t2/&gt;ที่นี่ &lt;t3/&gt;ในภายหลัง.</seg>
       </tuv>
     </tu>
     <tu>
