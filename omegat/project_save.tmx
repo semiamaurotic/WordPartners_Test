@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Beginning: How is this story introduced?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163543Z" creationid="nathanwatkins" creationdate="20260409T163543Z">
+        <seg>(MT) ตอนเริ่มต้น: เรื่องราวนี้มีการเกริ่นนำอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Below is a spectrum that compares the way language is typically used in several types of &lt;t0/&gt;genre&lt;t1/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T110907Z" creationid="nathanwatkins" creationdate="20260409T110907Z">
@@ -852,6 +860,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>สื่ออารมณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>End: How does the story end? What is similar? What has changed? Why?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163532Z" creationid="nathanwatkins" creationdate="20260409T163532Z">
+        <seg>(MT) ตอนจบของเรื่อง: เรื่องนี้จบลงอย่างไร? มีสิ่งใดบ้างที่ยังเหมือนเดิม? มีสิ่งใดบ้างที่เปลี่ยนแปลงไป? และทำไมความเปลี่ยนแปลงเหล่านั้นจึงเกิดขึ้น?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1944,6 +1960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does the author develop the tension to its climax? Where is the climax?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163540Z" creationid="nathanwatkins" creationdate="20260409T163540Z">
+        <seg>(MT) ผู้เขียนดำเนินเรื่องเพื่อนำความตึงเครียดไปสู่จุดสูงสุดอย่างไร? และจุดสูงสุดของเรื่องอยู่ตรงไหน?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does the book of &lt;t0/&gt;Genesis&lt;t1/&gt; fit into the larger story of the Bible?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T125632Z" creationid="nathanwatkins" creationdate="20260406T125632Z">
@@ -2140,6 +2164,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>พระวจนะของพระเจ้าทรงสร้าง: ปฐมกาล 1:3; สดุดี 33:9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It is especially important to identify the climax because it helps us see the direction the story is taking and the author’s intention for telling the story</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163538Z" creationid="nathanwatkins" creationdate="20260409T163538Z">
+        <seg>(MT) การระบุจุดสูงสุดของเรื่องมีความสำคัญเป็นพิเศษ เพราะช่วยให้เราเห็นทิศทางที่เรื่องราวดำเนินไปและเข้าใจถึงเจตนาของผู้เขียนในการเล่าเรื่องนั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -2536,6 +2568,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Pay particular attention to the &lt;t0/&gt;connection &lt;t1/&gt;of the units of thought and the &lt;t2/&gt;direction&lt;t3/&gt; the story takes as a result.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163557Z" creationid="nathanwatkins" creationdate="20260409T163557Z">
+        <seg>(MT) ให้ความสำคัญเป็นพิเศษกับ&lt;t0/&gt;ความเชื่อมโยง&lt;t1/&gt;ของหน่วยความคิด และ&lt;t2/&gt;ทิศทาง&lt;t3/&gt;ที่เรื่องราวดำเนินไปอันเป็นผลมาจากความเชื่อมโยงนั้น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Paying &lt;t0/&gt;A&lt;t1/&gt;ttention to Tone and Mood in &lt;t2/&gt;Historical &lt;t3/&gt;Narrative</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160508Z" creationid="nathanwatkins" creationdate="20260409T160508Z">
@@ -2556,6 +2596,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120419Z" creationid="nathanwatkins" creationdate="20260409T120419Z">
         <seg>(MT) โครงเรื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plot (&lt;t0/&gt;Discovering the Units of Thought&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163539Z" creationid="nathanwatkins" creationdate="20260409T163539Z">
+        <seg>(MT) โครงเรื่อง (&lt;t0/&gt;การค้นพบหน่วยความคิด&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2748,6 +2796,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162549Z" creationid="nathanwatkins" creationdate="20260409T162549Z">
         <seg>(MT) อ่านปฐมกาล 1:1–2:25 พระธรรมปฐมกาลเริ่มต้นเรื่องราวอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read Genesis 2:4&lt;t0/&gt;–&lt;t1/&gt;4:26 and answer the following questions&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163537Z" creationid="nathanwatkins" creationdate="20260409T163537Z">
+        <seg>(MT) อ่านปฐมกาล 2:4&lt;t0/&gt;–&lt;t1/&gt;4:26 แล้วตอบคำถามต่อไปนี้&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,10 +4230,26 @@ t4/&gt;"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is the setting of this story? (&lt;t0/&gt;T&lt;t1/&gt;his may be set up in the previous story or part of the &lt;t2/&gt;introduction.&lt;t3/&gt;) Does the setting change throughout this story? How? Why&lt;t4/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163544Z" creationid="nathanwatkins" creationdate="20260409T163544Z">
+        <seg>(MT) ฉากของเรื่องนี้คืออะไร? (&lt;t0/&gt;ฉา&lt;t1/&gt;กนี้อาจมีการปูพื้นไว้ในเรื่องก่อนหน้าหรือเป็นส่วนหนึ่งของ&lt;t2/&gt;บทนำ&lt;t3/&gt;) มีการเปลี่ยนฉากในระหว่างดำเนินเรื่องหรือไม่? อย่างไร? เพราะเหตุใด&lt;t4/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is the setting?</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072130Z" creationid="Angkana Laksa" creationdate="20260408T072130Z">
         <seg>เนื้อเรื่องคืออะไร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the tension (conflict, difficulty, problem, etc.) in this story?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163548Z" creationid="nathanwatkins" creationdate="20260409T163548Z">
+        <seg>(MT) ความตึงเครียดในเรื่องนี้คืออะไร (ความขัดแย้ง อุปสรรค ปัญหา ฯลฯ)?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4298,6 +4370,14 @@ t4/&gt;"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260408T041344Z" creationid="nathanwatkins" creationdate="20260408T041344Z">
         <seg>ตัวละครหลักในพระธรรมเล่มนี้มีใครบ้าง?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who are the main characters&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163534Z" creationid="nathanwatkins" creationdate="20260409T163534Z">
+        <seg>(MT) ตัวละครหลักมีใครบ้าง&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
