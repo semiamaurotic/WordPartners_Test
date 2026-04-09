@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before you can write a sentence that expresses the &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea and &lt;t4/&gt;t&lt;t5/&gt;ransformational &lt;t6/&gt;i&lt;t7/&gt;ntent of a passage, you must do the work of discovering the structure of that passage according to its genre. So, before answering the questions below, you will want to review the explanation of Structure in Sessions 1, 4, and 6. Please also review the discussions on Tone &lt;t8/&gt;and&lt;t9/&gt; Mood, &lt;t10/&gt;g&lt;t11/&gt;enealogies, and &lt;t12/&gt;l&lt;t13/&gt;aw in Session 1.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164932Z" creationid="nathanwatkins" creationdate="20260409T164932Z">
+        <seg>(MT) คุณต้องค้นหาโครงสร้างของพระธรรมตอนนั้นตามประเภทวรรณกรรมให้พบก่อน จึงจะสามารถเขียนสรุป &lt;t0/&gt;ใ&lt;t1/&gt;จความ &lt;t2/&gt;ส&lt;t3/&gt;ำคัญ และ &lt;t4/&gt;จ&lt;t5/&gt;ุดมุ่งหมาย &lt;t6/&gt;เ&lt;t7/&gt;พื่อการเปลี่ยนแปลงชีวิต ออกมาเป็นประโยคได้ ดังนั้น ก่อนที่จะตอบคำถามด้านล่างนี้ โปรดทบทวนคำอธิบายเรื่องโครงสร้างในบทเรียนที่ 1, 4 และ 6 นอกจากนี้ โปรดทบทวนเนื้อหาเกี่ยวกับน้ำเสียง &lt;t8/&gt;แ&lt;t9/&gt;ละอารมณ์ &lt;t10/&gt;พ&lt;t11/&gt;งศาวลี และ &lt;t12/&gt;ธ&lt;t13/&gt;รรมบัญญัติ ในบทเรียนที่ 1 ด้วย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Beginning: How is this story introduced?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163543Z" creationid="nathanwatkins" creationdate="20260409T163543Z">
@@ -2616,6 +2624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mood: What perspective, conviction, feelings, etc.&lt;t0/&gt;,&lt;t1/&gt; does the author intend to create in the reader?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164813Z" creationid="nathanwatkins" creationdate="20260409T164813Z">
+        <seg>(MT) อารมณ์: ผู้เขียนตั้งใจจะสร้างมุมมอง ความเชื่อมั่น ความรู้สึก และอื่น ๆ&lt;t0/&gt;,&lt;t1/&gt; แบบใดให้เกิดขึ้นในตัวผู้อ่าน?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Mood:&lt;t0/&gt; &lt;t1/&gt;The author intentionally uses his tone through the narrative to create a &lt;t2/&gt;mood&lt;t3/&gt; in the reader. This mood is the attitude toward the story and characters with which the author intended the reader to respond. This leads to the author’s intended transformation which is not just our actions but also our attitudes&lt;t4/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160349Z" creationid="nathanwatkins" creationdate="20260409T160349Z">
@@ -3154,6 +3170,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Read Genesis 6:9-9:29. First, discover the structure of this lengthy passage by answering the following questions.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164809Z" creationid="nathanwatkins" creationdate="20260409T164809Z">
+        <seg>(MT) อ่านพระธรรมปฐมกาล 6:9-9:29 ก่อนอื่น ให้ท่านค้นหาโครงสร้างของพระธรรมตอนที่ยาวนี้โดยการตอบคำถามต่อไปนี้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Read and pray</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -3174,6 +3198,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100247Z" creationid="nathanwatkins" creationdate="20260406T100247Z">
         <seg>การทบทวนและก้าวต่อไป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remember: The main idea and transformational intent sentence should be clear, instructive, and reflect the author’s tone. Your sermon should be organized around this sentence so you can shepherd people with precise and compelling applications that flow from the author’s transformational intent.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164818Z" creationid="nathanwatkins" creationdate="20260409T164818Z">
+        <seg>(MT) ข้อควรจำ: ประโยคใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงควรมีความชัดเจน ให้แนวทางที่นำไปใช้ได้ และสะท้อนน้ำเสียงของผู้เขียน คุณควรจัดโครงสร้างคำเทศนาโดยยึดตามประโยคนี้ เพื่อที่คุณจะสามารถอภิบาลผู้คนด้วยการประยุกต์ใช้ที่ตรงประเด็นและมีพลัง ซึ่งหลั่งไหลมาจากเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -4228,10 +4260,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tone and Mood: Ask, “How does the author say it?” (see Session 1)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164827Z" creationid="nathanwatkins" creationdate="20260409T164827Z">
+        <seg>(MT) น้ำเสียงและอารมณ์: ถามว่า “ผู้เขียนสื่อสารออกมาอย่างไร” (ดูบทเรียนที่ 1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tone and mood</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>น้ำเสียงและอารมณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tone: What perspective, conviction, feelings, etc.&lt;t0/&gt;,&lt;t1/&gt; does the author express?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164855Z" creationid="nathanwatkins" creationdate="20260409T164855Z">
+        <seg>(MT) น้ำเสียง: มุมมอง ความเชื่อมั่น ความรู้สึก ฯลฯ&lt;t0/&gt;,&lt;t1/&gt; ที่ผู้เขียนแสดงออกมีอะไรบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4288,6 +4336,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163843Z" creationid="nathanwatkins" creationdate="20260409T163843Z">
         <seg>(MT) การประยุกต์ใช้&lt;t0/&gt;เพื่อการเปลี่ยนแปลง&lt;t1/&gt;: &lt;t2/&gt;จงใช้&lt;t3/&gt;หลักการคำแนะนำในการเดินทางและ&lt;t4/&gt; &lt;t5/&gt;ตัวบท &lt;t6/&gt;&amp;&lt;t7/&gt; กรอบแนวคิด&lt;t8/&gt;เพื่อ&lt;t9/&gt;อธิบายว่าสารของพระธรรมตอนนี้ท้าทาย ยืนยัน หรือตอบสนองต่อกรอบแนวคิดที่มีอยู่ของตัวท่านเอง ของคริสตจักร และของวัฒนธรรมของท่านอย่างไร จงอภิบาลผู้ฟังของท่านด้วยการประยุกต์ใช้ที่ชัดเจนและทรงพลัง ซึ่งหลั่งไหลมาจากเจตนารมณ์ของพระธรรมตอนนี้ที่มุ่งหมายจะเปลี่ยนแปลงชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformational Intent: Ask, “Why does the author say it?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164822Z" creationid="nathanwatkins" creationdate="20260409T164822Z">
+        <seg>(MT) จุดมุ่งหมายเพื่อการเปลี่ยนแปลง: ให้ถามว่า “ทำไมผู้เขียนจึงกล่าวเช่นนั้น?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -4392,6 +4448,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การใช้ภาษา:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Using the &lt;t0/&gt;P&lt;t1/&gt;revious &lt;t2/&gt;P&lt;t3/&gt;rinciples</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164915Z" creationid="nathanwatkins" creationdate="20260409T164915Z">
+        <seg>(MT) การใช้&lt;t2/&gt;ห&lt;t3/&gt;ลักการ&lt;t0/&gt;ที่&lt;t1/&gt;ผ่านมา</seg>
       </tuv>
     </tu>
     <tu>
@@ -4569,6 +4633,15 @@ t4/&gt;"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What change or response is God seeking in the listener (thoughts, attitudes, behavior, etc.)&lt;t0/&gt;?”</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164817Z" creationid="nathanwatkins" creationdate="20260409T164817Z">
+        <seg>(MT) {"translation": "พระเจ้าทรงประสงค์ให้ผู้ฟังเกิดการเปลี่ยนแปลงหรือมีการตอบสนองอย่างไร (ไม่ว่าจะเป็นด้านความคิด ท่าที พฤติกรรม ฯลฯ)&lt;t0/&gt;?”"}
+t0/&gt;?”"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What clues from the text of Genesis help us know &lt;t0/&gt;when&lt;t1/&gt; and &lt;t2/&gt;to whom&lt;t3/&gt; it was written&lt;t4/&gt;?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163119Z" creationid="nathanwatkins" creationdate="20260409T163119Z">
@@ -4701,6 +4774,14 @@ t4/&gt;"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120406Z" creationid="nathanwatkins" creationdate="20260409T120406Z">
         <seg>(MT) สถานที่ต่างๆ ที่กล่าวถึงมีความสำคัญต่อการเล่าเรื่องอย่างไร&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the author’s general idea, and what is he saying specifically about that idea?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164809Z" creationid="nathanwatkins" creationdate="20260409T164809Z">
+        <seg>(MT) แนวคิดโดยรวมของผู้เขียนคืออะไร และเขาได้ให้รายละเอียดเฉพาะเจาะจงเกี่ยวกับแนวคิดนั้นว่าอย่างไรบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
