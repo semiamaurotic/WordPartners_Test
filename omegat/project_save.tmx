@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Different scenes are connected to form a coherent story.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120451Z" creationid="nathanwatkins" creationdate="20260409T120451Z">
+        <seg>(MT) ฉากต่าง ๆ ถูกนำมาเชื่อมโยงเข้าด้วยกันเพื่อร้อยเรียงเป็นเรื่องราวที่สอดคล้องต่อเนื่องกัน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Dig &amp; Discover</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1634,6 +1642,22 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เชิงภาพพจน์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plot</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120419Z" creationid="nathanwatkins" creationdate="20260409T120419Z">
+        <seg>(MT) โครงเรื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plot is developed through the actions and dialogue of the characters&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120521Z" creationid="nathanwatkins" creationdate="20260409T120521Z">
+        <seg>(MT) โครงเรื่องจะดำเนินไปผ่านการกระทำและบทสนทนาของตัวละคร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2807,6 +2831,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is significant about the places mentioned for the telling of the story&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120406Z" creationid="nathanwatkins" creationdate="20260409T120406Z">
+        <seg>(MT) สถานที่ต่างๆ ที่กล่าวถึงมีความสำคัญต่อการเล่าเรื่องอย่างไร&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is the main tension or conflict in the story?</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072259Z" creationid="Angkana Laksa" creationdate="20260408T072259Z">
@@ -2851,6 +2883,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>แต่เมื่อเราเลือกเดินทางผ่านบริบทดั้งเดิม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Where does the story take place? Does the location change and why&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120343Z" creationid="nathanwatkins" creationdate="20260409T120343Z">
+        <seg>(MT) เรื่องราวนี้เกิดขึ้นที่ไหน มีการเปลี่ยนสถานที่หรือไม่ และเพราะเหตุใด&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
