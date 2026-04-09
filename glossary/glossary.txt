@@ -1,61 +1,61 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
 Biblical Theology	ศาสนศาสตร์พระคัมภีร์
-genre	ประเภทวรรณกรรม
+genre		ประเภทวรรณกรรม
 structure	โครงสร้าง
 principle	หลักการ
 Dig & Discover	ขุดค้นและค้นพบ
 Transformational Intent	เจตนาสู่การเปลี่ยนแปลง
-Main Idea	ใจความสำคัญ
-Session	เซสชั่น
-Genre	ประเภทวรรณกรรม
-Study to Sermon	จากการศึกษาสู่คำเทศนา
+Main Idea	ประเด็นหลัก
+Session		เซสชั่น
+Study to Sermon		จากการศึกษาสู่คำเทศนา
 Text and Framework	เนื้อหาและกรอบแนวความคิด
 Traveling Instructions	เส้นทางสู่การประยุกต์ใช้
-Pre-Assignment	งานมอบหมายล่วงหน้า
+Pre-Assignment		งานมอบหมายล่วงหน้า
 expository sermon	คำเทศนาแบบอรรถาธิบาย
 expository preaching	การเทศนาแบบอรรถาธิบาย
 Word of God	พระวจนะของพระเจ้า
 The Line	เส้นหลัก
 Framework	กรอบแนวความคิด
 Transformation	การเปลี่ยนแปลง
-Structure	โครงสร้าง
 Application	การประยุกต์ใช้
 Covenant	พันธสัญญา
-Genre	ประเภทวรรณกรรม
 New Covenant	พันธสัญญาใหม่
-Shepherd	อภิบาล
-Epistle	จดหมาย
+to Shepherd	อภิบาล
+Epistle		จดหมายฝาก
 Preaching	การเทศนาพระวจนะ
 The Line (heading)	เส้นหลักของพระวจนะ
 Main Highways	ทางหลวงสายหลัก
 Tone and Mood	น้ำเสียงและอารมณ์
-Gospel	พระกิตติคุณ
+Gospel		พระกิตติคุณ
 Old Covenant	พันธสัญญาเดิม
-Law	ธรรมบัญญัติ
+Law		ธรรมบัญญัติ
 Apocalyptic	วิวรณ์
-Prophecy	คำพยากรณ์
-Grace	พระคุณ
-Poetry	บทกวี
-Wisdom	ปัญญา
+Prophecy	คำเผยพระวจนะ
+Grace		พระคุณ
+Poetry		บทกวี
+Wisdom		สติปัญญา
 Bull’s-eye (Target)	ภาพเปรียบเทียบ
-Author’s Intent	เจตนาของผู้เขียน
-License	การใช้เสรีภาพเกินขอบเขต
+Author’s Intent		เจตนาของผู้เขียน
+License			การใช้เสรีภาพเกินขอบเขต
 Original Context	บริบทดั้งเดิม
 Units of Thought	หน่วยความคิด
-Parable	อุปมา
+Parable			อุปมา
 Historical Narrative	เรื่องราวทางประวัติศาสตร์
 Biblical Narrative	เรื่องราวในพระคัมภีร์
 Wisdom Literature	วรรณกรรมแห่งปัญญา
 Biblical Context	บริบทพระคัมภีร์
-Prophet	ผู้พยากรณ์
+Prophet			ผู้เผยพระวจนะ
 Apocalyptic Literature	วรรณกรรมวิวรณ์
-Holy Spirit	พระวิญญาณบริสุทธิ์
-Observation	การสังเกต
+Holy Spirit		พระวิญญาณบริสุทธิ์
+Observation		การสังเกต
 Biblical Context	บริบทเดิมตามพระคัมภีร์
 Literary Connections	การเชื่อมโยงทางวรรณกรรม
-Basic Questions	คำถามพื้นฐาน
-Powerful Questions	คำถามทรงพลัง
-Legalism	การยึดกฎเกณฑ์
-Liberalism	ลัทธิเสรีนยิม
+Basic Questions		คำถามพื้นฐาน
+Powerful Questions	คำถามอันทรงพลัง
+Legalism		การยึดกฎเกณฑ์
+Liberalism	ลัทธิเสรีนิยม
 books of the Bible	พระธรรมต่างๆ ในพระคัมภีร์
 God’s living Word	พระวจนะที่มีชีวิต	Removed ของพระเจ้า because it is unecessarily wordy
+do	ลงมือปฏิบัติ
+main theme	ธีมหลัก
+
