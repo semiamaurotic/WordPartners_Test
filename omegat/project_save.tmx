@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Biblical Theology&lt;t0/&gt;: &lt;t1/&gt;Did the presenter demonstrate how this passage points to Christ and how &lt;t2/&gt;he &lt;t3/&gt;would be proclaimed in a natural way that arises from the author’s transformational intent in light of the larger story of the Bible?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163920Z" creationid="nathanwatkins" creationdate="20260409T163920Z">
+        <seg>(MT) ศาสนศาสตร์พระคัมภีร์&lt;t0/&gt;: &lt;t1/&gt;ผู้นำเสนอได้แสดงให้เห็นหรือไม่ว่าพระธรรมตอนนี้เล็งถึงพระคริสต์อย่างไร? และได้ชี้ให้เห็นหรือไม่ว่าควรประกาศเรื่องพระคริสต์ &lt;t2/&gt;&lt;t3/&gt;อย่างเป็นธรรมชาติ โดยสอดคล้องกับความตั้งใจของผู้เขียนที่มุ่งเน้นการเปลี่ยนแปลงชีวิต ภายใต้ภาพรวมเรื่องราวของพระคัมภีร์?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Biblical theological reflection</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -676,6 +684,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163817Z" creationid="nathanwatkins" creationdate="20260409T163817Z">
         <seg>(MT) บริบท:&lt;t0/&gt; &lt;t1/&gt;ใช้หลักการ "คำแนะนำในการเดินทาง" เพื่อแสดงให้เห็นว่าบริบทแวดล้อมและบริบททางประวัติศาสตร์ช่วยให้เข้าใจพระธรรมตอนนี้ และนำไปสู่เจตนาของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลงอย่างไร หรืออีกนัยหนึ่งคือ ข้อความก่อนและหลังพระธรรมตอนนี้ส่งผลต่อความหมายอย่างไร? นอกจากนี้ เราสามารถเรียนรู้อะไรจากส่วนอื่นๆ ของพระคัมภีร์ที่ช่วยให้เราเข้าใจสถานการณ์ทางประวัติศาสตร์และจุดประสงค์ในการเขียนของผู้เขียนได้บ้าง&lt;t5/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Context:&lt;t0/&gt; &lt;t1/&gt;Was the immediate and historical context presented in a way that informed and led to the transformational intent of the author?&lt;t2/&gt;</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163913Z" creationid="nathanwatkins" creationdate="20260409T163913Z">
+        <seg>(MT) บริบท:&lt;t0/&gt; &lt;t1/&gt;มีการนำเสนอบริบทแวดล้อมและบริบททางประวัติศาสตร์ในลักษณะที่ช่วยให้เข้าใจและนำไปสู่จุดมุ่งหมายในการเปลี่ยนแปลงชีวิตตามเจตนารมณ์ของผู้เขียนหรือไม่?&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1156,6 +1172,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T094927Z" creationid="nathanwatkins" creationdate="20260406T094927Z">
         <seg>ประเภทวรรณกรรมและโครงสร้างของ ปฐมกาล 5:1-6:8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genre and Structure of &lt;t0/&gt;Genesis 5:1–6:8</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163907Z" creationid="nathanwatkins" creationdate="20260409T163907Z">
+        <seg>(MT) ประเภทวรรณกรรมและโครงสร้างของ &lt;t0/&gt;ปฐมกาล 5:1–6:8</seg>
       </tuv>
     </tu>
     <tu>
@@ -2392,6 +2416,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Main Idea&lt;t0/&gt; and Transformational Intent&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;Was the author's tone&lt;t4/&gt;, &lt;t5/&gt;main idea&lt;t6/&gt;, and transformational intent &lt;t7/&gt;identified clearly&lt;t8/&gt;? &lt;t9/&gt;Were they expressed together in a complete sentence?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163941Z" creationid="nathanwatkins" creationdate="20260409T163941Z">
+        <seg>(MT) ใจความสำคัญ&lt;t0/&gt; และเจตนาเพื่อการเปลี่ยนแปลง&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;มีการระบุน้ำเสียง&lt;t4/&gt;, &lt;t5/&gt;ใจความสำคัญ&lt;t6/&gt;และเจตนาเพื่อการเปลี่ยนแปลง&lt;t7/&gt;ของผู้เขียนไว้อย่างชัดเจนหรือไม่&lt;t8/&gt;? &lt;t9/&gt;และได้มีการเรียบเรียงประเด็นเหล่านี้รวมกันเป็นประโยคที่สมบูรณ์หรือไม่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Main idea</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -3273,6 +3305,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Shepherding:&lt;t0/&gt; &lt;t1/&gt;Did the presenter shepherd us with precise and compelling applications that flow from the author’s transformational intent?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163925Z" creationid="nathanwatkins" creationdate="20260409T163925Z">
+        <seg>(MT) การอภิบาล:&lt;t0/&gt; &lt;t1/&gt;ผู้นำเสนอได้อภิบาลเราด้วยการประยุกต์ใช้ที่ชัดเจนและมีพลัง ซึ่งหลั่งไหลมาจากเจตนารมณ์เพื่อการเปลี่ยนแปลงชีวิตของผู้เขียนหรือไม่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Show</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -3349,6 +3389,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111752Z" creationid="nathanwatkins" creationdate="20260408T111752Z">
         <seg>โครงสร้างหมายถึงหน่วยความคิดที่ถูกจัดวางในรูปแบบเฉพาะ เพื่อให้บรรลุวัตถุประสงค์ของผู้เขียน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Structure:&lt;t0/&gt; &lt;t1/&gt;Was the structure of the passage found and presented according to the specific &lt;t2/&gt;g&lt;t3/&gt;enre? Were the main units of thought identified and shown as to how they are arranged to accomplish the author’s purpose?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163910Z" creationid="nathanwatkins" creationdate="20260409T163910Z">
+        <seg>(MT) โครงสร้าง:&lt;t0/&gt; &lt;t1/&gt;มีการวิเคราะห์และนำเสนอโครงสร้างของพระธรรมตอนนี้ตาม&lt;t2/&gt;ป&lt;t3/&gt;ระเภทวรรณกรรมที่เฉพาะเจาะจงหรือไม่? มีการระบุหน่วยความคิดหลักและแสดงให้เห็นว่ามีการลำดับเนื้อหาอย่างไรเพื่อบรรลุวัตถุประสงค์ของผู้เขียนหรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3777,6 +3825,15 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This session is about two principles – Genre and Structure – and the way they uniquely work together in a passage of Genesis that includes a genealogy&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163926Z" creationid="nathanwatkins" creationdate="20260409T163926Z">
+        <seg>(MT) {"translation": "บทเรียนนี้เกี่ยวกับหลักการสองประการ คือ ประเภทวรรณกรรมและโครงสร้าง รวมถึงวิธีที่หลักการทั้งสองทำงานสอดประสานกันอย่างมีเอกลักษณ์ในพระธรรมปฐมกาลตอนหนึ่งที่มีลำดับพงศ์พันธุ์รวมอยู่ด้วย&lt;t0/&gt;"}
+"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This session is about two principles – Genre and Structure – and the way they work together in a larger unit of thought of Scripture&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163340Z" creationid="nathanwatkins" creationdate="20260409T163340Z">
@@ -3958,6 +4015,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130156Z" creationid="nathanwatkins" creationdate="20260406T130156Z">
         <seg>การเปลี่ยนแปลง: อยากเห็นพระเจ้าทรงเปลี่ยนแปลงใจและพันธกิจของคุณผ่านทางพระวจนะของพระองค์ โดยฤทธิ์เดชของพระวิญญาณของพระองค์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformational &lt;t0/&gt;Application&lt;t1/&gt;: &lt;t2/&gt;Did the presenter show how the message of the passage challenges, confirms, or speaks into the existing frameworks of himself, his church&lt;t3/&gt;,&lt;t4/&gt; and his culture?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163940Z" creationid="nathanwatkins" creationdate="20260409T163940Z">
+        <seg>(MT) การประยุกต์ใช้&lt;t0/&gt;เพื่อการเปลี่ยนแปลง&lt;t1/&gt;: &lt;t2/&gt;ผู้นำเสนอได้แสดงให้เห็นหรือไม่ว่า ข่าวสารจากพระธรรมตอนนั้นท้าทาย ยืนยัน หรือสื่อสารกับมุมมองที่มีอยู่เดิมของตัวผู้นำเสนอเอง คริสตจักร&lt;t3/&gt;,&lt;t4/&gt; และวัฒนธรรมของเขาอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4915,6 +4980,14 @@ t4/&gt;"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163401Z" creationid="nathanwatkins" creationdate="20260409T163401Z">
         <seg>(MT) ฝึกใช้หลักการเหล่านี้เพื่อให้เข้าใจปฐมกาล 2:&lt;t0/&gt;4&lt;t1/&gt;–&lt;t2/&gt;4:26&lt;t3/&gt;ได้อย่างชัดเจน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>practice using these principles to gain a clear understanding of Genesis 5:1&lt;t0/&gt;–&lt;t1/&gt;6:8&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163933Z" creationid="nathanwatkins" creationdate="20260409T163933Z">
+        <seg>(MT) ฝึกใช้หลักการเหล่านี้เพื่อให้เข้าใจพระธรรมปฐมกาล 5:1&lt;t0/&gt;–&lt;t1/&gt;6:8&lt;t2/&gt;ได้อย่างชัดเจน</seg>
       </tuv>
     </tu>
     <tu>
