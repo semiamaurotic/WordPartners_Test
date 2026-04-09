@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In literature, genre is a specific kind, or type, of writing&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111735Z" creationid="nathanwatkins" creationdate="20260408T111735Z">
+        <seg>ในทางวรรณกรรม “ประเภทวรรณกรรมหมายถึงชนิดหรือรูปแบบเฉพาะของงานเขียน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>In many countries, before one can testify in a court of law, he must take an oath: “Do you swear to tell the truth, the whole truth, and nothing but the truth so &lt;t0/&gt;help&lt;t1/&gt; you God?” A&lt;t2/&gt; &lt;t3/&gt;faithful witness&lt;t4/&gt; will not say more than the truth or less than the truth. He will say the truth.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T160121Z" creationid="nathanwatkins" creationdate="20260407T160121Z">
@@ -1846,6 +1854,46 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Session 2</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111659Z" creationid="nathanwatkins" creationdate="20260408T111659Z">
+        <seg>เซสชั่นที่ 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 4</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111708Z" creationid="nathanwatkins" creationdate="20260408T111708Z">
+        <seg>เซสชั่นที่ 4</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 6</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111711Z" creationid="nathanwatkins" creationdate="20260408T111711Z">
+        <seg>เซสชั่นที่ 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 7</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111714Z" creationid="nathanwatkins" creationdate="20260408T111714Z">
+        <seg>เซสชั่นที่ 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 9</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111719Z" creationid="nathanwatkins" creationdate="20260408T111719Z">
+        <seg>เซสชั่นที่ 9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Session &lt;t0/&gt;1&lt;t1/&gt;0&lt;t2/&gt;: &lt;t3/&gt;Dig &amp; Discover</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095405Z" creationid="nathanwatkins" creationdate="20260406T095405Z">
@@ -1934,6 +1982,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Session&lt;t0/&gt; 7</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111716Z" creationid="nathanwatkins" creationdate="20260408T111716Z">
+        <seg>เซสชั่นที่ 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Session&lt;t0/&gt; Preparation</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T125733Z" creationid="nathanwatkins" creationdate="20260406T125733Z">
@@ -1994,6 +2050,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>โครงสร้าง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Structure refers to units of thought arranged in a specific way to accomplish the author’s purpose.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111752Z" creationid="nathanwatkins" creationdate="20260408T111752Z">
+        <seg>โครงสร้างหมายถึงหน่วยความคิดที่ถูกจัดวางในรูปแบบเฉพาะ เพื่อให้บรรลุวัตถุประสงค์ของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -2283,6 +2347,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เวลาและกระบวนการ: เราต้องศึกษาเนื้อหาของพระคัมภีร์อย่างรอบคอบโดยใช้หลักการทั้งหมดเล่มนี้ก่อนที่จะเริ่มลงมือเขียนคำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>To accomplish the author’s purpose</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111753Z" creationid="nathanwatkins" creationdate="20260408T111753Z">
+        <seg>เพื่อบรรลุวัตถุประสงค์ของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
