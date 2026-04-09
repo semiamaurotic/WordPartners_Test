@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>After &lt;t0/&gt;the presentation, the listeners will evaluate it using the following questions&lt;t1/&gt;:</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163807Z" creationid="nathanwatkins" creationdate="20260409T163807Z">
+        <seg>(MT) หลังจบ &lt;t0/&gt;การนำเสนอ ผู้ฟังจะประเมินการนำเสนอนั้นโดยใช้คำถามต่อไปนี้&lt;t1/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>After the workshop&lt;t0/&gt;, &lt;t1/&gt;to review your learning and take it further for preaching and teaching the book of the Bible we have studied. There will be more in the workbook than can be covered in the workshop&lt;t2/&gt;,&lt;t3/&gt; so you can study more thoroughly at home.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101931Z" creationid="nathanwatkins" creationdate="20260406T101931Z">
@@ -534,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Biblical Theology&lt;t0/&gt;: &lt;t1/&gt;Demonstrate how this passage connects with the larger story of the Bible which points to Christ. How would you proclaim &lt;t2/&gt;him&lt;t3/&gt; in a natural way that arises from the author’s main idea?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163821Z" creationid="nathanwatkins" creationdate="20260409T163821Z">
+        <seg>(MT) ศาสนศาสตร์พระคัมภีร์&lt;t0/&gt;: &lt;t1/&gt;จงแสดงให้เห็นว่าพระธรรมตอนนี้เชื่อมโยงกับภาพรวมเรื่องราวในพระคัมภีร์ที่ชี้ไปยังพระคริสต์อย่างไร และท่านจะประกาศเรื่องของ&lt;t2/&gt;พระองค์&lt;t3/&gt;อย่างเป็นธรรมชาติโดยต่อยอดจากใจความสำคัญของผู้เขียนได้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Biblical theological reflection</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -652,6 +668,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T093606Z" creationid="nathanwatkins" creationdate="20260406T093606Z">
         <seg>สารบัญ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Context:&lt;t0/&gt; &lt;t1/&gt;Using Traveling Instructions&lt;t2/&gt;,&lt;t3/&gt; show &lt;t4/&gt;how the immediate context and the historical context inform and lead to the transformational intent of the author. In other words, how does the text before and after this passage impact the passage, and what might we learn from other parts of the Bible that help us understand the author’s historical occasion and intention for writing&lt;t5/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163817Z" creationid="nathanwatkins" creationdate="20260409T163817Z">
+        <seg>(MT) บริบท:&lt;t0/&gt; &lt;t1/&gt;ใช้หลักการ "คำแนะนำในการเดินทาง" เพื่อแสดงให้เห็นว่าบริบทแวดล้อมและบริบททางประวัติศาสตร์ช่วยให้เข้าใจพระธรรมตอนนี้ และนำไปสู่เจตนาของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลงอย่างไร หรืออีกนัยหนึ่งคือ ข้อความก่อนและหลังพระธรรมตอนนี้ส่งผลต่อความหมายอย่างไร? นอกจากนี้ เราสามารถเรียนรู้อะไรจากส่วนอื่นๆ ของพระคัมภีร์ที่ช่วยให้เราเข้าใจสถานการณ์ทางประวัติศาสตร์และจุดประสงค์ในการเขียนของผู้เขียนได้บ้าง&lt;t5/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2360,6 +2384,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Main Idea&lt;t0/&gt; and Transformational Intent&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;Identify the author's tone and&lt;t4/&gt; intent,&lt;t5/&gt; mak&lt;t6/&gt;ing&lt;t7/&gt; the author’s main idea clear. Try to express these in one complete sentence.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163817Z" creationid="nathanwatkins" creationdate="20260409T163817Z">
+        <seg>(MT) ใจความสำคัญ&lt;t0/&gt; และเจตนาเพื่อการเปลี่ยนแปลง&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;ระบุน้ำเสียงและ&lt;t4/&gt;เจตนาของผู้เขียน&lt;t5/&gt; เพื่อ&lt;t6/&gt;ให้&lt;t7/&gt;ใจความสำคัญนั้นชัดเจน โดยพยายามสรุปสิ่งเหล่านี้ให้เป็นประโยคที่สมบูรณ์เพียงประโยคเดียว</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Main idea</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2657,6 +2689,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Please prepare a five-minute presentation on the above passage. Be prepared to share your findings, evaluate others’ work, and interact. Do not include a sermon’s introduction, conclusion, or illustrations. Simply answer the following questions using the Dig &amp; Discover Principles for your five-minute presentation&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163838Z" creationid="nathanwatkins" creationdate="20260409T163838Z">
+        <seg>(MT) โปรดเตรียมการนำเสนอเป็นเวลา 5 นาทีเกี่ยวกับพระธรรมตอนข้างต้น โดยเตรียมพร้อมที่จะแบ่งปันสิ่งที่คุณค้นพบ ประเมินผลงานของผู้อื่น และร่วมแลกเปลี่ยนความคิดเห็นกัน ไม่ต้องรวมบทนำ บทสรุป หรือเรื่องประกอบคำเทศนา เพียงตอบคำถามต่อไปนี้สำหรับการนำเสนอ 5 นาทีของคุณโดยใช้หลักการขุดค้นและค้นพบ (Dig &amp; Discover Principles)&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Plot</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T120419Z" creationid="nathanwatkins" creationdate="20260409T120419Z">
@@ -2773,6 +2813,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>หลักการที่ครอบคลุม:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Principles:&lt;t0/&gt; &lt;t1/&gt;Did you see the Dig &amp; Discover principles at work in the presentation? If so, where?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163811Z" creationid="nathanwatkins" creationdate="20260409T163811Z">
+        <seg>(MT) หลักการ:&lt;t0/&gt; &lt;t1/&gt;คุณเห็นการนำหลักการ “ขุดและค้นพบ” (Dig &amp; Discover) มาใช้ในการนำเสนอนี้หรือไม่? หากเห็นว่ามี คุณเห็นได้จากส่วนไหนบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3305,6 +3353,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Structure:&lt;t0/&gt; &lt;t1/&gt;What is the structure of the passage according to the specific &lt;t2/&gt;g&lt;t3/&gt;enre? Identify the main units of thought and how they are arranged to accomplish the author’s purpose.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163829Z" creationid="nathanwatkins" creationdate="20260409T163829Z">
+        <seg>(MT) โครงสร้าง:&lt;t0/&gt; &lt;t1/&gt;พระธรรมตอนนี้มีโครงสร้างอย่างไรตาม&lt;t2/&gt;ป&lt;t3/&gt;ระเภทวรรณกรรมที่เฉพาะเจาะจง? ให้ระบุหน่วยความคิดหลักและอธิบายว่าหน่วยความคิดเหล่านั้นถูกจัดเรียงอย่างไรเพื่อให้บรรลุวัตถุประสงค์ของผู้เขียน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Study to Sermon</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -3665,6 +3721,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This &lt;t0/&gt;session provides the opportunity to study and then present a Scripture passage using the Dig &lt;t1/&gt;&amp;&lt;t2/&gt; Discover principles. Your presentation is not meant to be a &lt;t3/&gt;sermon, but&lt;t4/&gt; is designed as a practice session to highlight five key elements that form the heart of any expository message. Everyone is asked to prepare the passage in this way. A few will be selected to present their work, while the leader will guide the rest of the group in giving feedback based on their personal preparation and discovery&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163831Z" creationid="nathanwatkins" creationdate="20260409T163831Z">
+        <seg>(MT) &lt;t0/&gt;ช่วงการอบรมนี้เป็นโอกาสให้ท่านได้ศึกษาพระธรรมโดยใช้หลักการ ขุด &lt;t1/&gt;&amp;&lt;t2/&gt; ค้นพบ แล้วจึงนำมาเสนอ การนำเสนอของท่านไม่ได้มุ่งหมายให้เป็น &lt;t3/&gt;คำเทศนา แต่&lt;t4/&gt;เป็นช่วงฝึกปฏิบัติที่ออกแบบมาเพื่อเน้นย้ำองค์ประกอบสำคัญ 5 ประการซึ่งเป็นหัวใจของคำเทศนาแบบอรรถาธิบายทุกบท ขอให้ทุกคนเตรียมพระธรรมด้วยวิธีนี้ โดยเราจะคัดเลือกบางท่านให้นำเสนอผลงาน จากนั้นผู้นำจะให้สมาชิกที่เหลือในกลุ่มร่วมกันให้ข้อเสนอแนะโดยอิงจากการเตรียมตัวและการค้นพบของแต่ละคน&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This &lt;t0/&gt;workbook and the principles found in it are key to that desire. Why? They are designed to help us understand and be transformed by the living Word of God and to bring that transformation to others. They are integral in developing leaders &lt;t1/&gt;who will train pastors to preach God’s Word with God’s heart&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101018Z" creationid="nathanwatkins" creationdate="20260406T101018Z">
@@ -3810,6 +3874,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>To &lt;t0/&gt;continue growing the skill and effectiveness of moving your study toward a sermon as expositors of God’s Word. What is expository preaching? Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163818Z" creationid="nathanwatkins" creationdate="20260409T163818Z">
+        <seg>(MT) เพื่อ&lt;t0/&gt;พัฒนาทักษะและประสิทธิผลในการเปลี่ยนผลการศึกษาพระคัมภีร์ให้เป็นคำเทศนาอย่างต่อเนื่อง ในฐานะผู้อรรถาธิบายพระวจนะของพระเจ้า การเทศนาแบบอรรถาธิบายคืออะไร? พูดง่ายๆ ก็คือ การเทศนาแบบอรรถาธิบายหมายถึงการที่ข่าวสารแห่งการเปลี่ยนแปลงชีวิตจากเนื้อหาในพระคัมภีร์เป็นประเด็นสำคัญของคำเทศนา&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>To accomplish the author’s purpose</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111753Z" creationid="nathanwatkins" creationdate="20260408T111753Z">
@@ -3886,6 +3958,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130156Z" creationid="nathanwatkins" creationdate="20260406T130156Z">
         <seg>การเปลี่ยนแปลง: อยากเห็นพระเจ้าทรงเปลี่ยนแปลงใจและพันธกิจของคุณผ่านทางพระวจนะของพระองค์ โดยฤทธิ์เดชของพระวิญญาณของพระองค์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformational &lt;t0/&gt;Application&lt;t1/&gt;: &lt;t2/&gt;Using &lt;t3/&gt;the principles of Traveling Instructions and&lt;t4/&gt; &lt;t5/&gt;Text &lt;t6/&gt;&amp;&lt;t7/&gt; Framework&lt;t8/&gt;,&lt;t9/&gt; explain how the message of the passage challenges, confirms, or speaks into the existing frameworks of yourself, your church, and your culture. Shepherd your listeners with precise and compelling applications that flow from the transformational intent of the passage.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163843Z" creationid="nathanwatkins" creationdate="20260409T163843Z">
+        <seg>(MT) การประยุกต์ใช้&lt;t0/&gt;เพื่อการเปลี่ยนแปลง&lt;t1/&gt;: &lt;t2/&gt;จงใช้&lt;t3/&gt;หลักการคำแนะนำในการเดินทางและ&lt;t4/&gt; &lt;t5/&gt;ตัวบท &lt;t6/&gt;&amp;&lt;t7/&gt; กรอบแนวคิด&lt;t8/&gt;เพื่อ&lt;t9/&gt;อธิบายว่าสารของพระธรรมตอนนี้ท้าทาย ยืนยัน หรือตอบสนองต่อกรอบแนวคิดที่มีอยู่ของตัวท่านเอง ของคริสตจักร และของวัฒนธรรมของท่านอย่างไร จงอภิบาลผู้ฟังของท่านด้วยการประยุกต์ใช้ที่ชัดเจนและทรงพลัง ซึ่งหลั่งไหลมาจากเจตนารมณ์ของพระธรรมตอนนี้ที่มุ่งหมายจะเปลี่ยนแปลงชีวิต</seg>
       </tuv>
     </tu>
     <tu>
