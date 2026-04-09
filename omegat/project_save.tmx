@@ -447,6 +447,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Application should flow into the closing prayer, asking God to bring about the change &lt;t0/&gt;h&lt;t1/&gt;e desires.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171541Z" creationid="nathanwatkins" creationdate="20260409T171541Z">
+        <seg>(MT) การประยุกต์ใช้ควรนำเข้าสู่คำอธิษฐานปิดท้าย เพื่อทูลขอให้พระเจ้าทรงทำให้เกิดการเปลี่ยนแปลงตามที่&lt;t0/&gt;พระ&lt;t1/&gt;องค์ทรงปรารถนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Apply</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -623,10 +631,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Bull’s-eye (goal): The transformation God intends from the text.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171446Z" creationid="nathanwatkins" creationdate="20260409T171446Z">
+        <seg>(MT) เป้ากลาง (เป้าหมาย): การเปลี่ยนแปลงชีวิตที่พระเจ้าทรงประสงค์ผ่านทางพระธรรม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Capacity</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130115Z" creationid="nathanwatkins" creationdate="20260406T130115Z">
         <seg>ศักยภาพ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Carefully select &lt;t0/&gt;material that will help you to state, explain, and apply the main idea and transformational intent and structure of the text.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171439Z" creationid="nathanwatkins" creationdate="20260409T171439Z">
+        <seg>(MT) จงคัดสรร&lt;t0/&gt;เนื้อหาอย่างรอบคอบเพื่อช่วยให้คุณสามารถระบุ อธิบาย และประยุกต์ใช้ใจความสำคัญ จุดมุ่งหมายในการเปลี่ยนแปลงชีวิต และโครงสร้างของพระธรรมตอนนั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -715,6 +739,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เป็นรูปธรรม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Consider how the main idea and transformational intent of the text challenges existing frameworks&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171444Z" creationid="nathanwatkins" creationdate="20260409T171444Z">
+        <seg>(MT) พิจารณาว่าใจความสำคัญและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงของบทพระธรรมท้าทายกรอบแนวคิดที่มีอยู่เดิมอย่างไร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -985,6 +1017,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>E&lt;t0/&gt;xamples&lt;t1/&gt; or illustrations</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171504Z" creationid="nathanwatkins" creationdate="20260409T171504Z">
+        <seg>(MT) ต&lt;t0/&gt;ัวอย่าง&lt;t1/&gt; หรือภาพประกอบ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>E&lt;t0/&gt;xpository preaching &lt;t1/&gt;means that&lt;t2/&gt; the transformational message of the text of Scripture is the point of the sermon&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171522Z" creationid="nathanwatkins" creationdate="20260409T171522Z">
+        <seg>(MT) การ&lt;t0/&gt;เทศนาแบบอรรถาธิบาย &lt;t1/&gt;หมายความว่า&lt;t2/&gt;ข่าวสารเพื่อการเปลี่ยนแปลงชีวิตจากเนื้อหาในพระคัมภีร์ คือใจความสำคัญของคำเทศนา&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Each of these is integrally connected. Tone informs the main idea. Tone and main idea shape the transformational intent&lt;t0/&gt;,&lt;t1/&gt; which flows from the mood.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164553Z" creationid="nathanwatkins" creationdate="20260409T164553Z">
@@ -1173,6 +1221,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170406Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
         <seg>(MT) สุดท้ายนี้ ให้นำน้ำเสียง อารมณ์ และเจตนาในการเปลี่ยนแปลงชีวิต มาเรียบเรียงใจความสำคัญของคุณให้เป็นประโยคที่สื่อถึงจุดประสงค์ของผู้เขียน (โดยให้แน่ใจว่าประโยคนั้นครอบคลุมความคิดทั้งหมดของผู้เขียน แต่ก็มีความเฉพาะเจาะจงมากพอที่จะทำให้เห็นความแตกต่างจากหนังสือหรือพระธรรมตอนอื่นๆ&lt;t0/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Flow: The sermon should flow naturally out of the structure and main idea and transformational intent of the text. Make the author’s point your point.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171436Z" creationid="nathanwatkins" creationdate="20260409T171436Z">
+        <seg>(MT) ความลื่นไหล: คำเทศนาควรลื่นไหลไปตามโครงสร้าง ใจความสำคัญ และจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตของเนื้อหาในพระธรรมตอนนั้นอย่างเป็นธรรมชาติ จงสื่อสารประเด็นของผู้เขียนให้เป็นประเด็นของคุณเอง</seg>
       </tuv>
     </tu>
     <tu>
@@ -1469,6 +1525,25 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>คำถามที่ดี</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good application &lt;t0/&gt;shepherds&lt;t1/&gt; people with the grace of God found in the &lt;t2/&gt;n&lt;t3/&gt;ew &lt;t4/&gt;c&lt;t5/&gt;ovenant&lt;t6/&gt;, ultimately leading to repentance, faith, and worship of the living God.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171517Z" creationid="nathanwatkins" creationdate="20260409T171517Z">
+        <seg>(MT) {"translation": "การประยุกต์ใช้ที่ดีจะ&lt;t0/&gt;อภิบาล&lt;t1/&gt;ผู้คนด้วยพระคุณของพระเจ้าที่พบใน&lt;t2/&gt;พ&lt;t3/&gt;ันธสัญญา&lt;t4/&gt;ใ&lt;t5/&gt;หม่&lt;t6/&gt;ซึ่งในที่สุดจะนำไปสู่การกลับใจ ความเชื่อ และการนมัสการพระเจ้าผู้ทรงพระชนม์"}
+"}
+ทรงพระชนม์"}
+ชนม์"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Good application considers existing frameworks, current issues, personal circumstances, different age groups&lt;t0/&gt;,&lt;t1/&gt; and personality types&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171521Z" creationid="nathanwatkins" creationdate="20260409T171521Z">
+        <seg>(MT) การประยุกต์ใช้ที่ดีควรคำนึงถึงโครงสร้างทางสังคมที่มีอยู่ ประเด็นปัจจุบัน สถานการณ์ส่วนบุคคล รวมถึงกลุ่มอายุที่หลากหลาย&lt;t0/&gt;,&lt;t1/&gt; และลักษณะบุคลิกภาพที่แตกต่างกัน&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1945,6 +2020,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>I&lt;t0/&gt;mperatives</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171503Z" creationid="nathanwatkins" creationdate="20260409T171503Z">
+        <seg>(MT) ค&lt;t0/&gt;ำสั่ง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>I&lt;t0/&gt;nstructions</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171505Z" creationid="nathanwatkins" creationdate="20260409T171505Z">
+        <seg>(MT) คำ&lt;t0/&gt;แนะนำ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Identify the rise in tension, climax, and resolution. What direction does this story take?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170004Z" creationid="nathanwatkins" creationdate="20260409T170004Z">
@@ -2105,6 +2196,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It brings confidence to the preacher and the listener that God’s Word has been proclaimed correctly and applied in a compelling manner.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171524Z" creationid="nathanwatkins" creationdate="20260409T171524Z">
+        <seg>(MT) สิ่งนี้ช่วยสร้างความมั่นใจให้แก่ทั้งผู้เทศนาและผู้ฟังว่า พระวจนะของพระเจ้าได้รับการประกาศอย่างถูกต้อง และมีการนำมาประยุกต์ใช้อย่างทรงพลังและโน้มน้าวใจ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It clarifies the task of the preacher or teacher of God’s Word.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171516Z" creationid="nathanwatkins" creationdate="20260409T171516Z">
+        <seg>(MT) สิ่งนี้ช่วยให้หน้าที่ของผู้เทศนาหรือผู้สอนพระวจนะของพระเจ้ามีความชัดเจนยิ่งขึ้น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It convicts: Jeremiah 23:28-29</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2229,6 +2336,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>โยนาห์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key elements to be considered for an expository sermon&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171533Z" creationid="nathanwatkins" creationdate="20260409T171533Z">
+        <seg>(MT) องค์ประกอบสำคัญที่ควรพิจารณาสำหรับคำเทศนาแบบอรรถาธิบาย&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
@@ -2883,6 +2998,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Precise and compelling application flows from and is shaped&lt;t0/&gt; &lt;t1/&gt;by the &lt;t2/&gt;main idea and transformational intent&lt;t3/&gt;. Ask, &lt;t4/&gt;“&lt;t5/&gt;In light of this, how should we respond? What would it actually look like for the author&lt;t6/&gt;’s&lt;t7/&gt; tone, main idea&lt;t8/&gt;,&lt;t9/&gt; and transformational intent to be at work in our lives?&lt;t10/&gt;”</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171511Z" creationid="nathanwatkins" creationdate="20260409T171511Z">
+        <seg>(MT) การประยุกต์ใช้ที่แม่นยำและทรงพลังนั้นหลั่งไหลมาจากและถูกหล่อหลอม&lt;t0/&gt; &lt;t1/&gt;โดย&lt;t2/&gt;ใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลง&lt;t3/&gt;ให้ลองถามว่า &lt;t4/&gt;“&lt;t5/&gt;เมื่อพิจารณาจากสิ่งนี้ เราควรตอบสนองอย่างไร? หากน้ำเสียง ใจความสำคัญ&lt;t8/&gt;&lt;t9/&gt;และเจตนาเพื่อการเปลี่ยนแปลงของ&lt;t6/&gt;ผู้เขียน&lt;t7/&gt;นั้นส่งผลต่อชีวิตของเราจริงๆ จะมีลักษณะอย่างไร?&lt;t10/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Preparation and Presentation</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2991,6 +3114,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การเรียบเรียงคำเทศนา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Q&lt;t0/&gt;uestions</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171448Z" creationid="nathanwatkins" creationdate="20260409T171448Z">
+        <seg>(MT) คำ&lt;t0/&gt;ถาม</seg>
       </tuv>
     </tu>
     <tu>
@@ -3693,6 +3824,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The Spirit: God’s Spirit works through &lt;t0/&gt;his&lt;t1/&gt; Word to bring about the transformation &lt;t2/&gt;h&lt;t3/&gt;e intends.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171446Z" creationid="nathanwatkins" creationdate="20260409T171446Z">
+        <seg>(MT) พระวิญญาณ: พระวิญญาณของพระเจ้าทรงทำงานผ่านทางพระวจนะของ&lt;t0/&gt;พระองค์&lt;t1/&gt; เพื่อให้เกิดการเปลี่ยนแปลงตามที่&lt;t2/&gt;พระองค์&lt;t3/&gt;ทรงตั้งพระทัยไว้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The Three-Legged Stool</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -3888,6 +4027,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The preacher: The preacher must prayerfully depend on God’s Spirit to work through &lt;t0/&gt;his&lt;t1/&gt; Word.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171448Z" creationid="nathanwatkins" creationdate="20260409T171448Z">
+        <seg>(MT) ผู้เทศนา: ผู้เทศนาต้องอธิษฐานพึ่งพาพระวิญญาณของพระเจ้า เพื่อให้พระองค์ทรงทำการผ่านทางพระวจนะของ&lt;t0/&gt;พระองค์&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The primary Genre of Genesis is narrative. It is historical in nature. &lt;t0/&gt;So&lt;t1/&gt; we call its genre &lt;t2/&gt;Historical Narrative. &lt;t3/&gt;What are the characteristics of Historical Narrative books in the Bible?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T111032Z" creationid="nathanwatkins" creationdate="20260409T111032Z">
@@ -3925,6 +4072,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170854Z" creationid="nathanwatkins" creationdate="20260409T170854Z">
         <seg>(MT) เรื่องราวยังไม่จบลงและกำลังรอคอยบทสรุป เมื่อมาถึงตอนท้ายของหนังสือปฐมกาล (และที่จริงคือพันธสัญญาเดิมทั้งเล่ม) ผู้อ่านที่พินิจพิจารณาจะอุทานว่า “ต้องมีอะไรมากกว่านี้แน่ๆ!” ดังนั้น&lt;t0/&gt; . . .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target illustration: Like a target, every sermon has a bull’s-eye. The goal is to hit it.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171444Z" creationid="nathanwatkins" creationdate="20260409T171444Z">
+        <seg>(MT) ภาพเปรียบเทียบเรื่องเป้า: เช่นเดียวกับเป้ายิง คำเทศนาทุกบทมีจุดกึ่งกลางเป้า และเป้าหมายคือการเทศนาให้เข้าเป้านั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -4367,6 +4522,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การเปลี่ยนแปลงและการทวีคูณเป็นส่วนหนึ่งของการอบรมหลักของเรา ความยั่งยืนเป็นเป้าหมายของการอบรมขั้นสูงของเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformation takes time and must be sought through prayerful dependence on &lt;t0/&gt;God.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171445Z" creationid="nathanwatkins" creationdate="20260409T171445Z">
+        <seg>(MT) การเปลี่ยนแปลงชีวิตต้องใช้เวลา และต้องแสวงหาผ่านการอธิษฐานพึ่งพา&lt;t0/&gt;พระเจ้า</seg>
       </tuv>
     </tu>
     <tu>
