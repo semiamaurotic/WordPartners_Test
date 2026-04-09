@@ -1160,6 +1160,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>God’s Word</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162834Z" creationid="nathanwatkins" creationdate="20260409T162834Z">
+        <seg>(MT) พระวจนะของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>God’s law is given as part of the covenant relationship God initiates with his people.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162404Z" creationid="nathanwatkins" creationdate="20260409T162404Z">
@@ -2288,10 +2296,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>No &lt;t0/&gt;d&lt;t1/&gt;irect &lt;t2/&gt;r&lt;t3/&gt;oute</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162940Z" creationid="nathanwatkins" creationdate="20260409T162940Z">
+        <seg>(MT) ไม่มี&lt;t2/&gt;เ&lt;t3/&gt;ส้นทาง&lt;t0/&gt;โ&lt;t1/&gt;ดยตรง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No additional restrictions&lt;t0/&gt;:&lt;t1/&gt; You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103739Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
         <seg>ไม่มีข้อจำกัดเพิ่มเติม – คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใด ๆ ที่จะจำกัดสิทธิ์ของผู้อื่นในการกระทำสิ่งที่สัญญาอนุญาตนี้อน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>No direct route: Often we are tempted to read God’s Word and immediately apply it to our lives. This is a shortcut we must not take.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162907Z" creationid="nathanwatkins" creationdate="20260409T162907Z">
+        <seg>(MT) ไม่มีเส้นทางสายตรง: บ่อยครั้งเราถูกล่อลวงให้อ่านพระวจนะของพระเจ้าแล้วนำมาประยุกต์ใช้กับชีวิตของเราในทันที นี่คือทางลัดที่เราต้องไม่เลือกใช้</seg>
       </tuv>
     </tu>
     <tu>
@@ -3264,6 +3288,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The key is to understand the right pieces of the context. This involves wrestling with questions like, &lt;t0/&gt;What&lt;t1/&gt; does the author say? Why does he say it in this way? Why does he say it here? What is surprising about it?&lt;t2/&gt; These questions lead us to the right information and help us discover the author’s main idea and transformational intent.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163014Z" creationid="nathanwatkins" creationdate="20260409T163014Z">
+        <seg>(MT) หัวใจสำคัญคือการทำความเข้าใจองค์ประกอบของบริบทให้ถูกจุด ซึ่งเราต้องขบคิดผ่านคำถามต่างๆ เช่น &lt;t0/&gt;ผู้เขียนพูดว่าอะไร&lt;t1/&gt;? ทำไมเขาถึงพูดในลักษณะนี้? ทำไมเขาถึงพูดไว้ตรงนี้? และมีอะไรที่น่าประหลาดใจบ้าง?&lt;t2/&gt; คำถามเหล่านี้จะนำเราไปสู่ข้อมูลที่ถูกต้อง และช่วยให้เราค้นพบใจความสำคัญรวมถึงเจตนาของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The law of the &lt;t0/&gt;L&lt;t1/&gt;ord&lt;t2/&gt; &lt;t3/&gt;is perfect,</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T091837Z" creationid="nathanwatkins" creationdate="20260406T091837Z">
@@ -3288,6 +3320,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>The original audience's situation and relationship to the author which can be gleaned from within the book and from elsewhere in the Bible. (For example, Ephesians directs us to travel back to Acts.) Ask, &lt;t0/&gt;“&lt;t1/&gt;What was the intent of this message for them?&lt;t2/&gt;”</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162911Z" creationid="nathanwatkins" creationdate="20260409T162911Z">
+        <seg>(MT) สถานการณ์และความสัมพันธ์ระหว่างผู้ฟังดั้งเดิมกับผู้เขียน ซึ่งสามารถสืบค้นได้จากเนื้อหาภายในพระธรรมเล่มนั้นและจากที่อื่นๆ ในพระคัมภีร์ (ตัวอย่างเช่น พระธรรมเอเฟซัสที่นำเราย้อนกลับไปดูในพระธรรมกิจการ) ให้ถามว่า &lt;t0/&gt;“&lt;t1/&gt;จุดประสงค์ของข่าวสารนี้ที่มีต่อพวกเขาคืออะไร?&lt;t2/&gt;”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>The original context</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -3300,6 +3340,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>บริบทดั้งเดิมประกอบด้วย:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The original context: Instead, we must do the hard work to understand the text in its original biblical context in order to understand the author’s transformational intent for them.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162855Z" creationid="nathanwatkins" creationdate="20260409T162855Z">
+        <seg>(MT) บริบทดั้งเดิม: แทนที่จะทำเช่นนั้น เราต้องทุ่มเทศึกษาเพื่อทำความเข้าใจเนื้อหาตามบริบทเดิมในพระคัมภีร์อย่างจริงจัง เพื่อให้เข้าใจถึงเจตนารมณ์ของผู้เขียนที่ต้องการให้ผู้อ่านในเวลานั้นเกิดการเปลี่ยนแปลงชีวิต</seg>
       </tuv>
     </tu>
     <tu>
@@ -3348,6 +3396,22 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การฝึกอบรมนี้ต้องอาศัยความมุ่งมั่นที่จะ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The units of thought immediately before and after the passage. Ask, &lt;t0/&gt;“&lt;t1/&gt;Why does the author say this &lt;t2/&gt;here?&lt;t3/&gt;”&lt;t4/&gt; How does what he says before and after this passage connect to this passage? How &lt;t5/&gt;does it develop his larger main idea?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162912Z" creationid="nathanwatkins" creationdate="20260409T162912Z">
+        <seg>(MT) เนื้อหาที่อยู่ก่อนหน้าและหลังข้อพระคัมภีร์ตอนนี้ทันที ให้ถามว่า &lt;t0/&gt;“&lt;t1/&gt;ทำไมผู้เขียนถึงกล่าวเรื่องนี้ &lt;t2/&gt;ไว้ตรงนี้?&lt;t3/&gt;”&lt;t4/&gt; สิ่งที่เขากล่าวก่อนและหลังข้อพระคัมภีร์ตอนนี้เชื่อมโยงกับตอนนี้อย่างไร? และ&lt;t5/&gt;เนื้อหาเหล่านั้นช่วยขยายใจความสำคัญในภาพรวมของผู้เขียนได้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The use of literary connections with other Scripture&lt;t0/&gt;s&lt;t1/&gt;. (For example, Paul uses a reference to Numbers 16 in order to make a point in 2 Timothy 2:14-19.) Ask, &lt;t2/&gt;“&lt;t3/&gt;How does the point in the referenced passage connect with the point being made in the later passage?&lt;t4/&gt;”</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162930Z" creationid="nathanwatkins" creationdate="20260409T162930Z">
+        <seg>(MT) มองหาความเชื่อมโยงทางวรรณกรรมกับพระคัมภีร์ตอนอื่น&lt;t0/&gt;ๆ&lt;t1/&gt;(ตัวอย่างเช่น เปาโลอ้างถึงกันดารวิถี 16 เพื่อยกประเด็นใน 2 ทิโมธี 2:14-19) แล้วตั้งคำถามว่า &lt;t2/&gt;“&lt;t3/&gt;ประเด็นในพระคัมภีร์ตอนที่ถูกอ้างถึงนั้น เชื่อมโยงกับประเด็นที่ผู้เขียนกำลังนำเสนอในตอนหลังอย่างไร?&lt;t4/&gt;”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3436,6 +3500,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T112726Z" creationid="nathanwatkins" creationdate="20260409T112726Z">
         <seg>(MT) ทั้งหมดนี้ล้วนทำไปเพื่อ &lt;t0/&gt;บรรลุวัตถุประสงค์ของผู้เขียน&lt;t1/&gt;&lt;t2/&gt;ผู้เขียนจงใจเลือกโครงสร้างนี้เพื่อสนับสนุนและเผยให้เห็นถึงใจความสำคัญ ตลอดจนเจตจำนงในการเปลี่ยนแปลงชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This principle is about the relationship between context and application. Before we can apply the &lt;t0/&gt;text&lt;t1/&gt;, we must carefully observe it in its context. This will help us discover the author’s main idea and transformational intent. Then we can make precise and compelling applications aligned with the author’s intent.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162854Z" creationid="nathanwatkins" creationdate="20260409T162854Z">
+        <seg>(MT) หลักการนี้ว่าด้วยความสัมพันธ์ระหว่างบริบทและการนำไปประยุกต์ใช้ ก่อนที่เราจะนำ &lt;t0/&gt;เนื้อหาในพระคัมภีร์&lt;t1/&gt;ไปใช้ได้ เราต้องสังเกตเนื้อหานั้นในบริบทอย่างละเอียดรอบคอบเสียก่อน วิธีนี้จะช่วยให้เราค้นพบใจความสำคัญและเจตนารมณ์ของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลงชีวิต จากนั้นเราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำและทรงพลัง โดยสอดคล้องกับเจตนารมณ์ของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -3653,6 +3725,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เราในวันนี้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Us today: Now our application of the text will be precise and compelling, shaped by the author’s intent. Ask, “In light of &lt;t0/&gt;the author’s transformational intent for his original &lt;t1/&gt;audience&lt;t2/&gt;, how should we respond?” What would it actually look like for the author’s transformational intent to be at work in our lives?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162913Z" creationid="nathanwatkins" creationdate="20260409T162913Z">
+        <seg>(MT) สำหรับเราในทุกวันนี้: การประยุกต์ใช้พระธรรมตอนนั้นๆ ของเราจะมีความแม่นยำและทรงพลังยิ่งขึ้น เพราะมีเจตนารมณ์ของผู้เขียนเป็นตัวกำหนด ให้ลองถามว่า “เมื่อพิจารณาถึง &lt;t0/&gt;เจตนารมณ์ของผู้เขียนที่ต้องการสร้างการเปลี่ยนแปลงในชีวิตของ&lt;t1/&gt;ผู้ฟัง&lt;t2/&gt;ดั้งเดิมแล้ว เราควรตอบสนองอย่างไร?” และถ้าเจตนารมณ์เพื่อการเปลี่ยนแปลงของผู้เขียนเกิดขึ้นในชีวิตเราจริงๆ จะมีลักษณะอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
