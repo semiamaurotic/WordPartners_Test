@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Biblical theology sees the Bible as one story that finds its focus and fulfillment in Jesus. This way of reading the Bible is true to its nature and to God’s purpose.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170702Z" creationid="nathanwatkins" creationdate="20260409T170702Z">
+        <seg>(MT) ศาสนศาสตร์พระคัมภีร์มองว่าพระคัมภีร์คือเรื่องราวหนึ่งเดียวที่มีจุดศูนย์รวมและความสำเร็จในพระเยซู การอ่านพระคัมภีร์ในลักษณะนี้สอดคล้องกับธรรมชาติของพระคัมภีร์และพระประสงค์ของพระเจ้าอย่างแท้จริง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Capacity</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130115Z" creationid="nathanwatkins" creationdate="20260406T130115Z">
@@ -1120,6 +1128,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Focus and fulfillment in Jesus: Every part of the story reveals God’s work to bring about this grand theme through &lt;t0/&gt;his&lt;t1/&gt; Son&lt;t2/&gt;,&lt;t3/&gt; Jesus.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170728Z" creationid="nathanwatkins" creationdate="20260409T170728Z">
+        <seg>(MT) จุดเน้นและความสำเร็จในพระเยซู: เรื่องราวทุกส่วนล้วนเผยให้เห็นถึงพระราชกิจของพระเจ้าในการทำให้แก่นเรื่องอันยิ่งใหญ่นี้สำเร็จผ่านทาง&lt;t0/&gt;พระ&lt;t1/&gt;บุตรของพระองค์&lt;t2/&gt;คือ&lt;t3/&gt;พระเยซู</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Four Questions for Doing Biblical Theology</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1464,6 +1480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Here are six ways a passage could connect to the story of the whole Bible, finding its focus and fulfillment in Christ&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170820Z" creationid="nathanwatkins" creationdate="20260409T170820Z">
+        <seg>(MT) ต่อไปนี้คือ 6 วิธีที่พระธรรมตอนหนึ่งๆ อาจเชื่อมโยงกับเรื่องราวในพระคัมภีร์ทั้งเล่ม โดยมีจุดเน้นและความสำเร็จสมบูรณ์อยู่ในพระคริสต์&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Historical</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T112435Z" creationid="nathanwatkins" creationdate="20260409T112435Z">
@@ -1660,6 +1684,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>ใช้หลักการนี้อย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How has God accomplished these &lt;t0/&gt;things through Jesus?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170803Z" creationid="nathanwatkins" creationdate="20260409T170803Z">
+        <seg>(MT) พระเจ้าทรงทำให้สิ่ง &lt;t0/&gt;เหล่านี้สำเร็จผ่านทางพระเยซูอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1928,6 +1960,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>It ensures that we serve as ministers of the new covenant in a grace-oriented &lt;t0/&gt;way (Jeremiah 31:31-34; 2 Corinthians 3:4-6; Hebrews 8:1-&lt;t1/&gt;13;  9:11&lt;t2/&gt;-28).</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170819Z" creationid="nathanwatkins" creationdate="20260409T170819Z">
+        <seg>(MT) การทำเทววิทยาเชิงคัมภีร์ช่วยให้มั่นใจว่า เราจะทำหน้าที่เป็นผู้ปรนนิบัติแห่งพันธสัญญาใหม่โดยมุ่งเน้นที่พระคุณ ({INSERT OFFICIAL SCRIPTURE TRANSLATION OF Jeremiah 31:31-34}; {INSERT OFFICIAL SCRIPTURE TRANSLATION OF 2 Corinthians 3:4-6}; {INSERT OFFICIAL SCRIPTURE TRANSLATION OF Hebrews 8:1}-&lt;t1/&gt;13; 9:11&lt;t2/&gt;-28)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>It helps us hear God’s intended message and be changed by it.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164550Z" creationid="nathanwatkins" creationdate="20260409T164550Z">
@@ -1940,6 +1980,22 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164554Z" creationid="nathanwatkins" creationdate="20260409T164554Z">
         <seg>(MT) สิ่งนี้ช่วยให้เราเทศนาข่าวสารตามที่พระเจ้าทรงตั้งใจไว้ด้วยฤทธิ์เดชแห่งการเปลี่ยนแปลงของพระองค์&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It helps us see the text and &lt;t0/&gt;the main idea and transformational intent in light &lt;t1/&gt;of the whole Bible.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170742Z" creationid="nathanwatkins" creationdate="20260409T170742Z">
+        <seg>(MT) สิ่งนี้ช่วยให้เรามองเห็นตัวบท &lt;t0/&gt;ใจความสำคัญ และจุดมุ่งหมายในการเปลี่ยนแปลงชีวิต ในความสว่าง &lt;t1/&gt;ของพระคัมภีร์ทั้งเล่ม</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>It helps us to proclaim the glories of Christ and his gospel as the focus and fulfillment of the Scriptures.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170726Z" creationid="nathanwatkins" creationdate="20260409T170726Z">
+        <seg>(MT) สิ่งนี้ช่วยให้เราประกาศพระสิริของพระคริสต์และข่าวประเสริฐของพระองค์ ในฐานะจุดศูนย์กลางและความสำเร็จครบถ้วนของพระคัมภีร์</seg>
       </tuv>
     </tu>
     <tu>
@@ -2366,6 +2422,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170115Z" creationid="nathanwatkins" creationdate="20260409T170115Z">
         <seg>(MT) ตอนนี้ ให้คุณเรียบเรียงประโยค &lt;t0/&gt;ใ&lt;t1/&gt;จความ &lt;t2/&gt;ส&lt;t3/&gt;ำคัญของคุณใหม่ เพื่อสื่อถึง &lt;t4/&gt;น&lt;t5/&gt;้ำเสียง และ &lt;t6/&gt;อ&lt;t7/&gt;ารมณ์ นี้</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>One story: The Bible is a library of sixty-six books written by some forty authors over a period of fourteen hundred years. While each book serves a unique purpose, it also adds to the cohesive and progressive story. What is the grand theme of that story? We find it in the &lt;t0/&gt;final resolution&lt;t1/&gt;: God will dwell with man; &lt;t2/&gt;h&lt;t3/&gt;e will be their God and they will be &lt;t4/&gt;h&lt;t5/&gt;is people (Revelation 21:1-3). When we go back to Genesis 1 and read through the rest of the Bible, we see this was the goal all along.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170755Z" creationid="nathanwatkins" creationdate="20260409T170755Z">
+        <seg>(MT) เรื่องราวหนึ่งเดียว: พระคัมภีร์คือคลังหนังสือ 66 เล่มที่เขียนขึ้นโดยผู้เขียนราว 40 ท่าน ตลอดช่วงเวลากว่า 1,400 ปี แม้หนังสือแต่ละเล่มจะมีวัตถุประสงค์เฉพาะตัว แต่ทุกเล่มต่างก็ร้อยเรียงเข้าด้วยกันเป็นเรื่องราวที่สอดประสานและดำเนินไปอย่างต่อเนื่อง แล้วแก่นเรื่องที่ยิ่งใหญ่ของเรื่องราวนั้นคืออะไร? เราพบคำตอบได้ใน &lt;t0/&gt;บทสรุปสุดท้าย&lt;t1/&gt;นั่นคือ พระเจ้าจะประทับอยู่กับมนุษย์ &lt;t2/&gt;พ&lt;t3/&gt;ระองค์จะเป็นพระเจ้าของพวกเขา และพวกเขาจะเป็นประชากรของ&lt;t4/&gt;พ&lt;t5/&gt;ระองค์ (วิวรณ์ 21:1-3) เมื่อเราย้อนกลับไปที่ปฐมกาลบทที่ 1 และอ่านไปจนจบพระคัมภีร์ เราจะเห็นว่านี่คือเป้าหมายที่มีมาโดยตลอด</seg>
       </tuv>
     </tu>
     <tu>
@@ -3290,6 +3354,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Suggestions for Understanding Biblical Theology</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170756Z" creationid="nathanwatkins" creationdate="20260409T170756Z">
+        <seg>(MT) ข้อแนะนำในการทำความเข้าใจศาสนศาสตร์พระคัมภีร์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Sustainability: To see God carry forward that transformation and multiplication into strategic partnerships as you lead teams of pastors training pastors&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130213Z" creationid="nathanwatkins" creationdate="20260406T130213Z">
@@ -3714,10 +3786,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>This is &lt;t0/&gt;the way the disciples came to read and teach it. (For example, consider the apostolic preaching in Acts or the way each Gospel begins).</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170653Z" creationid="nathanwatkins" creationdate="20260409T170653Z">
+        <seg>(MT) นี่คือ&lt;t0/&gt;แนวทางที่เหล่าสาวกใช้ในการอ่านและสั่งสอนพระคัมภีร์ในเวลาต่อมา (ตัวอย่างเช่น พิจารณาได้จากคำเทศนาของเหล่าอัครทูตในพระธรรมกิจการ หรือวิธีการเริ่มต้นของพระกิตติคุณแต่ละเล่ม)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>This is all done to &lt;t0/&gt;Accomplish the Author’s Purpose&lt;t1/&gt;. &lt;t2/&gt;The author intentionally chose the structure to support and reveal the main idea and transformational intent</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T112726Z" creationid="nathanwatkins" creationdate="20260409T112726Z">
         <seg>(MT) ทั้งหมดนี้ล้วนทำไปเพื่อ &lt;t0/&gt;บรรลุวัตถุประสงค์ของผู้เขียน&lt;t1/&gt;&lt;t2/&gt;ผู้เขียนจงใจเลือกโครงสร้างนี้เพื่อสนับสนุนและเผยให้เห็นถึงใจความสำคัญ ตลอดจนเจตจำนงในการเปลี่ยนแปลงชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This is the way Jesus read and taught &lt;t0/&gt;the Bible (Luke 24:25-27&lt;t1/&gt;,&lt;t2/&gt; 44-49 and John 5:39-40).</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170800Z" creationid="nathanwatkins" creationdate="20260409T170800Z">
+        <seg>(MT) นี่คือวิธีที่พระเยซูทรงอ่านและทรงสอน &lt;t0/&gt;พระคัมภีร์ ({INSERT OFFICIAL SCRIPTURE TRANSLATION OF Luke 24:25-27}&lt;t1/&gt;,&lt;t2/&gt; 44-49 และ {INSERT OFFICIAL SCRIPTURE TRANSLATION OF John 5:39-40})</seg>
       </tuv>
     </tu>
     <tu>
@@ -3776,6 +3864,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163234Z" creationid="nathanwatkins" creationdate="20260409T163234Z">
         <seg>(MT) ทักษะนี้สามารถเรียนรู้ได้จากการฟังคำเทศนาที่ดีพอๆ กับการได้รับการสอนสั่ง เพราะการเทศนาแบบอรรถาธิบายมักจะเป็นเรื่องของการซึมซับได้พอๆ กับการเรียนรู้ ด้วย&lt;t0/&gt;เหตุผล&lt;t1/&gt;นี้ เราจะมารับฟังคำเทศนาแบบอรรถาธิบายจากพระวจนะของพระเจ้าด้วยกัน&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>This way of reading the Bible is true to its nature (the way it is put together) and to God’s purpose (&lt;t0/&gt;his&lt;t1/&gt; intention) in it.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170737Z" creationid="nathanwatkins" creationdate="20260409T170737Z">
+        <seg>(MT) การอ่านพระคัมภีร์วิธีนี้สอดคล้องกับธรรมชาติของพระคัมภีร์ (ลักษณะการเรียบเรียงโครงสร้างเข้าด้วยกัน) และสอดคล้องกับพระประสงค์ของพระเจ้า (&lt;t0/&gt;เจตนารมณ์ของพระองค์&lt;t1/&gt;) ที่มีอยู่ในนั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -4036,6 +4132,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>True to the nature of Scripture and God’s purpose in it&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170712Z" creationid="nathanwatkins" creationdate="20260409T170712Z">
+        <seg>(MT) สอดคล้องกับธรรมชาติของพระคัมภีร์และพระประสงค์ของพระเจ้าที่มีอยู่ในนั้น&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Try to explain the principle of The Line using the illustration:</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T070739Z" creationid="Angkana Laksa" creationdate="20260408T070739Z">
@@ -4161,6 +4265,22 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T102041Z" creationid="nathanwatkins" creationdate="20260406T102041Z">
         <seg>เรารอคอยเวลาที่จะได้ใช้เวลาร่วมกับคุณ และเชื่อว่าจะเป็นเวลาที่มีค่าเราทูลขอพระเจ้าให้ตรัสอย่างทรงพลังผ่านพระวจนะของพระองค์ และทรงเปลี่ยนแปลงชีวิตและพันธกิจของเราต่อไปเพื่อพระสิริของพระองค์เอง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We may be studying a passage that is on a side road. The important question to ask is: How does this passage get me to the main highway? Or, &lt;t0/&gt;How&lt;t1/&gt; does this passage connect with a main theme or passage that points me towards Christ?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170803Z" creationid="nathanwatkins" creationdate="20260409T170803Z">
+        <seg>(MT) เราอาจกำลังศึกษาพระธรรมตอนที่เปรียบเหมือนถนนสายรอง คำถามสำคัญที่ต้องถามคือ พระธรรมตอนนี้จะนำเราไปสู่ทางหลวงสายหลักได้อย่างไร? หรือพระธรรมตอนนี้เชื่อมโยงกับหัวข้อหลักหรือพระธรรมตอนที่ชี้เราไปสู่พระคริสต์ &lt;t0/&gt;อย่างไร&lt;t1/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We may think about the Bible as a map, and on that map&lt;t0/&gt;,&lt;t1/&gt; we see that all roads in the Old Testament &lt;t2/&gt;lead&lt;t3/&gt; to Christ. Not all roads are the main highways. The main highways are those passages from which a direct connection to Christ can be clearly seen. But &lt;t4/&gt;all of the smaller roads, side streets, and alleys eventually connect to the main highways.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170754Z" creationid="nathanwatkins" creationdate="20260409T170754Z">
+        <seg>(MT) เราสามารถเปรียบพระคัมภีร์ได้กับแผนที่ใบหนึ่ง บนแผนที่นี้&lt;t0/&gt;&lt;t1/&gt;เราจะเห็นว่าถนนทุกสายในพันธสัญญาเดิมต่างก็&lt;t2/&gt;นำ&lt;t3/&gt;ไปสู่พระคริสต์ อย่างไรก็ตาม ไม่ใช่ว่าถนนทุกสายจะเป็นทางหลวงสายหลัก ทางหลวงสายหลักคือข้อพระคัมภีร์ตอนต่างๆ ที่เราสามารถเห็นความเชื่อมโยงโดยตรงกับพระคริสต์ได้อย่างชัดเจน แต่&lt;t4/&gt;บรรดาถนนสายเล็กๆ ถนนซอย และตรอกซอกซอยทั้งหลาย ในที่สุดก็จะไปเชื่อมต่อกับทางหลวงสายหลักเหล่านั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,6 +4438,14 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What does &lt;t0/&gt;Biblical Theology&lt;t1/&gt; mean?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170651Z" creationid="nathanwatkins" creationdate="20260409T170651Z">
+        <seg>(MT) &lt;t0/&gt;เทววิทยาเชิงคัมภีร์&lt;t1/&gt; หมายถึงอะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What does it capture from the text?</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -4338,6 +4466,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>หมายความว่าอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What does this tell us about how God works&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170819Z" creationid="nathanwatkins" creationdate="20260409T170819Z">
+        <seg>(MT) สิ่งนี้บอกอะไรเราเกี่ยวกับวิธีการที่พระเจ้าทรงทำงาน&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4442,6 +4578,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170035Z" creationid="nathanwatkins" creationdate="20260409T170035Z">
         <seg>(MT) แนวคิดหลักของผู้เขียนคืออะไร? และผู้เขียนกล่าวเจาะจงเกี่ยวกับแนวคิดนั้นว่าอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the main idea and transformational intent of this passage or book&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170740Z" creationid="nathanwatkins" creationdate="20260409T170740Z">
+        <seg>(MT) ใจความสำคัญและเป้าหมายในการเปลี่ยนแปลงชีวิตของพระธรรมตอนนี้หรือพระธรรมเล่มนี้คืออะไร&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5166,6 +5310,14 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>see the importance of the practice of Biblical Theology for expository preaching&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170711Z" creationid="nathanwatkins" creationdate="20260409T170711Z">
+        <seg>(MT) เห็นถึงความสำคัญของการนำเทววิทยาเชิงคัมภีร์มาใช้ในการเทศนาแบบอรรถาธิบาย&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>see the message of a larger section of Scripture&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164428Z" creationid="nathanwatkins" creationdate="20260409T164428Z">
@@ -5252,6 +5404,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T074419Z" creationid="Angkana Laksa" creationdate="20260408T074419Z">
         <seg>เข้าใจว่าหลักการทั้งสองประการนี้สัมพันธ์กันและทำงานร่วมกันอย่างไร&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>understand how this part of the Bible finds its focus and fulfillment in Christ&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170704Z" creationid="nathanwatkins" creationdate="20260409T170704Z">
+        <seg>(MT) เข้าใจว่าพระธรรมส่วนนี้มีจุดศูนย์กลางและสำเร็จสมบูรณ์ในพระคริสต์อย่างไร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
