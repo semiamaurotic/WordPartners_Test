@@ -72,8 +72,8 @@
       <tuv lang="en-US">
         <seg>2</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171810Z" creationid="nathanwatkins" creationdate="20260409T171810Z">
-        <seg>(MT) 2</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174457Z" creationid="nathanwatkins" creationdate="20260409T171810Z">
+        <seg>2</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="en-US">
         <seg>3</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171812Z" creationid="nathanwatkins" creationdate="20260409T171812Z">
-        <seg>(MT) 3</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174455Z" creationid="nathanwatkins" creationdate="20260409T171812Z">
+        <seg>3</seg>
       </tuv>
     </tu>
     <tu>
@@ -168,16 +168,16 @@
       <tuv lang="en-US">
         <seg>45</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171813Z" creationid="nathanwatkins" creationdate="20260409T171813Z">
-        <seg>(MT) 45</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174507Z" creationid="nathanwatkins" creationdate="20260409T171813Z">
+        <seg>45</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>46</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171813Z" creationid="nathanwatkins" creationdate="20260409T171813Z">
-        <seg>(MT) 46</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174504Z" creationid="nathanwatkins" creationdate="20260409T171813Z">
+        <seg>46</seg>
       </tuv>
     </tu>
     <tu>
@@ -232,8 +232,8 @@
       <tuv lang="en-US">
         <seg>6</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171811Z" creationid="nathanwatkins" creationdate="20260409T171811Z">
-        <seg>(MT) 6</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174509Z" creationid="nathanwatkins" creationdate="20260409T171811Z">
+        <seg>6</seg>
       </tuv>
     </tu>
     <tu>
@@ -256,8 +256,8 @@
       <tuv lang="en-US">
         <seg>7</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171824Z" creationid="nathanwatkins" creationdate="20260409T171824Z">
-        <seg>(MT) 7</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174530Z" creationid="nathanwatkins" creationdate="20260409T171824Z">
+        <seg>7</seg>
       </tuv>
     </tu>
     <tu>
@@ -825,10 +825,8 @@
       <tuv lang="en-US">
         <seg>Consider the entire overarching story of Genesis and answer the following questions according to the features of &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162446Z" creationid="nathanwatkins" creationdate="20260409T162446Z">
-        <seg>(MT) {"translation": "พิจารณาภาพรวมของเรื่องราวทั้งหมดในพระธรรมปฐมกาล และตอบคำถามต่อไปนี้ตามลักษณะของ &lt;t0/&gt;เ&lt;t1/&gt;รื่องเล่า&lt;t2/&gt;เ&lt;t3/&gt;ชิงประวัติศาสตร์&lt;t4/&gt;"}
-"}
-ศาสตร์&lt;t4/&gt;"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174723Z" creationid="nathanwatkins" creationdate="20260409T162446Z">
+        <seg>(MT) พิจารณาภาพรวมของเรื่องราวทั้งหมดในพระธรรมปฐมกาล และตอบคำถามต่อไปนี้ตามลักษณะของ &lt;t0/&gt;เ&lt;t1/&gt;รื่องเล่า&lt;t2/&gt;เ&lt;t3/&gt;ชิงประวัติศาสตร์&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3667,8 +3665,8 @@
       <tuv lang="en-US">
         <seg>Session&lt;t0/&gt; 3</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171840Z" creationid="nathanwatkins" creationdate="20260409T171840Z">
-        <seg>(MT) ช่วงที่&lt;t0/&gt; 3</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174520Z" creationid="nathanwatkins" creationdate="20260409T171840Z">
+        <seg>ช่วงที่&lt;t0/&gt; 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -5117,15 +5115,8 @@
       <tuv lang="en-US">
         <seg>What are the primary covenants in the Old Testament and how does each one contribute to the development of your key themes from Genesis?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170949Z" creationid="nathanwatkins" creationdate="20260409T170949Z">
-        <seg>(MT) {"translation": "พันธสัญญาหลักในพันธสัญญาเดิมมีอะไรบ้าง และแต่ละพันธสัญญาช่วยต่อยอดหัวข้อสำคัญที่คุณสรุปมาจากพระธรรมปฐมกาลอย่างไร"}
-กาลอย่างไร"}
-"}
-อย่างไร"}
-ฐรรมปฐมกาลอย่างไร"}
-าลอย่างไร"}
-อย่างไร"}
-ฐมกาลอย่างไร"}</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174407Z" creationid="nathanwatkins" creationdate="20260409T170949Z">
+        <seg>(MT) พันธสัญญาหลักในพันธสัญญาเดิมมีอะไรบ้าง และแต่ละพันธสัญญาช่วยต่อยอดหัวข้อสำคัญที่คุณสรุปมาจากพระธรรมปฐมกาลอย่างไร</seg>
       </tuv>
     </tu>
     <tu>
