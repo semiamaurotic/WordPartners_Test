@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Acting as structural markers:&lt;t0/&gt; Genealogies move the story along by revealing connections within and between each unit of thought. This reveals significance, emphasis, progression and/or purpose. Sometimes this comes from the genealogy itself. Sometimes from the events that follow.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160327Z" creationid="nathanwatkins" creationdate="20260409T160327Z">
+        <seg>(MT) ทำหน้าที่เป็นตัวบอกโครงสร้าง:&lt;t0/&gt; ลำดับพงศ์พันธุ์ช่วยขับเคลื่อนเรื่องราวให้ดำเนินไปโดยเผยให้เห็นความเชื่อมโยงภายในและระหว่างเนื้อหาแต่ละตอน สิ่งนี้แสดงให้เห็นถึงความสำคัญ การเน้นย้ำ ความคืบหน้า และ/หรือจุดประสงค์ของเรื่องราว ซึ่งบางครั้งอาจสื่อออกมาจากตัวลำดับพงศ์พันธุ์เอง หรือเห็นได้จากเหตุการณ์ที่ตามมา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adapt&lt;t0/&gt;: R&lt;t1/&gt;emix, transform, and build upon the material for any purpose, &lt;t2/&gt;including commercial use&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103710Z" creationid="nathanwatkins" creationdate="20260406T103710Z">
@@ -942,6 +950,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Genealogies</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160313Z" creationid="nathanwatkins" creationdate="20260409T160313Z">
+        <seg>(MT) ลำดับพงศ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genealogies are used frequently in the book of Genesis and are a significant feature of the Historical Narrative we read there. The phrase “generations of” (or similar) occurs throughout the book (Genesis 2:4; 5:1; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; and 37:2). At first glance, genealogies might seem like monotonous lists of names. However, the genealogies in Genesis actually fill the story with movement and meaning.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160400Z" creationid="nathanwatkins" creationdate="20260409T160400Z">
+        <seg>(MT) ลำดับพงศ์พันธุ์ปรากฏให้เห็นบ่อยครั้งในพระธรรมปฐมกาล และถือเป็นองค์ประกอบสำคัญของเรื่องเล่าเชิงประวัติศาสตร์ในพระธรรมเล่มนี้ วลีที่ว่า “ลำดับพงศ์พันธุ์ของ...” (หรือคำที่คล้ายกัน) พบได้ตลอดทั้งเล่ม (ปฐมกาล 2:4; 5:1; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; และ 37:2) แม้เมื่อมองเผินๆ ลำดับพงศ์พันธุ์อาจดูเหมือนเป็นเพียงรายชื่อที่ซ้ำซากจำเจ แต่แท้จริงแล้ว ลำดับพงศ์พันธุ์ในพระธรรมปฐมกาลช่วยขับเคลื่อนเรื่องราวและทำให้เนื้อหาเปี่ยมไปด้วยความหมาย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>General Characteristics of Historical Narrative&lt;t0/&gt; &lt;t1/&gt;Books</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T110948Z" creationid="nathanwatkins" creationdate="20260409T110948Z">
@@ -1486,6 +1510,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Mood:&lt;t0/&gt; &lt;t1/&gt;The author intentionally uses his tone through the narrative to create a &lt;t2/&gt;mood&lt;t3/&gt; in the reader. This mood is the attitude toward the story and characters with which the author intended the reader to respond. This leads to the author’s intended transformation which is not just our actions but also our attitudes&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160349Z" creationid="nathanwatkins" creationdate="20260409T160349Z">
+        <seg>(MT) อารมณ์:&lt;t0/&gt; &lt;t1/&gt;ผู้เขียนจงใจใช้น้ำเสียงของตนผ่านการดำเนินเรื่องเพื่อสร้าง &lt;t2/&gt;อารมณ์&lt;t3/&gt; ให้เกิดขึ้นในใจผู้อ่าน อารมณ์นี้คือทัศนคติต่อเรื่องราวและตัวละครที่ผู้เขียนมุ่งหวังให้ผู้อ่านมีในการตอบสนอง ซึ่งนำไปสู่การเปลี่ยนแปลงตามที่ผู้เขียนตั้งใจไว้ อันเป็นความเปลี่ยนแปลงที่ไม่ใช่เพียงแค่การกระทำเท่านั้น แต่ยังรวมถึงทัศนคติของเราด้วย&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>More to be desired are they &lt;t0/&gt;than&lt;t1/&gt; gold,</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T100933Z" creationid="nathanwatkins" creationdate="20260406T100933Z">
@@ -1682,6 +1714,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T090806Z" creationid="nathanwatkins" creationdate="20260406T090806Z">
         <seg>ผู้รับใช้และผู้นำคริสตจักรที่มีพันธกิจด้านพระวจนะอันทรงคุณค่า ซึ่งมี:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Paying &lt;t0/&gt;A&lt;t1/&gt;ttention to Tone and Mood in &lt;t2/&gt;Historical &lt;t3/&gt;Narrative</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160508Z" creationid="nathanwatkins" creationdate="20260409T160508Z">
+        <seg>(MT) การ&lt;t0/&gt;สั&lt;t1/&gt;งเกตน้ำเสียงและอารมณ์ใน&lt;t2/&gt;เรื่องเล่า&lt;t3/&gt;เชิงประวัติศาสตร์</seg>
       </tuv>
     </tu>
     <tu>
@@ -1914,6 +1954,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160122Z" creationid="nathanwatkins" creationdate="20260409T160122Z">
         <seg>(MT) การคลี่คลาย &lt;t0/&gt;(&lt;t1/&gt;อธิบายว่าเรื่องราวเป็นอย่างไรต่อไปหลังจากผ่านจุดสูงสุด&lt;t2/&gt;; &lt;t3/&gt;และอาจมีการเริ่มสร้างความตึงเครียดใหม่ขึ้นด้วย&lt;t4/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Revealing origins:&lt;t0/&gt; Genesis is the book of beginnings, and the genealogies help God’s people understand the source of their identity, nation, and purpose.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160335Z" creationid="nathanwatkins" creationdate="20260409T160335Z">
+        <seg>(MT) เผยให้เห็นต้นกำเนิด:&lt;t0/&gt; พระธรรมปฐมกาลคือหนังสือแห่งการเริ่มต้น และลำดับพงศ์พันธุ์ช่วยให้ประชากรของพระเจ้าเข้าใจถึงที่มาของอัตลักษณ์ ประชาชาติ และจุดประสงค์ของตนเอง</seg>
       </tuv>
     </tu>
     <tu>
@@ -2214,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Specific to Genesis</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160339Z" creationid="nathanwatkins" creationdate="20260409T160339Z">
+        <seg>(MT) ลักษณะเฉพาะในพระธรรมปฐมกาล</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>State</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2322,6 +2378,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130539Z" creationid="nathanwatkins" creationdate="20260406T130539Z">
         <seg>เวิร์กช็อปมีเป้าหมายมากกว่าการถ่ายทอดข้อมูล (หรือเป็นเพียงโปรแกรมอบรมอย่างง่าย) แต่เวิร์กช็อปส่งเสริมกระบวนการพัฒนาอีกด้วย การใช้ภาพเปรียบเทียบที่รู้จักกันดี จะไม่เพียงให้ปลาแก่คุณ แต่จะสอนวิธีจับปลา รวมถึงวิธีหล่อเลี้ยงทั้งหัวใจและทักษะในการจับปลาให้คุณด้วย สิ่งที่เราเรียนรู้สำคัญ แต่สิ่งที่สำคัญยิ่งกว่าก็คือวิธีที่เราเรียนรู้และการเปลี่ยนแปลงที่เกิดจากการเรียนรู้นั้นๆ ด้วยเหตุนี้ การอบรมของเราจึงมีทั้งการปฏิสัมพันธ์และการให้ทุกคนได้มีส่วนร่วมอย่างมาก ทั้งยังเปิดโอกาสให้ทุกคนได้ฝึกปฏิบัติและเรียนรู้จากกันและกันอีกด้วย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The Author’s &lt;t0/&gt;t&lt;t1/&gt;one and &lt;t2/&gt;m&lt;t3/&gt;ood is closely related to &lt;t4/&gt;g&lt;t5/&gt;enre.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160352Z" creationid="nathanwatkins" creationdate="20260409T160352Z">
+        <seg>(MT) &lt;t0/&gt;น้ำเสียง&lt;t1/&gt;และ&lt;t2/&gt;บรรยากาศ&lt;t3/&gt;ของผู้เขียนมีความสัมพันธ์อย่างใกล้ชิดกับ&lt;t4/&gt;ประเภทวรรณกรรม&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2659,6 +2723,22 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>น้ำเสียงและอารมณ์</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tone:&lt;t0/&gt; &lt;t1/&gt;Embedded in every story is the author’s attitude toward the story and the characters in the story. This is the author’s &lt;t2/&gt;tone&lt;t3/&gt;. Tone is expressed in writing through the author’s choice of descriptions, verbs, expressions, and the pace of the story&lt;t4/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160343Z" creationid="nathanwatkins" creationdate="20260409T160343Z">
+        <seg>(MT) น้ำเสียง:&lt;t0/&gt; &lt;t1/&gt;ในทุกเรื่องราวจะมีทัศนคติของผู้เขียนที่มีต่อเนื้อเรื่องและตัวละครแฝงอยู่เสมอ นี่คือ &lt;t2/&gt;น้ำเสียง&lt;t3/&gt;ของผู้เขียน ซึ่งน้ำเสียงนี้จะแสดงออกผ่านการเลือกใช้คำบรรยาย คำกริยา สำนวน และจังหวะในการดำเนินเรื่องของผู้เขียนเอง&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tracing God’s promises:&lt;t0/&gt; Following man’s fall into sin, God promised to rescue his creation through the seed of the woman (Genesis 3:15). Genealogies help us trace that line of promise. Later promises, like the Abrahamic Covenant (12:2-3), continue to refine the original one, revealing how God will bring it to pass.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160331Z" creationid="nathanwatkins" creationdate="20260409T160331Z">
+        <seg>(MT) การติดตามพระสัญญาของพระเจ้า:&lt;t0/&gt; หลังจากมนุษย์ตกในความบาป พระเจ้าทรงสัญญาว่าจะทรงช่วยกู้สิ่งที่พระองค์ทรงสร้างผ่านทางพงศ์พันธุ์ของหญิง (ปฐมกาล 3:15) ลำดับพงศ์ช่วยให้เราติดตามสายแห่งพระสัญญานั้นได้ ส่วนพระสัญญาในเวลาต่อมา เช่น พันธสัญญาที่ทรงทำกับอับราฮัม (12:2-3) ก็ได้ช่วยขยายความพระสัญญาเดิมให้ชัดเจนยิ่งขึ้น และเปิดเผยว่าพระเจ้าจะทรงทำให้พระสัญญานั้นสำเร็จเป็นจริงได้อย่างไร</seg>
       </tuv>
     </tu>
     <tu>
