@@ -2056,6 +2056,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does the story end? How does the beginning compare to the end?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164139Z" creationid="nathanwatkins" creationdate="20260409T164139Z">
+        <seg>(MT) เรื่องราวนี้จบลงอย่างไร? เมื่อเปรียบเทียบตอนเริ่มต้นกับตอนจบแล้วเป็นอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does the story resolve?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163618Z" creationid="nathanwatkins" creationdate="20260409T163618Z">
@@ -2088,6 +2096,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does this story (Genesis 5:1-6:8) advance the larger story of Genesis? (Consider Genesis 2:4-3:24 and 6:9-9:29)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164159Z" creationid="nathanwatkins" creationdate="20260409T164159Z">
+        <seg>(MT) เรื่องราวในตอนนี้ (ปฐมกาล 5:1-6:8) มีส่วนช่วยให้เรื่องราวในภาพรวมของพระธรรมปฐมกาลดำเนินต่อไปอย่างไร? (พิจารณาปฐมกาล 2:4-3:24 และ 6:9-9:29 ประกอบ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does this work?</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2108,6 +2124,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163638Z" creationid="nathanwatkins" creationdate="20260409T163638Z">
         <seg>(MT) บทเรียนนี้ส่งผลต่อความเข้าใจของคุณเกี่ยวกับปฐมกาล 2:4&lt;t0/&gt;–&lt;t1/&gt;4:26&lt;t2/&gt;อย่างไรบ้าง?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How has this session impacted your understanding of Genesis 5:1–6:8?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164139Z" creationid="nathanwatkins" creationdate="20260409T164139Z">
+        <seg>(MT) บทเรียนนี้ส่งผลต่อความเข้าใจของคุณเกี่ยวกับพระธรรมปฐมกาล 5:1–6:8 อย่างไรบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2220,6 +2244,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164015Z" creationid="nathanwatkins" creationdate="20260409T164015Z">
         <seg>(MT) ในพระธรรมปฐมกาล ลำดับพงศ์หลายชุดมีการขยายความและร่วมบอกเล่าเรื่องราวด้วย เมื่อมีบทบรรยายตามหลังลำดับพงศ์ บทบรรยายนั้นจะช่วยขยายความเข้าใจในเรื่องราวที่ปรากฏในลำดับพงศ์ให้ชัดเจนยิ่งขึ้น ซึ่งหมายความว่าเราควรอ่านและทำความเข้าใจทั้งสองส่วนนี้ควบคู่กันไป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In a genealogy there are many names. But who are the main characters of Genesis 5:1‒6:8? How does the genealogy help us know who the main characters are?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164211Z" creationid="nathanwatkins" creationdate="20260409T164211Z">
+        <seg>(MT) ในลำดับพงศ์มีรายชื่อปรากฏอยู่มากมาย แต่ใครคือตัวละครหลักใน {INSERT OFFICIAL SCRIPTURE TRANSLATION OF Genesis 5:1}‒6:8? ลำดับพงศ์นี้ช่วยให้เราทราบได้อย่างไรว่าใครคือตัวละครหลัก?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2588,6 +2620,15 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163734Z" creationid="nathanwatkins" creationdate="20260409T163734Z">
         <seg>(MT) ตอนนี้นำงานของคุณไปเติมลงใน &lt;t2/&gt;โ&lt;t3/&gt;ครงเรื่องของ&lt;t0/&gt;เ&lt;t1/&gt;รื่องเล่า ใน&lt;t4/&gt; &lt;t5/&gt;หน้า &lt;t6/&gt;31&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now take a moment and describe each unit of thought using a few key words.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164142Z" creationid="nathanwatkins" creationdate="20260409T164142Z">
+        <seg>(MT) {"translation": "ใช้เวลาสักครู่เพื่อสรุปใจความสำคัญของแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ"}
+กี่คำ"}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4504,10 +4545,34 @@ t4/&gt;"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is the setting? How is this story introduced?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164139Z" creationid="nathanwatkins" creationdate="20260409T164139Z">
+        <seg>(MT) ฉากของเรื่องคืออะไร? เรื่องราวนี้เริ่มต้นอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is the tension (conflict, difficulty, problem, etc.) in this story?</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163548Z" creationid="nathanwatkins" creationdate="20260409T163548Z">
         <seg>(MT) ความตึงเครียดในเรื่องนี้คืออะไร (ความขัดแย้ง อุปสรรค ปัญหา ฯลฯ)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the tension (conflict, problem, difficulty, etc.) in this story?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164141Z" creationid="nathanwatkins" creationdate="20260409T164141Z">
+        <seg>(MT) ความตึงเครียด (ความขัดแย้ง ปัญหา ความยากลำบาก ฯลฯ) ในเรื่องนี้คืออะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the unique tone of this genealogy? (compare to the genealogies that start at Genesis 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164200Z" creationid="nathanwatkins" creationdate="20260409T164200Z">
+        <seg>(MT) ลำดับพงศ์นี้มีลักษณะเด่นหรือน้ำเสียงที่พิเศษอย่างไร? (เปรียบเทียบกับลำดับพงศ์ที่เริ่มต้นใน ปฐมกาล 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2)</seg>
       </tuv>
     </tu>
     <tu>
