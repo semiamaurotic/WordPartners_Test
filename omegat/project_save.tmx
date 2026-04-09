@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>A narrative is made up of three primary features: characters, setting, and plot.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113349Z" creationid="nathanwatkins" creationdate="20260409T113349Z">
+        <seg>(MT) เรื่องเล่าประกอบด้วยองค์ประกอบหลัก 3 ประการ คือ ตัวละคร ฉาก และโครงเรื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Adapt&lt;t0/&gt;: R&lt;t1/&gt;emix, transform, and build upon the material for any purpose, &lt;t2/&gt;including commercial use&lt;t3/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103710Z" creationid="nathanwatkins" creationdate="20260406T103710Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130018Z" creationid="nathanwatkins" creationdate="20260406T125924Z">
         <seg>ลักษณะนิสัย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113402Z" creationid="nathanwatkins" creationdate="20260409T113402Z">
+        <seg>(MT) ตัวละคร</seg>
       </tuv>
     </tu>
     <tu>
@@ -2046,6 +2062,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Setting</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113520Z" creationid="nathanwatkins" creationdate="20260409T113520Z">
+        <seg>(MT) ฉาก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Share&lt;t0/&gt;: C&lt;t1/&gt;opy and redistribute the material in any medium or format&lt;t2/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103614Z" creationid="nathanwatkins" creationdate="20260406T103614Z">
@@ -2843,6 +2867,22 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T090411Z" creationid="nathanwatkins" creationdate="20260406T090411Z">
         <seg>ใครควรมาอยู่ที่นี่?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who are all the characters mentioned in the story? What part does each play&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113427Z" creationid="nathanwatkins" creationdate="20260409T113427Z">
+        <seg>(MT) ตัวละครทั้งหมดที่กล่าวถึงในเรื่องนี้มีใครบ้าง? แต่ละคนมีบทบาทอย่างไร&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Who are the &lt;t0/&gt;main &lt;t1/&gt;characters? How do you know? What is their relationship to one another? How do their relationships unfold through the telling of the story&lt;t2/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113501Z" creationid="nathanwatkins" creationdate="20260409T113501Z">
+        <seg>(MT) &lt;t0/&gt;ตัวละครหลัก&lt;t1/&gt;มีใครบ้าง? คุณทราบได้อย่างไร? พวกเขามีความสัมพันธ์กันอย่างไร? และความสัมพันธ์ของพวกเขาพัฒนาไปอย่างไรตลอดการดำเนินเรื่อง&lt;t2/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
