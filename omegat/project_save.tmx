@@ -958,6 +958,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Genre can be compared to fruit. Different types of fruit have distinct characteristics requiring us to approach each one differently in order to eat it. Likewise, different genres of literature have distinct characteristics requiring us to approach each one differently to understand the author’s message.</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260409T022736Z" creationid="Angkana Laksa" creationdate="20260409T022736Z">
+        <seg>ประเภทวรรณกรรมเปรียบได้กับผลไม้ ผลไม้แต่ละชนิดมีลักษณะเฉพาะที่ทำให้เราต้องมีวิธีจัดการแตกต่างกันไปเพื่อจะรับประทานได้ ในทำนองเดียวกัน วรรณกรรมแต่ละประเภทก็มีคุณลักษณะเฉพาะตัวที่ทำให้เราต้องเข้าหาด้วยวิธีที่ต่างกัน เพื่อจะเข้าใจสารที่ผู้เขียนต้องการสื่อสาร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Give it another attempt. Make your statement complete, clear, and concise.</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
