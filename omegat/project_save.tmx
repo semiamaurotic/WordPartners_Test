@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Before answering the questions below, you will want to review the explanation of Structure in Sessions 1, 4, 6, and 7. Please also review the discussions on &lt;t0/&gt;g&lt;t1/&gt;enealogies, &lt;t2/&gt;l&lt;t3/&gt;aw, and Tone &amp; Mood in Session 1.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170406Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
+        <seg>(MT) ก่อนจะตอบคำถามด้านล่างนี้ ท่านควรทบทวนคำอธิบายเรื่องโครงสร้างในบทเรียนที่ 1, 4, 6 และ 7 นอกจากนี้ โปรดทบทวนเนื้อหาเกี่ยวกับ &lt;t0/&gt;ล&lt;t1/&gt;ำดับพงศ์ &lt;t2/&gt;ธ&lt;t3/&gt;รรมบัญญัติ รวมถึงเรื่องน้ำเสียงและอารมณ์ในบทเรียนที่ 1 ด้วย</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Before digging into this session, you may want to review the discussion on Genre and Structure in Session 1.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163355Z" creationid="nathanwatkins" creationdate="20260409T163355Z">
@@ -1104,6 +1112,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Finally, use the tone, mood, and transformational intent to shape your main idea into a sentence that expresses the purpose of the author. (Make sure it is general enough to express the whole of the author’s thought, yet specific enough to differentiate it from other books or passages&lt;t0/&gt;.)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170406Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
+        <seg>(MT) สุดท้ายนี้ ให้นำน้ำเสียง อารมณ์ และเจตนาในการเปลี่ยนแปลงชีวิต มาเรียบเรียงใจความสำคัญของคุณให้เป็นประโยคที่สื่อถึงจุดประสงค์ของผู้เขียน (โดยให้แน่ใจว่าประโยคนั้นครอบคลุมความคิดทั้งหมดของผู้เขียน แต่ก็มีความเฉพาะเจาะจงมากพอที่จะทำให้เห็นความแตกต่างจากหนังสือหรือพระธรรมตอนอื่นๆ&lt;t0/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Four Questions for Doing Biblical Theology</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1116,6 +1132,22 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>กรอบแนวความคิดส่งผลต่อวิธีที่เราอ่านพระคัมภีร์ เมื่อเรานั่งลงเพื่อศึกษาเนื้อหา กรอบแนวความคิดจะมีอิทธิพลต่อวิธีที่เราคิดเกี่ยวกับพระเจ้า มนุษย์ บาป ความทุกข์ ความรอด และอีกหลายเรื่อง กรอบแนวความคิดบางอย่างสะท้อนเนื้อหาพระคัมภีร์ได้อย่างถูกต้อง แต่บางอย่างไม่ใช่ เราจำเป็นต้องตระหนักถึงความแตกต่างระหว่าง “เนื้อหา” กับ “กรอบแนวความคิด” รวมทั้งอิทธิพลที่กรอบแนวความคิดของเรามีต่อเรา</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From what you discovered in the genre and structure of the book, write down a summary sentence for the&lt;t0/&gt; . . .</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170357Z" creationid="nathanwatkins" creationdate="20260409T170357Z">
+        <seg>(MT) จากสิ่งที่คุณค้นพบเกี่ยวกับประเภทวรรณกรรมและโครงสร้างของหนังสือเล่มนี้ ให้เขียนประโยคสรุปสำหรับ&lt;t0/&gt; . . .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>From your &lt;t0/&gt;n&lt;t1/&gt;arrative &lt;t2/&gt;p&lt;t3/&gt;lotline of the &lt;t4/&gt;b&lt;t5/&gt;ook, how would you describe the introduction, rise in tension, climax, and resolution of the book&lt;t6/&gt;?&lt;t7/&gt; What direction does this story take?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170417Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
+        <seg>(MT) จาก&lt;t0/&gt;โ&lt;t1/&gt;ครงเรื่อง&lt;t2/&gt;แ&lt;t3/&gt;ละลำดับเหตุการณ์ในพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดสุดยอด และการคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1592,6 +1624,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How does this principle help you shepherd your people&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170444Z" creationid="nathanwatkins" creationdate="20260409T170444Z">
+        <seg>(MT) หลักการนี้ช่วยท่านในการเลี้ยงดูผู้คนในความดูแลได้อย่างไรบ้าง&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How does this section (Genesis 2:4-4:26) advance the larger story of Genesis? (Consider Genesis 3:15; 4:26; 12:1-9 and 26:23-25).</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163640Z" creationid="nathanwatkins" creationdate="20260409T163640Z">
@@ -1832,6 +1872,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>In this session we will explore the principle and practice of Biblical Theology. The Bible is one story that finds its focus and fulfillment in Jesus. Practicing this principle helps us see the unfolding of this story and how each part finds its focus and fulfillment in Jesus. In this session we will discover how Biblical Theology helps us teach and preach Genesis so that the glories of Christ are proclaimed&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170451Z" creationid="nathanwatkins" creationdate="20260409T170451Z">
+        <seg>(MT) ในบทเรียนนี้ เราจะสำรวจหลักการและการนำเทววิทยาเชิงพระคัมภีร์มาปฏิบัติจริง พระคัมภีร์คือเรื่องราวหนึ่งเดียวที่มีจุดศูนย์กลางและความสำเร็จสมบูรณ์ในพระเยซู การใช้หลักการนี้จะช่วยให้เราเห็นการคลี่คลายของเรื่องราว และเข้าใจว่าแต่ละส่วนมุ่งเน้นไปที่พระเยซูและสำเร็จสมบูรณ์ในพระองค์อย่างไร ในบทเรียนนี้ เราจะมาค้นพบว่าเทววิทยาเชิงพระคัมภีร์ช่วยให้เราสอนและเทศนาพระธรรมปฐมกาลเพื่อประกาศพระสิริของพระคริสต์ได้อย่างไร&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Introduction</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T155233Z" creationid="nathanwatkins" creationdate="20260409T155233Z">
@@ -1844,6 +1892,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160058Z" creationid="nathanwatkins" creationdate="20260409T160058Z">
         <seg>(MT) บทนำ&lt;t0/&gt; &lt;t1/&gt;(มักเผยให้เห็นถึงฉากของเรื่อง)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Is it saying less than the author’s main idea? Is it saying more?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170427Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
+        <seg>(MT) สิ่งที่สื่อออกมานั้นขาดตกไปจากใจความสำคัญของผู้เขียน หรือว่าสื่อความหมายเกินเลยไปหรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2290,6 +2346,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now write down some words or ideas that describe the author’s</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170529Z" creationid="nathanwatkins" creationdate="20260409T170529Z">
+        <seg>(MT) ตอนนี้ ให้เขียนคำหรือแนวคิดบางประการที่อธิบายถึง... ของผู้เขียน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now, how does the author tell this story?&lt;t0/&gt; &lt;t1/&gt;Write down some words or ideas that express the author’s attitude, perspective, conviction, or feelings, about the story he is telling&lt;t2/&gt;.&lt;t3/&gt; (&lt;t4/&gt;T&lt;t5/&gt;his is the author’s &lt;t6/&gt;t&lt;t7/&gt;one&lt;t8/&gt;.&lt;t9/&gt;)</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170117Z" creationid="nathanwatkins" creationdate="20260409T170117Z">
@@ -2518,6 +2582,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T160232Z" creationid="nathanwatkins" creationdate="20260407T160232Z">
         <seg>พระเจ้าทรงบัญชาให้ประกาศพระวจนะของพระองค์ พระองค์ทรงสำแดงพระประสงค์อย่างชัดเจนว่า ผู้ประกาศพระวจนะของพระองค์ต้องพูดสิ่งที่พระองค์ตรัสไว้เท่านั้น—ไม่มากไปกว่านั้นและไม่น้อยไปกว่านั้น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preachers &lt;t0/&gt;often express many truths from a passage but miss the main point and purpose of the author’s message. This session is about the relationship between the author’s message and the preacher’s sermon. God has purpose in every book and passage of the Bible. Through this exercise we will learn how to find the author’s main point and purpose and how to align our sermon with his message. This will help us proclaim the message God intends and shepherd people with &lt;t1/&gt;his&lt;t2/&gt; purpose&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170355Z" creationid="nathanwatkins" creationdate="20260409T170355Z">
+        <seg>(MT) นักเทศน์ &lt;t0/&gt;มักจะกล่าวถึงความจริงหลายประการจากพระธรรมตอนหนึ่งๆ แต่กลับมองข้ามประเด็นหลักและจุดประสงค์ที่ผู้เขียนต้องการสื่อสารไป บทเรียนตอนนี้เป็นเรื่องเกี่ยวกับความสัมพันธ์ระหว่างข่าวสารของผู้เขียนกับคำเทศนาของนักเทศน์ พระเจ้าทรงมีพระประสงค์ในพระธรรมทุกเล่มและทุกตอนของพระคัมภีร์ ผ่านการฝึกฝนนี้ เราจะเรียนรู้วิธีค้นหาประเด็นหลักและจุดประสงค์ของผู้เขียน รวมถึงวิธีปรับคำเทศนาของเราให้สอดคล้องกับข่าวสารนั้น เพื่อช่วยให้เราประกาศข่าวสารตามที่พระเจ้าทรงตั้งพระทัยไว้ และเลี้ยงดูผู้คนตาม &lt;t1/&gt;พระประสงค์&lt;t2/&gt;ของพระองค์&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2838,6 +2910,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เซสชั่นที่ 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 10</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170320Z" creationid="nathanwatkins" creationdate="20260409T170320Z">
+        <seg>(MT) บทเรียนที่ 10</seg>
       </tuv>
     </tu>
     <tu>
@@ -3804,6 +3884,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Tone</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170334Z" creationid="nathanwatkins" creationdate="20260409T170334Z">
+        <seg>(MT) น้ำเสียง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Tone and &lt;t0/&gt;m&lt;t1/&gt;ood</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164438Z" creationid="nathanwatkins" creationdate="20260409T164438Z">
@@ -3888,6 +3976,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163843Z" creationid="nathanwatkins" creationdate="20260409T163843Z">
         <seg>(MT) การประยุกต์ใช้&lt;t0/&gt;เพื่อการเปลี่ยนแปลง&lt;t1/&gt;: &lt;t2/&gt;จงใช้&lt;t3/&gt;หลักการคำแนะนำในการเดินทางและ&lt;t4/&gt; &lt;t5/&gt;ตัวบท &lt;t6/&gt;&amp;&lt;t7/&gt; กรอบแนวคิด&lt;t8/&gt;เพื่อ&lt;t9/&gt;อธิบายว่าสารของพระธรรมตอนนี้ท้าทาย ยืนยัน หรือตอบสนองต่อกรอบแนวคิดที่มีอยู่ของตัวท่านเอง ของคริสตจักร และของวัฒนธรรมของท่านอย่างไร จงอภิบาลผู้ฟังของท่านด้วยการประยุกต์ใช้ที่ชัดเจนและทรงพลัง ซึ่งหลั่งไหลมาจากเจตนารมณ์ของพระธรรมตอนนี้ที่มุ่งหมายจะเปลี่ยนแปลงชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Transformational &lt;t0/&gt;i&lt;t1/&gt;ntent &lt;t2/&gt;and &lt;t3/&gt;m&lt;t4/&gt;ood</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170625Z" creationid="nathanwatkins" creationdate="20260409T170625Z">
+        <seg>(MT) เจตนารมณ์ &lt;t0/&gt;ใ&lt;t1/&gt;นการเปลี่ยนแปลง &lt;t2/&gt;และ &lt;t3/&gt;อ&lt;t4/&gt;ารมณ์</seg>
       </tuv>
     </tu>
     <tu>
@@ -4181,6 +4277,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What are the implications of this main idea and transformational intent for our own lives and ministries&lt;t0/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170410Z" creationid="nathanwatkins" creationdate="20260409T170410Z">
+        <seg>(MT) ใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลงนี้ ส่งผลอย่างไรต่อชีวิตและพันธกิจของเรา&lt;t0/&gt;?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What change or response is God seeking in the listener (thoughts, attitudes, behavior, etc.)&lt;t0/&gt;?”</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164817Z" creationid="nathanwatkins" creationdate="20260409T164817Z">
@@ -4386,6 +4490,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164139Z" creationid="nathanwatkins" creationdate="20260409T164139Z">
         <seg>(MT) ฉากของเรื่องคืออะไร? เรื่องราวนี้เริ่มต้นอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the structure of the book of Genesis? &lt;t0/&gt;Review what you discovered about the beginning and end of the book.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170319Z" creationid="nathanwatkins" creationdate="20260409T170319Z">
+        <seg>(MT) พระธรรมปฐมกาลมีโครงสร้างอย่างไร? &lt;t0/&gt;ให้ทบทวนสิ่งที่คุณได้ค้นพบเกี่ยวกับช่วงเริ่มต้นและช่วงท้ายของพระธรรมเล่มนี้</seg>
       </tuv>
     </tu>
     <tu>
@@ -4846,10 +4958,26 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>consider how this helps us align our sermon with the author’s message&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170333Z" creationid="nathanwatkins" creationdate="20260409T170333Z">
+        <seg>(MT) พิจารณาว่าสิ่งนี้ช่วยให้เราปรับคำเทศนาให้สอดคล้องกับข่าวสารของผู้เขียนได้อย่างไร&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>consider why the practice of these principles is important for preaching God’s &lt;t0/&gt;W&lt;t1/&gt;ord.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163404Z" creationid="nathanwatkins" creationdate="20260409T163404Z">
         <seg>(MT) พิจารณาว่าเหตุใดการนำหลักการเหล่านี้ไปปฏิบัติจึงมีความสำคัญต่อการเทศนาพระ&lt;t0/&gt;ว&lt;t1/&gt;จนะของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>consider why the practice of this principle is important&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170322Z" creationid="nathanwatkins" creationdate="20260409T170322Z">
+        <seg>(MT) พิจารณาว่าเหตุใดการนำหลักการนี้ไปปฏิบัติจึงมีความสำคัญ&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4874,6 +5002,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>ยิ่งกว่าทองบริสุทธิ์มากนัก</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>examine the implications of that message for our own lives and ministries&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170343Z" creationid="nathanwatkins" creationdate="20260409T170343Z">
+        <seg>(MT) สำรวจดูว่าข่าวสารนั้นส่งผลอย่างไรต่อชีวิตและพันธกิจของเราเอง&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4922,6 +5058,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T101743Z" creationid="nathanwatkins" creationdate="20260406T101743Z">
         <seg>เรียนรู้ผ่านการสนทนากับผู้อื่น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>learn to shepherd people with the message and purpose God intends&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170344Z" creationid="nathanwatkins" creationdate="20260409T170344Z">
+        <seg>(MT) เรียนรู้ที่จะเลี้ยงดูผู้คนด้วยข่าวสารและพระประสงค์ที่พระเจ้าทรงตั้งพระทัยไว้&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5010,6 +5154,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>ฟื้นฟูชีวิต</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>see how Genesis contributes to the bigger story of the Bible&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170503Z" creationid="nathanwatkins" creationdate="20260409T170503Z">
+        <seg>(MT) เห็นว่าพระธรรมปฐมกาลมีส่วนต่อเรื่องราวที่ยิ่งใหญ่กว่าของพระคัมภีร์อย่างไร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5157,6 +5309,14 @@ t0/"}</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162812Z" creationid="nathanwatkins" creationdate="20260409T162812Z">
         <seg>(MT) เข้าใจว่าทำไมหลักการนี้จึงมีความสำคัญต่อการศึกษาพระ&lt;t0/&gt;ว&lt;t1/&gt;จนะ&lt;t2/&gt;ของพระเจ้า</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>understand, identify, and state the main idea and transformational intent&lt;t0/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170326Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
+        <seg>(MT) ทำความเข้าใจ ระบุ และสรุปใจความสำคัญรวมถึงจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิต&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
