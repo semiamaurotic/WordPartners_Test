@@ -646,6 +646,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Compare the beginning and end of the story. What is similar and what is different?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170004Z" creationid="nathanwatkins" creationdate="20260409T170004Z">
+        <seg>(MT) ลองเปรียบเทียบตอนเริ่มต้นและตอนจบของเรื่องนี้ดูว่า มีส่วนใดที่เหมือนกันและส่วนใดที่แตกต่างกันบ้าง?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Competence</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130109Z" creationid="nathanwatkins" creationdate="20260406T130109Z">
@@ -852,6 +860,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T165858Z" creationid="nathanwatkins" creationdate="20260409T165858Z">
         <seg>(MT) สำรวจโครงสร้าง: ตัวละคร ฉาก และโครงเรื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Discovering the Main Idea and Transformational Intent</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170038Z" creationid="nathanwatkins" creationdate="20260409T170038Z">
+        <seg>(MT) การค้นพบใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -1160,10 +1176,26 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Genesis 10:1–11:9</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170132Z" creationid="nathanwatkins" creationdate="20260409T170132Z">
+        <seg>(MT) ปฐมกาล 10:1–11:9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Genesis 11:27&lt;t0/&gt;–&lt;t1/&gt;12:20</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260406T095339Z" creationid="nathanwatkins" creationdate="20260406T095339Z">
         <seg>ปฐมกาล 11:27‒12:20</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Genesis 11:27–12:20</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170134Z" creationid="nathanwatkins" creationdate="20260409T170134Z">
+        <seg>(MT) ปฐมกาล 11:27–12:20</seg>
       </tuv>
     </tu>
     <tu>
@@ -1448,6 +1480,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>How could you state it in a way that is more didactic (instructive) than descriptive (informational).</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170115Z" creationid="nathanwatkins" creationdate="20260409T170115Z">
+        <seg>(MT) ท่านจะเรียบเรียงประเด็นนี้อย่างไร เพื่อให้มีลักษณะเป็นการสั่งสอน (เน้นคำแนะนำ) มากกว่าจะเป็นเพียงการพรรณนา (เน้นให้ข้อมูล)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>How do we apply the Bible to our lives? Often, we think the best way is to go straight from the words of the Bible to our lives, but before we can apply the message of God’s Word, we must carefully observe it in its context. This will help us discover the author’s main idea and transformational intent. Then we can make precise and compelling applications, aligned with the author’s intent&lt;t0/&gt;.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162752Z" creationid="nathanwatkins" creationdate="20260409T162752Z">
@@ -1492,6 +1532,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เขาพูดอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>How does the &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea and &lt;t4/&gt;t&lt;t5/&gt;ransformational &lt;t6/&gt;i&lt;t7/&gt;ntent of Genesis 6:9&lt;t8/&gt;–&lt;t9/&gt;9:29 advance the story of Genesis?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170240Z" creationid="nathanwatkins" creationdate="20260409T170240Z">
+        <seg>(MT) &lt;t0/&gt;ใ&lt;t1/&gt;จความ&lt;t2/&gt;สำ&lt;t3/&gt;คัญและ&lt;t4/&gt;เ&lt;t5/&gt;จตนารมณ์&lt;t6/&gt;เ&lt;t7/&gt;พื่อการเปลี่ยนแปลงของปฐมกาล 6:9&lt;t8/&gt;–&lt;t9/&gt;9:29 มีส่วนช่วยให้เรื่องราวในพระธรรมปฐมกาลดำเนินต่อไปอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1696,6 +1744,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Identify the rise in tension, climax, and resolution. What direction does this story take?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170004Z" creationid="nathanwatkins" creationdate="20260409T170004Z">
+        <seg>(MT) จงระบุช่วงที่ความตึงเครียดทวีขึ้น จุดสูงสุด และการคลี่คลายของเรื่อง เรื่องราวนี้ดำเนินไปในทิศทางใด?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>If we take the shortcut, we will likely misinterpret and misapply the text.</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -1756,6 +1812,22 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T160121Z" creationid="nathanwatkins" creationdate="20260407T160121Z">
         <seg>ในหลายๆประเทศ ก่อนที่บุคคลใดจะให้การเป็นพยานในศาลได้ เขาต้องสาบานตนว่า จะพูดความจริง ความจริงทั้งหมด และไม่พูดสิ่งอื่นใดนอกจากความจริง โดยให้พระเจ้าทรงเป็นพยาน พยานที่ซื่อสัตย์จะไม่พูดเกินความจริงหรือพูดน้อยกว่าความจริง เขาจะพูดความจริงเท่านั้น</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In order to proclaim the message of Genesis 6:9-9:29 with the author’s purpose, how would you organize your sermon around the &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea and &lt;t4/&gt;t&lt;t5/&gt;ransformational &lt;t6/&gt;i&lt;t7/&gt;ntent&lt;t8/&gt;?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170243Z" creationid="nathanwatkins" creationdate="20260409T170243Z">
+        <seg>(MT) เพื่อให้การประกาศข่าวสารจากปฐมกาล 6:9-9:29 เป็นไปตามวัตถุประสงค์ของผู้เขียน ท่านจะจัดโครงสร้างคำเทศนาโดยยึด &lt;t0/&gt;ใ&lt;t1/&gt;จความ&lt;t2/&gt;ส&lt;t3/&gt;ำคัญ และ &lt;t4/&gt;เ&lt;t5/&gt;จตนา&lt;t6/&gt;ใ&lt;t7/&gt;นการเปลี่ยนแปลง&lt;t8/&gt;เป็นหลักอย่างไร</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>In other words, what &lt;t0/&gt;change&lt;t1/&gt; or response is God seeking in the reader&lt;t2/&gt;?&lt;t3/&gt; (&lt;t4/&gt;T&lt;t5/&gt;his is the &lt;t6/&gt;t&lt;t7/&gt;ransformational &lt;t8/&gt;i&lt;t9/&gt;ntent&lt;t10/&gt;.&lt;t11/&gt;) Write down some words or ideas that express this.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170136Z" creationid="nathanwatkins" creationdate="20260409T170136Z">
+        <seg>(MT) กล่าวอีกนัยหนึ่งคือ พระเจ้าทรงประสงค์ให้ผู้อ่านเกิด&lt;t0/&gt;การเปลี่ยนแปลง&lt;t1/&gt;หรือมีการตอบสนองอย่างไร&lt;t2/&gt;?&lt;t3/&gt; (&lt;t4/&gt;น&lt;t5/&gt;ี่คือ &lt;t6/&gt;เ&lt;t7/&gt;จตจำนงเพื่อการ&lt;t8/&gt;เ&lt;t9/&gt;ปลี่ยนแปลง&lt;t10/&gt;.&lt;t11/&gt;) ให้เขียนคำหรือแนวคิดบางอย่างที่สื่อถึงเรื่องนี้ออกมา</seg>
       </tuv>
     </tu>
     <tu>
@@ -2096,6 +2168,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Next, why did the author tell this story?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170031Z" creationid="nathanwatkins" creationdate="20260409T170031Z">
+        <seg>(MT) ลำดับต่อมา เพราะเหตุใดผู้เขียนจึงเล่าเรื่องนี้?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>No &lt;t0/&gt;d&lt;t1/&gt;irect &lt;t2/&gt;r&lt;t3/&gt;oute</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162940Z" creationid="nathanwatkins" creationdate="20260409T162940Z">
@@ -2136,6 +2216,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Note: Generally speaking, with narrative, the heart of the author’s message is found at the climax and resolution of the story.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170031Z" creationid="nathanwatkins" creationdate="20260409T170031Z">
+        <seg>(MT) หมายเหตุ: โดยทั่วไปแล้ว สำหรับงานเขียนประเภทเรื่องเล่า หัวใจสำคัญของสิ่งที่ผู้เขียนต้องการสื่อ มักจะอยู่ที่จุดสูงสุดและจุดคลี่คลายของเรื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -2168,6 +2256,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Now add your work to the narrative plotline on &lt;t0/&gt;page &lt;t1/&gt;31&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170114Z" creationid="nathanwatkins" creationdate="20260409T170114Z">
+        <seg>(MT) ตอนนี้ ให้นำงานของคุณไปใส่ในเส้นโครงเรื่องใน &lt;t0/&gt;หน้า &lt;t1/&gt;31&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now restate your &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea sentence one more time in a way that includes the transformation intended by the author. Make the sentence clear, complete, and as concise as possible. Make sure this sentence is specific to the story of Genesis 6:9-9:29.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170118Z" creationid="nathanwatkins" creationdate="20260409T170118Z">
+        <seg>(MT) คราวนี้ ให้เรียบเรียงประโยค&lt;t0/&gt;ใ&lt;t1/&gt;จความ&lt;t2/&gt;สำ&lt;t3/&gt;คัญของคุณอีกครั้งหนึ่ง โดยรวมเอาเป้าหมายการเปลี่ยนแปลงชีวิตที่ผู้เขียนตั้งใจไว้เข้าไปด้วย จงเขียนประโยคนั้นให้ชัดเจน สมบูรณ์ และกระชับที่สุดเท่าที่จะทำได้ และตรวจสอบให้แน่ใจว่าประโยคนี้เจาะจงสำหรับเรื่องราวในปฐมกาล 6:9-9:29</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Now take a moment and describe each unit of thought using a few key words.</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164142Z" creationid="nathanwatkins" creationdate="20260409T164142Z">
@@ -2182,6 +2286,22 @@
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163628Z" creationid="nathanwatkins" creationdate="20260409T163628Z">
         <seg>(MT) {"translation": "ตอนนี้ ให้คุณใช้เวลาสักครู่บรรยายแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ จากนั้นลองสรุปเรื่องราวทั้งหมดให้เหลือเพียงประโยคเดียว"}
 ค่เพียงประโยคเดียว"}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now, how does the author tell this story?&lt;t0/&gt; &lt;t1/&gt;Write down some words or ideas that express the author’s attitude, perspective, conviction, or feelings, about the story he is telling&lt;t2/&gt;.&lt;t3/&gt; (&lt;t4/&gt;T&lt;t5/&gt;his is the author’s &lt;t6/&gt;t&lt;t7/&gt;one&lt;t8/&gt;.&lt;t9/&gt;)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170117Z" creationid="nathanwatkins" creationdate="20260409T170117Z">
+        <seg>(MT) ต่อไป ให้พิจารณาว่าผู้เขียนเล่าเรื่องนี้อย่างไร&lt;t0/&gt; &lt;t1/&gt;จดถ้อยคำหรือแนวคิดที่สะท้อนถึงทัศนคติ มุมมอง ความเชื่อมั่น หรือความรู้สึกของผู้เขียนที่มีต่อเรื่องที่เขากำลังเล่า&lt;t2/&gt;.&lt;t3/&gt; (&lt;t4/&gt;น&lt;t5/&gt;ี่คือ &lt;t6/&gt;น&lt;t7/&gt;้ำเสียง&lt;t8/&gt;ของผู้เขียน&lt;t9/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Now, restate your &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea sentence in a way that expresses this &lt;t4/&gt;t&lt;t5/&gt;one and &lt;t6/&gt;m&lt;t7/&gt;ood.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170115Z" creationid="nathanwatkins" creationdate="20260409T170115Z">
+        <seg>(MT) ตอนนี้ ให้คุณเรียบเรียงประโยค &lt;t0/&gt;ใ&lt;t1/&gt;จความ &lt;t2/&gt;ส&lt;t3/&gt;ำคัญของคุณใหม่ เพื่อสื่อถึง &lt;t4/&gt;น&lt;t5/&gt;้ำเสียง และ &lt;t6/&gt;อ&lt;t7/&gt;ารมณ์ นี้</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +2550,14 @@
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>การเทศนาเพื่อการเปลี่ยนแปลง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Preaching with the author’s tone, how might you shepherd your people with precise and compelling applications that flow from the transformational intent?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170107Z" creationid="nathanwatkins" creationdate="20260409T170107Z">
+        <seg>(MT) เมื่อเทศนาด้วยน้ำเสียงเดียวกับผู้เขียน ท่านจะอภิบาลดูแลสมาชิกผ่านการประยุกต์ใช้ที่ตรงจุดและมีพลัง ซึ่งหลั่งไหลมาจากเป้าหมายเพื่อการเปลี่ยนแปลงชีวิตได้อย่างไร</seg>
       </tuv>
     </tu>
     <tu>
@@ -2782,6 +2910,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111714Z" creationid="nathanwatkins" creationdate="20260408T111714Z">
         <seg>เซสชั่นที่ 7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Session 8</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170149Z" creationid="nathanwatkins" creationdate="20260409T170149Z">
+        <seg>(MT) บทที่ 8</seg>
       </tuv>
     </tu>
     <tu>
@@ -4198,6 +4334,14 @@ t0/&gt;?”"}</seg>
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>What is the author’s general idea? What is the author saying specifically about that idea?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170035Z" creationid="nathanwatkins" creationdate="20260409T170035Z">
+        <seg>(MT) แนวคิดหลักของผู้เขียนคืออะไร? และผู้เขียนกล่าวเจาะจงเกี่ยวกับแนวคิดนั้นว่าอย่างไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>What is the main tension or conflict in the story?</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072259Z" creationid="Angkana Laksa" creationdate="20260408T072259Z">
@@ -4578,6 +4722,22 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
         <seg>เวิร์กช็อป</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Write a sentence that communicates this message concisely and completely.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170030Z" creationid="nathanwatkins" creationdate="20260409T170030Z">
+        <seg>(MT) เขียนประโยคที่สื่อสารข้อความนี้อย่างสั้นกระชับและครบถ้วน</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Write down some words or ideas that express the attitude, perspective, conviction, feelings, etc.&lt;t0/&gt;,&lt;t1/&gt; the author intends to create in the reader&lt;t2/&gt;.&lt;t3/&gt; (&lt;t4/&gt;T&lt;t5/&gt;his is the &lt;t6/&gt;m&lt;t7/&gt;ood&lt;t8/&gt;.&lt;t9/&gt;)</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170116Z" creationid="nathanwatkins" creationdate="20260409T170116Z">
+        <seg>(MT) จดคำหรือแนวคิดที่สื่อถึงทัศนคติ มุมมอง ความเชื่อมั่น ความรู้สึก หรืออารมณ์ต่าง ๆ ที่ผู้เขียนตั้งใจจะสร้างให้เกิดขึ้นในใจของผู้อ่าน&lt;t0/&gt;.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;(&lt;t4/&gt;นี่&lt;t5/&gt;คือ &lt;t6/&gt;อ&lt;t7/&gt;ารมณ์&lt;t8/&gt;ของเรื่องราว&lt;t9/&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
