@@ -1,61 +1,60 @@
 # Glossary in tab-separated format -*- coding: utf-8 -*-
-Biblical Theology	ศาสนศาสตร์พระคัมภีร์
-genre		ประเภทวรรณกรรม
-structure	โครงสร้าง
-principle	หลักการ
-Dig & Discover	ขุดค้นและค้นพบ
-Transformational Intent	เจตนาสู่การเปลี่ยนแปลง
-Main Idea	ประเด็นหลัก
-Session		เซสชั่น
-Study to Sermon		จากการศึกษาสู่คำเทศนา
-Text and Framework	เนื้อหาและกรอบแนวความคิด
-Traveling Instructions	เส้นทางสู่การประยุกต์ใช้
-Pre-Assignment		งานมอบหมายล่วงหน้า
-expository sermon	คำเทศนาแบบอรรถาธิบาย
-expository preaching	การเทศนาแบบอรรถาธิบาย
-Word of God	พระวจนะของพระเจ้า
-The Line	เส้นหลัก
-Framework	กรอบแนวความคิด
-Transformation	การเปลี่ยนแปลง
-Application	การประยุกต์ใช้
-Covenant	พันธสัญญา
-New Covenant	พันธสัญญาใหม่
-to Shepherd	อภิบาล
-Epistle		จดหมายฝาก
-Preaching	การเทศนาพระวจนะ
-The Line (heading)	เส้นหลักของพระวจนะ
-Main Highways	ทางหลวงสายหลัก
-Tone and Mood	น้ำเสียงและอารมณ์
-Gospel		พระกิตติคุณ
-Old Covenant	พันธสัญญาเดิม
-Law		ธรรมบัญญัติ
 Apocalyptic	วิวรณ์
-Prophecy	คำเผยพระวจนะ
-Grace		พระคุณ
-Poetry		บทกวี
-Wisdom		สติปัญญา
-Bull’s-eye (Target)	ภาพเปรียบเทียบ
-Author’s Intent		เจตนาของผู้เขียน
-License			การใช้เสรีภาพเกินขอบเขต
-Original Context	บริบทดั้งเดิม
-Units of Thought	หน่วยความคิด
-Parable			อุปมา
-Historical Narrative	เรื่องราวทางประวัติศาสตร์
-Biblical Narrative	เรื่องราวในพระคัมภีร์
-Wisdom Literature	วรรณกรรมแห่งปัญญา
-Biblical Context	บริบทพระคัมภีร์
-Prophet			ผู้เผยพระวจนะ
 Apocalyptic Literature	วรรณกรรมวิวรณ์
-Holy Spirit		พระวิญญาณบริสุทธิ์
-Observation		การสังเกต
+Application	การประยุกต์ใช้
+Author’s Intent	เจตนาของผู้เขียน
+Basic Questions	คำถามพื้นฐาน
+Biblical Context	บริบทพระคัมภีร์
 Biblical Context	บริบทเดิมตามพระคัมภีร์
-Literary Connections	การเชื่อมโยงทางวรรณกรรม
-Basic Questions		คำถามพื้นฐาน
-Powerful Questions	คำถามอันทรงพลัง
-Legalism		การยึดกฎเกณฑ์
-Liberalism	ลัทธิเสรีนิยม
+Biblical Narrative	เรื่องราวในพระคัมภีร์
+Biblical Theology	ศาสนศาสตร์พระคัมภีร์
 books of the Bible	พระธรรมต่างๆ ในพระคัมภีร์
-God’s living Word	พระวจนะที่มีชีวิต	Removed ของพระเจ้า because it is unecessarily wordy
+Bull’s-eye (Target)	ภาพเปรียบเทียบ
+Covenant	พันธสัญญา
+Dig & Discover	ขุดค้นและค้นพบ
 do	ลงมือปฏิบัติ
+Epistle	จดหมายฝาก
+expository preaching	การเทศนาแบบอรรถาธิบาย
+expository sermon	คำเทศนาแบบอรรถาธิบาย
+Framework	กรอบแนวความคิด
+genre	ประเภทวรรณกรรม
+God’s living Word	พระวจนะที่มีชีวิต	Removed ของพระเจ้า because it is unecessarily wordy
+Gospel	พระกิตติคุณ
+Grace	พระคุณ
+Historical Narrative	เรื่องราวทางประวัติศาสตร์
+Holy Spirit	พระวิญญาณบริสุทธิ์
+Law	ธรรมบัญญัติ
+Legalism	การยึดกฎเกณฑ์
+Liberalism	ลัทธิเสรีนิยม
+License	การใช้เสรีภาพเกินขอบเขต
+Literary Connections	การเชื่อมโยงทางวรรณกรรม
+Main Highways	ทางหลวงสายหลัก
+Main Idea	ประเด็นหลัก
 main theme	ธีมหลัก
-
+New Covenant	พันธสัญญาใหม่
+Observation	การสังเกต
+Old Covenant	พันธสัญญาเดิม
+Original Context	บริบทดั้งเดิม
+Parable	อุปมา
+Poetry	บทกวี
+Powerful Questions	คำถามอันทรงพลัง
+Pre-Assignment	งานมอบหมายล่วงหน้า
+Preaching	การเทศนาพระวจนะ
+principle	หลักการ
+Prophecy	คำเผยพระวจนะ
+Prophet	ผู้เผยพระวจนะ
+Session	เซสชั่น
+structure	โครงสร้าง
+Study to Sermon	จากการศึกษาสู่คำเทศนา
+Text and Framework	เนื้อหาและกรอบแนวความคิด
+The Line	เส้นหลัก
+The Line	เส้นหลักของพระวจนะ	(heading)
+shepherd	อภิบาล	verb form
+Tone and Mood	น้ำเสียงและอารมณ์
+Transformation	การเปลี่ยนแปลง
+Transformational Intent	เจตนาสู่การเปลี่ยนแปลง
+Traveling Instructions	เส้นทางสู่การประยุกต์ใช้
+Units of Thought	หน่วยความคิด
+Wisdom	สติปัญญา
+Wisdom Literature	วรรณกรรมแห่งปัญญา
+Word of God	พระวจนะของพระเจ้า
