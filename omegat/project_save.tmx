@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171810Z" creationid="nathanwatkins" creationdate="20260409T171810Z">
+        <seg>(MT) 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>2 Timothy</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -98,6 +106,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103255Z" creationid="nathanwatkins" creationdate="20260407T103255Z">
         <seg>21</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171812Z" creationid="nathanwatkins" creationdate="20260409T171812Z">
+        <seg>(MT) 3</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>45</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171813Z" creationid="nathanwatkins" creationdate="20260409T171813Z">
+        <seg>(MT) 45</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>46</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171813Z" creationid="nathanwatkins" creationdate="20260409T171813Z">
+        <seg>(MT) 46</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>47</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103307Z" creationid="nathanwatkins" creationdate="20260407T103307Z">
@@ -198,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>6</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171811Z" creationid="nathanwatkins" creationdate="20260409T171811Z">
+        <seg>(MT) 6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>63</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103317Z" creationid="nathanwatkins" creationdate="20260407T103317Z">
@@ -210,6 +250,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260407T103320Z" creationid="nathanwatkins" creationdate="20260407T103320Z">
         <seg>67</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171824Z" creationid="nathanwatkins" creationdate="20260409T171824Z">
+        <seg>(MT) 7</seg>
       </tuv>
     </tu>
     <tu>
@@ -1269,6 +1317,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170728Z" creationid="nathanwatkins" creationdate="20260409T170728Z">
         <seg>(MT) จุดเน้นและความสำเร็จในพระเยซู: เรื่องราวทุกส่วนล้วนเผยให้เห็นถึงพระราชกิจของพระเจ้าในการทำให้แก่นเรื่องอันยิ่งใหญ่นี้สำเร็จผ่านทาง&lt;t0/&gt;พระ&lt;t1/&gt;บุตรของพระองค์&lt;t2/&gt;คือ&lt;t3/&gt;พระเยซู</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>For further help, refer to&lt;t0/&gt; Bob Thune, “How to Write a Sermon: A Template,” https://bobthune.com/2016/06/how-to-write-a-sermon-a-template/</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171824Z" creationid="nathanwatkins" creationdate="20260409T171824Z">
+        <seg>(MT) หากต้องการศึกษาเพิ่มเติม สามารถดูได้ที่&lt;t0/&gt; Bob Thune, “How to Write a Sermon: A Template,” https://bobthune.com/2016/06/how-to-write-a-sermon-a-template/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3609,6 +3665,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Session&lt;t0/&gt; 3</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171840Z" creationid="nathanwatkins" creationdate="20260409T171840Z">
+        <seg>(MT) ช่วงที่&lt;t0/&gt; 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Session&lt;t0/&gt; 7</seg>
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260408T111716Z" creationid="nathanwatkins" creationdate="20260408T111716Z">
@@ -5671,6 +5735,14 @@
       </tuv>
       <tuv lang="th" changeid="nathanwatkins" changedate="20260409T110742Z" creationid="nathanwatkins" creationdate="20260409T110742Z">
         <seg>เราต้องทำความเข้าใจและเข้าถึงวรรณกรรมแต่ละประเภทตามลักษณะเฉพาะตัว ตามธรรมชาติและการออกแบบของวรรณกรรมประเภทนั้นๆ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>We should not use these&lt;t0/&gt; key elements&lt;t1/&gt; in a mechanical way. Good communication will incorporate creativity and variety of style.</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171842Z" creationid="nathanwatkins" creationdate="20260409T171842Z">
+        <seg>(MT) เราไม่ควรนำ&lt;t0/&gt;องค์ประกอบสำคัญ&lt;t1/&gt;เหล่านี้ไปใช้แบบสูตรสำเร็จที่ตายตัว การสื่อสารที่ดีจะมีการผสมผสานทั้งความคิดสร้างสรรค์และรูปแบบที่หลากหลายเข้าด้วยกัน</seg>
       </tuv>
     </tu>
     <tu>
