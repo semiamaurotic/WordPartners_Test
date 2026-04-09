@@ -848,6 +848,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Discovering Structure: Characters, Setting, and Plot</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T165858Z" creationid="nathanwatkins" creationdate="20260409T165858Z">
+        <seg>(MT) สำรวจโครงสร้าง: ตัวละคร ฉาก และโครงเรื่อง</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Do</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
@@ -4194,6 +4202,14 @@ t0/&gt;?”"}</seg>
       </tuv>
       <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072259Z" creationid="Angkana Laksa" creationdate="20260408T072259Z">
         <seg>ปมขัดแย้งหรือความตึงเครียดหลักในเรื่องนี้คืออะไร?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>What is the setting and who are the main characters of Genesis 6:9-9:29?</seg>
+      </tuv>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T165859Z" creationid="nathanwatkins" creationdate="20260409T165859Z">
+        <seg>(MT) ในปฐมกาล 6:9-9:29 ฉากของเรื่องเกิดขึ้นที่ไหน และใครคือตัวละครหลัก?</seg>
       </tuv>
     </tu>
     <tu>
