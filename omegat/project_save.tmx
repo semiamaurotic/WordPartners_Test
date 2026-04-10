@@ -1743,6 +1743,7 @@
       </tuv>
     </tu>
     <tu>
+      <note>This is not the right term..</note>
       <tuv lang="en-US">
         <seg>Historical</seg>
       </tuv>
@@ -5036,8 +5037,8 @@
       <tuv lang="en-US">
         <seg>What &lt;t0/&gt;I&lt;t1/&gt;s Structure?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113051Z" creationid="nathanwatkins" creationdate="20260409T112620Z">
-        <seg>(MT)โครงสร้างคืออะไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260410T095242Z" creationid="nathanwatkins" creationdate="20260409T112620Z">
+        <seg>(MT)คืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
