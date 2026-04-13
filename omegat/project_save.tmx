@@ -432,16 +432,16 @@
       <tuv lang="en-US">
         <seg>Aim: Proclaim and shepherd the listeners with the main idea and transformational intent of the author.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>การเล็งเป้า: การเทศนาและอภิบาลผู้ฟังด้วยใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนพระคัมภีร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเล็งเป้า: การเทศนาและอภิบาลผู้ฟังด้วยประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนพระคัมภีร์</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>All the previous principles help us get to the main idea and transformational intent. So, we will be using all the previous principles in this session.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>หลักการทั้งหมดก่อนหน้านี้ล้วนช่วยนำเราไปสู่ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง ดังนั้น ในบทนี้เราจะใช้หลักการทั้งหมดที่เรียนมาก่อนหน้านี้</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หลักการทั้งหมดก่อนหน้านี้ล้วนช่วยนำเราไปสู่ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง ดังนั้น ในบทนี้เราจะใช้หลักการทั้งหมดที่เรียนมาก่อนหน้านี้</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="en-US">
         <seg>Biblical Theology&lt;t0/&gt;: &lt;t1/&gt;Demonstrate how this passage connects with the larger story of the Bible which points to Christ. How would you proclaim &lt;t2/&gt;him&lt;t3/&gt; in a natural way that arises from the author’s main idea?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163821Z" creationid="nathanwatkins" creationdate="20260409T163821Z">
-        <seg>(MT) ศาสนศาสตร์พระคัมภีร์&lt;t0/&gt;: &lt;t1/&gt;จงแสดงให้เห็นว่าพระธรรมตอนนี้เชื่อมโยงกับภาพรวมเรื่องราวในพระคัมภีร์ที่ชี้ไปยังพระคริสต์อย่างไร และท่านจะประกาศเรื่องของ&lt;t2/&gt;พระองค์&lt;t3/&gt;อย่างเป็นธรรมชาติโดยต่อยอดจากใจความสำคัญของผู้เขียนได้อย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T163821Z">
+        <seg>(MT) ศาสนศาสตร์พระคัมภีร์&lt;t0/&gt;: &lt;t1/&gt;จงแสดงให้เห็นว่าพระธรรมตอนนี้เชื่อมโยงกับภาพรวมเรื่องราวในพระคัมภีร์ที่ชี้ไปยังพระคริสต์อย่างไร และท่านจะประกาศเรื่องของ&lt;t2/&gt;พระองค์&lt;t3/&gt;อย่างเป็นธรรมชาติโดยต่อยอดจากประเด็นหลักของผู้เขียนได้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -712,8 +712,8 @@
       <tuv lang="en-US">
         <seg>Carefully select &lt;t0/&gt;material that will help you to state, explain, and apply the main idea and transformational intent and structure of the text.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171439Z" creationid="nathanwatkins" creationdate="20260409T171439Z">
-        <seg>(MT) จงคัดสรร&lt;t0/&gt;เนื้อหาอย่างรอบคอบเพื่อช่วยให้คุณสามารถระบุ อธิบาย และประยุกต์ใช้ใจความสำคัญ จุดมุ่งหมายในการเปลี่ยนแปลงชีวิต และโครงสร้างของพระธรรมตอนนั้น</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171439Z">
+        <seg>(MT) จงคัดสรร&lt;t0/&gt;เนื้อหาอย่างรอบคอบเพื่อช่วยให้คุณสามารถระบุ อธิบาย และประยุกต์ใช้ประเด็นหลัก จุดมุ่งหมายในการเปลี่ยนแปลงชีวิต และโครงสร้างของพระธรรมตอนนั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -752,8 +752,8 @@
       <tuv lang="en-US">
         <seg>Clearly state the main idea and transformational intent. What is God seeking to accomplish in the life of the listener? The answer to this question should guide the sermon from beginning to end.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ระบุใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงให้ชัดเจน พระเจ้าทรงประสงค์จะกระทำสิ่งใดในชีวิตของผู้ฟัง? คำตอบของคำถามนี้ควรเป็นสิ่งที่ชี้นำคำเทศนาตั้งแต่ต้นจนจบ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ระบุประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงให้ชัดเจน พระเจ้าทรงประสงค์จะกระทำสิ่งใดในชีวิตของผู้ฟัง? คำตอบของคำถามนี้ควรเป็นสิ่งที่ชี้นำคำเทศนาตั้งแต่ต้นจนจบ</seg>
       </tuv>
     </tu>
     <tu>
@@ -808,16 +808,16 @@
       <tuv lang="en-US">
         <seg>Consider how the main idea and transformational intent of the text challenges existing frameworks&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171444Z" creationid="nathanwatkins" creationdate="20260409T171444Z">
-        <seg>(MT) พิจารณาว่าใจความสำคัญและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงของบทพระธรรมท้าทายกรอบแนวคิดที่มีอยู่เดิมอย่างไร&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171444Z">
+        <seg>(MT) พิจารณาว่าประเด็นหลักและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงของบทพระธรรมท้าทายกรอบแนวคิดที่มีอยู่เดิมอย่างไร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Consider how the main idea and transformational intent of the text relates to biblical theology and leads us to proclaim Christ.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>พิจารณาว่าใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของพระคัมภีร์ตอนนั้นๆ เชื่อมโยงกับหลักศาสนศาสตร์พระคัมภีร์อย่างไร และนำเราไปสู่การประกาศพระคริสต์ได้อย่างไร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พิจารณาว่าประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของพระคัมภีร์ตอนนั้นๆ เชื่อมโยงกับหลักศาสนศาสตร์พระคัมภีร์อย่างไร และนำเราไปสู่การประกาศพระคริสต์ได้อย่างไร</seg>
       </tuv>
     </tu>
     <tu>
@@ -1016,8 +1016,8 @@
       <tuv lang="en-US">
         <seg>Discovering the Main Idea and Transformational Intent</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170038Z" creationid="nathanwatkins" creationdate="20260409T170038Z">
-        <seg>(MT) การค้นพบใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170038Z">
+        <seg>(MT) การค้นพบประเด็นหลักและเจตนาเพื่อการเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -1088,16 +1088,16 @@
       <tuv lang="en-US">
         <seg>E&lt;t0/&gt;xpository preaching &lt;t1/&gt;means that&lt;t2/&gt; the transformational message of the text of Scripture is the point of the sermon&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171522Z" creationid="nathanwatkins" creationdate="20260409T171522Z">
-        <seg>(MT) การ&lt;t0/&gt;เทศนาแบบอรรถาธิบาย &lt;t1/&gt;หมายความว่า&lt;t2/&gt;ข่าวสารเพื่อการเปลี่ยนแปลงชีวิตจากเนื้อหาในพระคัมภีร์ คือใจความสำคัญของคำเทศนา&lt;t3/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171522Z">
+        <seg>(MT) การ&lt;t0/&gt;เทศนาแบบอรรถาธิบาย &lt;t1/&gt;หมายความว่า&lt;t2/&gt;ข่าวสารเพื่อการเปลี่ยนแปลงชีวิตจากเนื้อหาในพระคัมภีร์ คือประเด็นหลักของคำเทศนา&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Each of these is integrally connected. Tone informs the main idea. Tone and main idea shape the transformational intent&lt;t0/&gt;,&lt;t1/&gt; which flows from the mood.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164553Z" creationid="nathanwatkins" creationdate="20260409T164553Z">
-        <seg>(MT) องค์ประกอบเหล่านี้ล้วนมีความเกี่ยวเนื่องกันอย่างแยกไม่ออก น้ำเสียงเป็นตัวกำหนดใจความสำคัญ ขณะที่น้ำเสียงและใจความสำคัญจะร่วมกันหล่อหลอมเจตนาสู่การเปลี่ยนแปลง&lt;t0/&gt;,&lt;t1/&gt; ซึ่งลื่นไหลมาจากอารมณ์ความรู้สึกที่ต้องการสื่อ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164553Z">
+        <seg>(MT) องค์ประกอบเหล่านี้ล้วนมีความเกี่ยวเนื่องกันอย่างแยกไม่ออก น้ำเสียงเป็นตัวกำหนดประเด็นหลัก ขณะที่น้ำเสียงและประเด็นหลักจะร่วมกันหล่อหลอมเจตนาสู่การเปลี่ยนแปลง&lt;t0/&gt;,&lt;t1/&gt; ซึ่งลื่นไหลมาจากอารมณ์ความรู้สึกที่ต้องการสื่อ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1296,16 +1296,16 @@
       <tuv lang="en-US">
         <seg>Finally, use the tone, mood, and transformational intent to shape your main idea into a sentence that expresses the purpose of the author. (Make sure it is general enough to express the whole of the author’s thought, yet specific enough to differentiate it from other books or passages&lt;t0/&gt;.)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170406Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
-        <seg>(MT) สุดท้ายนี้ ให้นำน้ำเสียง อารมณ์ และเจตนาในการเปลี่ยนแปลงชีวิต มาเรียบเรียงใจความสำคัญของคุณให้เป็นประโยคที่สื่อถึงจุดประสงค์ของผู้เขียน (โดยให้แน่ใจว่าประโยคนั้นครอบคลุมความคิดทั้งหมดของผู้เขียน แต่ก็มีความเฉพาะเจาะจงมากพอที่จะทำให้เห็นความแตกต่างจากหนังสือหรือพระธรรมตอนอื่นๆ&lt;t0/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
+        <seg>(MT) สุดท้ายนี้ ให้นำน้ำเสียง อารมณ์ และเจตนาในการเปลี่ยนแปลงชีวิต มาเรียบเรียงประเด็นหลักของคุณให้เป็นประโยคที่สื่อถึงจุดประสงค์ของผู้เขียน (โดยให้แน่ใจว่าประโยคนั้นครอบคลุมความคิดทั้งหมดของผู้เขียน แต่ก็มีความเฉพาะเจาะจงมากพอที่จะทำให้เห็นความแตกต่างจากหนังสือหรือพระธรรมตอนอื่นๆ&lt;t0/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Flow: The sermon should flow naturally out of the structure and main idea and transformational intent of the text. Make the author’s point your point.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171436Z" creationid="nathanwatkins" creationdate="20260409T171436Z">
-        <seg>(MT) ความลื่นไหล: คำเทศนาควรลื่นไหลไปตามโครงสร้าง ใจความสำคัญ และจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตของเนื้อหาในพระธรรมตอนนั้นอย่างเป็นธรรมชาติ จงสื่อสารประเด็นของผู้เขียนให้เป็นประเด็นของคุณเอง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171436Z">
+        <seg>(MT) ความลื่นไหล: คำเทศนาควรลื่นไหลไปตามโครงสร้าง ประเด็นหลัก และจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตของเนื้อหาในพระธรรมตอนนั้นอย่างเป็นธรรมชาติ จงสื่อสารประเด็นของผู้เขียนให้เป็นประเด็นของคุณเอง</seg>
       </tuv>
     </tu>
     <tu>
@@ -1811,8 +1811,8 @@
       <tuv lang="en-US">
         <seg>How do we apply the Bible to our lives? Often, we think the best way is to go straight from the words of the Bible to our lives, but before we can apply the message of God’s Word, we must carefully observe it in its context. This will help us discover the author’s main idea and transformational intent. Then we can make precise and compelling applications, aligned with the author’s intent&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162752Z" creationid="nathanwatkins" creationdate="20260409T162752Z">
-        <seg>(MT) เราจะประยุกต์ใช้พระคัมภีร์กับชีวิตของเราได้อย่างไร? เรามักจะคิดว่าวิธีที่ดีที่สุดคือการนำถ้อยคำในพระคัมภีร์มาใช้กับชีวิตของเราโดยตรง แต่ก่อนที่เราจะนำข้อความในพระวจนะของพระเจ้าไปประยุกต์ใช้ได้นั้น เราต้องสังเกตข้อความนั้นภายในบริบทอย่างละเอียดรอบคอบเสียก่อน การสังเกตบริบทจะช่วยให้เราค้นพบใจความสำคัญและเจตนารมณ์ของผู้เขียนที่ต้องการให้เกิดการเปลี่ยนแปลง จากนั้น เราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำ ทรงพลัง และสอดคล้องกับความตั้งใจของผู้เขียน&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T162752Z">
+        <seg>(MT) เราจะประยุกต์ใช้พระคัมภีร์กับชีวิตของเราได้อย่างไร? เรามักจะคิดว่าวิธีที่ดีที่สุดคือการนำถ้อยคำในพระคัมภีร์มาใช้กับชีวิตของเราโดยตรง แต่ก่อนที่เราจะนำข้อความในพระวจนะของพระเจ้าไปประยุกต์ใช้ได้นั้น เราต้องสังเกตข้อความนั้นภายในบริบทอย่างละเอียดรอบคอบเสียก่อน การสังเกตบริบทจะช่วยให้เราค้นพบประเด็นหลักและเจตนารมณ์ของผู้เขียนที่ต้องการให้เกิดการเปลี่ยนแปลง จากนั้น เราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำ ทรงพลัง และสอดคล้องกับความตั้งใจของผู้เขียน&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1987,8 +1987,8 @@
       <tuv lang="en-US">
         <seg>How has God changed you through the &lt;t0/&gt;main idea and transformational intent&lt;t1/&gt; &lt;t2/&gt;of this book?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171335Z" creationid="nathanwatkins" creationdate="20260409T171335Z">
-        <seg>(MT) พระเจ้าทรงเปลี่ยนแปลงคุณอย่างไรผ่านทาง &lt;t0/&gt;ใจความสำคัญและจุดประสงค์ในการเปลี่ยนแปลงชีวิต&lt;t1/&gt; &lt;t2/&gt;ของพระธรรมเล่มนี้?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171335Z">
+        <seg>(MT) พระเจ้าทรงเปลี่ยนแปลงคุณอย่างไรผ่านทาง &lt;t0/&gt;ประเด็นหลักและจุดประสงค์ในการเปลี่ยนแปลงชีวิต&lt;t1/&gt; &lt;t2/&gt;ของพระธรรมเล่มนี้?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2027,8 +2027,8 @@
       <tuv lang="en-US">
         <seg>How have the key themes in the main idea and transformational intent developed through the Bible's story to this point?</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ธีม (Theme) ในใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงได้พัฒนาผ่านเรื่องราวของพระคัมภีร์จนไปถึงจุดนี้อย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ธีม (Theme) ในประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงได้พัฒนาผ่านเรื่องราวของพระคัมภีร์จนไปถึงจุดนี้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2075,8 +2075,8 @@
       <tuv lang="en-US">
         <seg>How might you restate your main idea and transformational intent sentence for Genesis again in a way that is informed by the work of Biblical Theology you have just done?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171121Z" creationid="nathanwatkins" creationdate="20260409T171121Z">
-        <seg>(MT) เมื่อพิจารณาจากงานด้านเทววิทยาตามแนวพระคัมภีร์ที่คุณเพิ่งทำเสร็จไป คุณจะเรียบเรียงใจความสำคัญและประโยคจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตสำหรับพระธรรมปฐมกาลขึ้นใหม่ว่าอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171121Z">
+        <seg>(MT) เมื่อพิจารณาจากงานด้านเทววิทยาตามแนวพระคัมภีร์ที่คุณเพิ่งทำเสร็จไป คุณจะเรียบเรียงประเด็นหลักและประโยคจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตสำหรับพระธรรมปฐมกาลขึ้นใหม่ว่าอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2259,8 +2259,8 @@
       <tuv lang="en-US">
         <seg>In the first column below&lt;t0/&gt;,&lt;t1/&gt; write down the themes from your main idea that you traced through Biblical Theology&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171147Z" creationid="nathanwatkins" creationdate="20260409T171147Z">
-        <seg>(MT) ในคอลัมน์แรกด้านล่างนี้&lt;t0/&gt;,&lt;t1/&gt; ให้เขียนหัวข้อต่างๆ จากใจความสำคัญของท่านที่ท่านได้สืบค้นผ่านแนวคิดทางศาสนศาสตร์พระคัมภีร์มาแล้ว&lt;t2/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171147Z">
+        <seg>(MT) ในคอลัมน์แรกด้านล่างนี้&lt;t0/&gt;,&lt;t1/&gt; ให้เขียนหัวข้อต่างๆ จากประเด็นหลักของท่านที่ท่านได้สืบค้นผ่านแนวคิดทางศาสนศาสตร์พระคัมภีร์มาแล้ว&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2307,8 +2307,8 @@
       <tuv lang="en-US">
         <seg>Is it saying less than the author’s main idea? Is it saying more?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170427Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
-        <seg>(MT) สิ่งที่สื่อออกมานั้นขาดตกไปจากใจความสำคัญของผู้เขียน หรือว่าสื่อความหมายเกินเลยไปหรือไม่?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
+        <seg>(MT) สิ่งที่สื่อออกมานั้นขาดตกไปจากประเด็นหลักของผู้เขียน หรือว่าสื่อความหมายเกินเลยไปหรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2379,8 +2379,8 @@
       <tuv lang="en-US">
         <seg>It helps us see the text and &lt;t0/&gt;the main idea and transformational intent in light &lt;t1/&gt;of the whole Bible.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170742Z" creationid="nathanwatkins" creationdate="20260409T170742Z">
-        <seg>(MT) สิ่งนี้ช่วยให้เรามองเห็นตัวบท &lt;t0/&gt;ใจความสำคัญ และจุดมุ่งหมายในการเปลี่ยนแปลงชีวิต ในความสว่าง &lt;t1/&gt;ของพระคัมภีร์ทั้งเล่ม</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170742Z">
+        <seg>(MT) สิ่งนี้ช่วยให้เรามองเห็นตัวบท &lt;t0/&gt;ประเด็นหลัก และจุดมุ่งหมายในการเปลี่ยนแปลงชีวิต ในความสว่าง &lt;t1/&gt;ของพระคัมภีร์ทั้งเล่ม</seg>
       </tuv>
     </tu>
     <tu>
@@ -2555,64 +2555,64 @@
       <tuv lang="en-US">
         <seg>Main Idea &lt;t0/&gt;and&lt;t1/&gt; Transformational Intent of the Book</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260407T155424Z" creationid="nathanwatkins" creationdate="20260407T154708Z">
-        <seg>ใจความสำคัญ &lt;t0/&gt;และ&lt;t1/&gt; เจตนาสู่การเปลี่ยนแปลงของหนังสือเล่มนี้</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260407T154708Z">
+        <seg>ประเด็นหลัก &lt;t0/&gt;และ&lt;t1/&gt; เจตนาสู่การเปลี่ยนแปลงของหนังสือเล่มนี้</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main Idea and Transformational Intent</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103536Z" creationid="nathanwatkins" creationdate="20260406T103536Z">
-        <seg>ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260406T103536Z">
+        <seg>ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main Idea and Transformational Intent of Genesis 6:9–9:29</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164235Z" creationid="nathanwatkins" creationdate="20260409T164235Z">
-        <seg>(MT) ใจความสำคัญและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตของปฐมกาล 6:9–9:29</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164235Z">
+        <seg>(MT) ประเด็นหลักและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตของปฐมกาล 6:9–9:29</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main Idea and Transformational Intent of the Book</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงของหนังสือ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของหนังสือ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main Idea: Ask, “What is the author saying?”</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164550Z" creationid="nathanwatkins" creationdate="20260409T164550Z">
-        <seg>(MT) ใจความสำคัญ: ถามว่า “ผู้เขียนกำลังบอกอะไร?”</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164550Z">
+        <seg>(MT) ประเด็นหลัก: ถามว่า “ผู้เขียนกำลังบอกอะไร?”</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main Idea&lt;t0/&gt; and Transformational Intent&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;Identify the author's tone and&lt;t4/&gt; intent,&lt;t5/&gt; mak&lt;t6/&gt;ing&lt;t7/&gt; the author’s main idea clear. Try to express these in one complete sentence.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163817Z" creationid="nathanwatkins" creationdate="20260409T163817Z">
-        <seg>(MT) ใจความสำคัญ&lt;t0/&gt; และเจตนาเพื่อการเปลี่ยนแปลง&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;ระบุน้ำเสียงและ&lt;t4/&gt;เจตนาของผู้เขียน&lt;t5/&gt; เพื่อ&lt;t6/&gt;ให้&lt;t7/&gt;ใจความสำคัญนั้นชัดเจน โดยพยายามสรุปสิ่งเหล่านี้ให้เป็นประโยคที่สมบูรณ์เพียงประโยคเดียว</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T163817Z">
+        <seg>(MT) ประเด็นหลัก&lt;t0/&gt; และเจตนาเพื่อการเปลี่ยนแปลง&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;ระบุน้ำเสียงและ&lt;t4/&gt;เจตนาของผู้เขียน&lt;t5/&gt; เพื่อ&lt;t6/&gt;ให้&lt;t7/&gt;ประเด็นหลักนั้นชัดเจน โดยพยายามสรุปสิ่งเหล่านี้ให้เป็นประโยคที่สมบูรณ์เพียงประโยคเดียว</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main Idea&lt;t0/&gt; and Transformational Intent&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;Was the author's tone&lt;t4/&gt;, &lt;t5/&gt;main idea&lt;t6/&gt;, and transformational intent &lt;t7/&gt;identified clearly&lt;t8/&gt;? &lt;t9/&gt;Were they expressed together in a complete sentence?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163941Z" creationid="nathanwatkins" creationdate="20260409T163941Z">
-        <seg>(MT) ใจความสำคัญ&lt;t0/&gt; และเจตนาเพื่อการเปลี่ยนแปลง&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;มีการระบุน้ำเสียง&lt;t4/&gt;, &lt;t5/&gt;ใจความสำคัญ&lt;t6/&gt;และเจตนาเพื่อการเปลี่ยนแปลง&lt;t7/&gt;ของผู้เขียนไว้อย่างชัดเจนหรือไม่&lt;t8/&gt;? &lt;t9/&gt;และได้มีการเรียบเรียงประเด็นเหล่านี้รวมกันเป็นประโยคที่สมบูรณ์หรือไม่?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T163941Z">
+        <seg>(MT) ประเด็นหลัก&lt;t0/&gt; และเจตนาเพื่อการเปลี่ยนแปลง&lt;t1/&gt;:&lt;t2/&gt; &lt;t3/&gt;มีการระบุน้ำเสียง&lt;t4/&gt;, &lt;t5/&gt;ประเด็นหลัก&lt;t6/&gt;และเจตนาเพื่อการเปลี่ยนแปลง&lt;t7/&gt;ของผู้เขียนไว้อย่างชัดเจนหรือไม่&lt;t8/&gt;? &lt;t9/&gt;และได้มีการเรียบเรียงประเด็นเหล่านี้รวมกันเป็นประโยคที่สมบูรณ์หรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Main idea</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ใจความสำคัญ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ประเด็นหลัก</seg>
       </tuv>
     </tu>
     <tu>
@@ -2803,8 +2803,8 @@
       <tuv lang="en-US">
         <seg>Now take a moment and describe each unit of thought using a few key words.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174954Z" creationid="nathanwatkins" creationdate="20260409T164142Z">
-        <seg>(MT) ใช้เวลาสักครู่เพื่อสรุปใจความสำคัญของแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164142Z">
+        <seg>(MT) ใช้เวลาสักครู่เพื่อสรุปประเด็นหลักของแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2932,8 +2932,8 @@
       <tuv lang="en-US">
         <seg>Overall plot / main idea &amp; transformational intent</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160047Z" creationid="nathanwatkins" creationdate="20260409T160047Z">
-        <seg>(MT) โครงเรื่องโดยรวม / ใจความสำคัญ และจุดประสงค์เพื่อการเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T160047Z">
+        <seg>(MT) โครงเรื่องโดยรวม / ประเด็นหลัก และจุดประสงค์เพื่อการเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -3140,8 +3140,8 @@
       <tuv lang="en-US">
         <seg>Precise and compelling application flows from and is shaped&lt;t0/&gt; &lt;t1/&gt;by the &lt;t2/&gt;main idea and transformational intent&lt;t3/&gt;. Ask, &lt;t4/&gt;“&lt;t5/&gt;In light of this, how should we respond? What would it actually look like for the author&lt;t6/&gt;’s&lt;t7/&gt; tone, main idea&lt;t8/&gt;,&lt;t9/&gt; and transformational intent to be at work in our lives?&lt;t10/&gt;”</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171511Z" creationid="nathanwatkins" creationdate="20260409T171511Z">
-        <seg>(MT) การประยุกต์ใช้ที่แม่นยำและทรงพลังนั้นหลั่งไหลมาจากและถูกหล่อหลอม&lt;t0/&gt; &lt;t1/&gt;โดย&lt;t2/&gt;ใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลง&lt;t3/&gt;ให้ลองถามว่า &lt;t4/&gt;“&lt;t5/&gt;เมื่อพิจารณาจากสิ่งนี้ เราควรตอบสนองอย่างไร? หากน้ำเสียง ใจความสำคัญ&lt;t8/&gt;&lt;t9/&gt;และเจตนาเพื่อการเปลี่ยนแปลงของ&lt;t6/&gt;ผู้เขียน&lt;t7/&gt;นั้นส่งผลต่อชีวิตของเราจริงๆ จะมีลักษณะอย่างไร?&lt;t10/&gt;”</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171511Z">
+        <seg>(MT) การประยุกต์ใช้ที่แม่นยำและทรงพลังนั้นหลั่งไหลมาจากและถูกหล่อหลอม&lt;t0/&gt; &lt;t1/&gt;โดย&lt;t2/&gt;ประเด็นหลักและเจตนาเพื่อการเปลี่ยนแปลง&lt;t3/&gt;ให้ลองถามว่า &lt;t4/&gt;“&lt;t5/&gt;เมื่อพิจารณาจากสิ่งนี้ เราควรตอบสนองอย่างไร? หากน้ำเสียง ประเด็นหลัก&lt;t8/&gt;&lt;t9/&gt;และเจตนาเพื่อการเปลี่ยนแปลงของ&lt;t6/&gt;ผู้เขียน&lt;t7/&gt;นั้นส่งผลต่อชีวิตของเราจริงๆ จะมีลักษณะอย่างไร?&lt;t10/&gt;”</seg>
       </tuv>
     </tu>
     <tu>
@@ -3348,8 +3348,8 @@
       <tuv lang="en-US">
         <seg>Remember: The main idea and transformational intent sentence should be clear, instructive, and reflect the author’s tone. Your sermon should be organized around this sentence so you can shepherd people with precise and compelling applications that flow from the author’s transformational intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164818Z" creationid="nathanwatkins" creationdate="20260409T164818Z">
-        <seg>(MT) ข้อควรจำ: ประโยคใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงควรมีความชัดเจน ให้แนวทางที่นำไปใช้ได้ และสะท้อนน้ำเสียงของผู้เขียน คุณควรจัดโครงสร้างคำเทศนาโดยยึดตามประโยคนี้ เพื่อที่คุณจะสามารถอภิบาลผู้คนด้วยการประยุกต์ใช้ที่ตรงประเด็นและมีพลัง ซึ่งหลั่งไหลมาจากเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164818Z">
+        <seg>(MT) ข้อควรจำ: ประโยคประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงควรมีความชัดเจน ให้แนวทางที่นำไปใช้ได้ และสะท้อนน้ำเสียงของผู้เขียน คุณควรจัดโครงสร้างคำเทศนาโดยยึดตามประโยคนี้ เพื่อที่คุณจะสามารถอภิบาลผู้คนด้วยการประยุกต์ใช้ที่ตรงประเด็นและมีพลัง ซึ่งหลั่งไหลมาจากเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -3396,8 +3396,8 @@
       <tuv lang="en-US">
         <seg>Revised main idea &amp; transformational intent</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ปรับปรุงใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ปรับปรุงประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -3420,8 +3420,8 @@
       <tuv lang="en-US">
         <seg>Select material to demonstrate main idea and structure.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เลือกเนื้อหาเพื่อแสดงให้เห็นใจความสำคัญและโครงสร้าง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เลือกเนื้อหาเพื่อแสดงให้เห็นประเด็นหลักและโครงสร้าง</seg>
       </tuv>
     </tu>
     <tu>
@@ -3772,8 +3772,8 @@
       <tuv lang="en-US">
         <seg>State the &lt;t0/&gt;main idea &amp; transformational intent&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171613Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
-        <seg>(MT) ระบุ &lt;t0/&gt;ใจความสำคัญและจุดประสงค์เพื่อการเปลี่ยนแปลง&lt;t1/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
+        <seg>(MT) ระบุ &lt;t0/&gt;ประเด็นหลักและจุดประสงค์เพื่อการเปลี่ยนแปลง&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3844,8 +3844,8 @@
       <tuv lang="en-US">
         <seg>Suggestions for &lt;t0/&gt;D&lt;t1/&gt;iscovering the Main Idea with the &lt;t2/&gt;A&lt;t3/&gt;uthor’s Tone and the Transformational Intent with the Mood the &lt;t4/&gt;A&lt;t5/&gt;uthor &lt;t6/&gt;I&lt;t7/&gt;ntended</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164644Z" creationid="nathanwatkins" creationdate="20260409T164644Z">
-        <seg>(MT) ข้อเสนอแนะใน&lt;t0/&gt;ก&lt;t1/&gt;ารค้นหาใจความสำคัญจากน้ำเสียงของ&lt;t2/&gt;ผู้&lt;t3/&gt;เขียน และค้นหาเจตนาเพื่อการเปลี่ยนแปลงจากอารมณ์ความรู้สึกที่&lt;t4/&gt;ผู้&lt;t5/&gt;เขียน&lt;t6/&gt;ต&lt;t7/&gt;ั้งใจสื่อ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164644Z">
+        <seg>(MT) ข้อเสนอแนะใน&lt;t0/&gt;ก&lt;t1/&gt;ารค้นหาประเด็นหลักจากน้ำเสียงของ&lt;t2/&gt;ผู้&lt;t3/&gt;เขียน และค้นหาเจตนาเพื่อการเปลี่ยนแปลงจากอารมณ์ความรู้สึกที่&lt;t4/&gt;ผู้&lt;t5/&gt;เขียน&lt;t6/&gt;ต&lt;t7/&gt;ั้งใจสื่อ</seg>
       </tuv>
     </tu>
     <tu>
@@ -4004,8 +4004,8 @@
       <tuv lang="en-US">
         <seg>The Word: The line of God’s Word drives us to preach and shepherd people with the &lt;t0/&gt;main idea and transformational intent&lt;t1/&gt; of the author.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T175344Z" creationid="nathanwatkins" creationdate="20260409T171400Z">
-        <seg>(MT) พระวจนะ: แนวทางแห่งพระวจนะของพระเจ้าขับเคลื่อนเราให้เทศนาและอภิบาลผู้คน โดยยึดตาม &lt;t0/&gt;ใจความสำคัญและเจตจำนงเพื่อการเปลี่ยนแปลงชีวิต&lt;t1/&gt; ของผู้เขียน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171400Z">
+        <seg>(MT) พระวจนะ: แนวทางแห่งพระวจนะของพระเจ้าขับเคลื่อนเราให้เทศนาและอภิบาลผู้คน โดยยึดตาม &lt;t0/&gt;ประเด็นหลักและเจตจำนงเพื่อการเปลี่ยนแปลงชีวิต&lt;t1/&gt; ของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -4092,8 +4092,8 @@
       <tuv lang="en-US">
         <seg>The key is to understand the right pieces of the context. This involves wrestling with questions like, &lt;t0/&gt;What&lt;t1/&gt; does the author say? Why does he say it in this way? Why does he say it here? What is surprising about it?&lt;t2/&gt; These questions lead us to the right information and help us discover the author’s main idea and transformational intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163014Z" creationid="nathanwatkins" creationdate="20260409T163014Z">
-        <seg>(MT) หัวใจสำคัญคือการทำความเข้าใจองค์ประกอบของบริบทให้ถูกจุด ซึ่งเราต้องขบคิดผ่านคำถามต่างๆ เช่น &lt;t0/&gt;ผู้เขียนพูดว่าอะไร&lt;t1/&gt;? ทำไมเขาถึงพูดในลักษณะนี้? ทำไมเขาถึงพูดไว้ตรงนี้? และมีอะไรที่น่าประหลาดใจบ้าง?&lt;t2/&gt; คำถามเหล่านี้จะนำเราไปสู่ข้อมูลที่ถูกต้อง และช่วยให้เราค้นพบใจความสำคัญรวมถึงเจตนาของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T163014Z">
+        <seg>(MT) หัวใจสำคัญคือการทำความเข้าใจองค์ประกอบของบริบทให้ถูกจุด ซึ่งเราต้องขบคิดผ่านคำถามต่างๆ เช่น &lt;t0/&gt;ผู้เขียนพูดว่าอะไร&lt;t1/&gt;? ทำไมเขาถึงพูดในลักษณะนี้? ทำไมเขาถึงพูดไว้ตรงนี้? และมีอะไรที่น่าประหลาดใจบ้าง?&lt;t2/&gt; คำถามเหล่านี้จะนำเราไปสู่ข้อมูลที่ถูกต้อง และช่วยให้เราค้นพบประเด็นหลักรวมถึงเจตนาของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -4116,8 +4116,8 @@
       <tuv lang="en-US">
         <seg>The main idea and transformational intent statement should be general enough to express the whole of the author’s thought yet specific enough to differentiate it from other books or passages.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164557Z" creationid="nathanwatkins" creationdate="20260409T164557Z">
-        <seg>(MT) การระบุใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงควรมีความกว้างเพียงพอที่จะครอบคลุมความคิดทั้งหมดของผู้เขียน ในขณะเดียวกัน ข้อความนี้ต้องมีความเฉพาะเจาะจงเพียงพอที่จะแยกความแตกต่างจากพระธรรมเล่มอื่นหรือพระธรรมตอนอื่นได้</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164557Z">
+        <seg>(MT) การระบุประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงควรมีความกว้างเพียงพอที่จะครอบคลุมความคิดทั้งหมดของผู้เขียน ในขณะเดียวกัน ข้อความนี้ต้องมีความเฉพาะเจาะจงเพียงพอที่จะแยกความแตกต่างจากพระธรรมเล่มอื่นหรือพระธรรมตอนอื่นได้</seg>
       </tuv>
     </tu>
     <tu>
@@ -4244,8 +4244,8 @@
       <tuv lang="en-US">
         <seg>The task at hand: It&lt;t0/&gt; helps us think &lt;t1/&gt;through our frameworks, apply the main idea and transformational intent, and align min&lt;t2/&gt;d, emotion, and will with God’s own heart.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171201Z" creationid="nathanwatkins" creationdate="20260409T171201Z">
-        <seg>(MT) ภารกิจที่ต้องทำ: กระบวนการนี้&lt;t0/&gt; ช่วยให้เราได้คิด&lt;t1/&gt;ทบทวนกรอบความคิดของเรา ประยุกต์ใช้ใจความสำคัญและเจตจำนงเพื่อการเปลี่ยนแปลง และปรับความคิด อารมณ์ และเจตจำนงของเราให้สอดคล้องกับพระทัยของพระเจ้า</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171201Z">
+        <seg>(MT) ภารกิจที่ต้องทำ: กระบวนการนี้&lt;t0/&gt; ช่วยให้เราได้คิด&lt;t1/&gt;ทบทวนกรอบความคิดของเรา ประยุกต์ใช้ประเด็นหลักและเจตจำนงเพื่อการเปลี่ยนแปลง และปรับความคิด อารมณ์ และเจตจำนงของเราให้สอดคล้องกับพระทัยของพระเจ้า</seg>
       </tuv>
     </tu>
     <tu>
@@ -4268,8 +4268,8 @@
       <tuv lang="en-US">
         <seg>The units of thought immediately before and after the passage. Ask, &lt;t0/&gt;“&lt;t1/&gt;Why does the author say this &lt;t2/&gt;here?&lt;t3/&gt;”&lt;t4/&gt; How does what he says before and after this passage connect to this passage? How &lt;t5/&gt;does it develop his larger main idea?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162912Z" creationid="nathanwatkins" creationdate="20260409T162912Z">
-        <seg>(MT) เนื้อหาที่อยู่ก่อนหน้าและหลังข้อพระคัมภีร์ตอนนี้ทันที ให้ถามว่า &lt;t0/&gt;“&lt;t1/&gt;ทำไมผู้เขียนถึงกล่าวเรื่องนี้ &lt;t2/&gt;ไว้ตรงนี้?&lt;t3/&gt;”&lt;t4/&gt; สิ่งที่เขากล่าวก่อนและหลังข้อพระคัมภีร์ตอนนี้เชื่อมโยงกับตอนนี้อย่างไร? และ&lt;t5/&gt;เนื้อหาเหล่านั้นช่วยขยายใจความสำคัญในภาพรวมของผู้เขียนได้อย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T162912Z">
+        <seg>(MT) เนื้อหาที่อยู่ก่อนหน้าและหลังข้อพระคัมภีร์ตอนนี้ทันที ให้ถามว่า &lt;t0/&gt;“&lt;t1/&gt;ทำไมผู้เขียนถึงกล่าวเรื่องนี้ &lt;t2/&gt;ไว้ตรงนี้?&lt;t3/&gt;”&lt;t4/&gt; สิ่งที่เขากล่าวก่อนและหลังข้อพระคัมภีร์ตอนนี้เชื่อมโยงกับตอนนี้อย่างไร? และ&lt;t5/&gt;เนื้อหาเหล่านั้นช่วยขยายประเด็นหลักในภาพรวมของผู้เขียนได้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4412,8 +4412,8 @@
       <tuv lang="en-US">
         <seg>This is all done to &lt;t0/&gt;Accomplish the Author’s Purpose&lt;t1/&gt;. &lt;t2/&gt;The author intentionally chose the structure to support and reveal the main idea and transformational intent</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T112726Z" creationid="nathanwatkins" creationdate="20260409T112726Z">
-        <seg>(MT) ทั้งหมดนี้ล้วนทำไปเพื่อ &lt;t0/&gt;บรรลุวัตถุประสงค์ของผู้เขียน&lt;t1/&gt;&lt;t2/&gt;ผู้เขียนจงใจเลือกโครงสร้างนี้เพื่อสนับสนุนและเผยให้เห็นถึงใจความสำคัญ ตลอดจนเจตจำนงในการเปลี่ยนแปลงชีวิต</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T112726Z">
+        <seg>(MT) ทั้งหมดนี้ล้วนทำไปเพื่อ &lt;t0/&gt;บรรลุวัตถุประสงค์ของผู้เขียน&lt;t1/&gt;&lt;t2/&gt;ผู้เขียนจงใจเลือกโครงสร้างนี้เพื่อสนับสนุนและเผยให้เห็นถึงประเด็นหลัก ตลอดจนเจตจำนงในการเปลี่ยนแปลงชีวิต</seg>
       </tuv>
     </tu>
     <tu>
@@ -4428,8 +4428,8 @@
       <tuv lang="en-US">
         <seg>This principle is about the relationship between context and application. Before we can apply the &lt;t0/&gt;text&lt;t1/&gt;, we must carefully observe it in its context. This will help us discover the author’s main idea and transformational intent. Then we can make precise and compelling applications aligned with the author’s intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162854Z" creationid="nathanwatkins" creationdate="20260409T162854Z">
-        <seg>(MT) หลักการนี้ว่าด้วยความสัมพันธ์ระหว่างบริบทและการนำไปประยุกต์ใช้ ก่อนที่เราจะนำ &lt;t0/&gt;เนื้อหาในพระคัมภีร์&lt;t1/&gt;ไปใช้ได้ เราต้องสังเกตเนื้อหานั้นในบริบทอย่างละเอียดรอบคอบเสียก่อน วิธีนี้จะช่วยให้เราค้นพบใจความสำคัญและเจตนารมณ์ของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลงชีวิต จากนั้นเราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำและทรงพลัง โดยสอดคล้องกับเจตนารมณ์ของผู้เขียน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T162854Z">
+        <seg>(MT) หลักการนี้ว่าด้วยความสัมพันธ์ระหว่างบริบทและการนำไปประยุกต์ใช้ ก่อนที่เราจะนำ &lt;t0/&gt;เนื้อหาในพระคัมภีร์&lt;t1/&gt;ไปใช้ได้ เราต้องสังเกตเนื้อหานั้นในบริบทอย่างละเอียดรอบคอบเสียก่อน วิธีนี้จะช่วยให้เราค้นพบประเด็นหลักและเจตนารมณ์ของผู้เขียนที่มุ่งหวังให้เกิดการเปลี่ยนแปลงชีวิต จากนั้นเราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำและทรงพลัง โดยสอดคล้องกับเจตนารมณ์ของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -5029,8 +5029,8 @@
       <tuv lang="en-US">
         <seg>What &lt;t0/&gt;D&lt;t1/&gt;oes&lt;t2/&gt; &lt;t3/&gt;Main Idea and Transformational Intent&lt;t4/&gt; &lt;t5/&gt;M&lt;t6/&gt;ean?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164521Z" creationid="nathanwatkins" creationdate="20260409T164521Z">
-        <seg>(MT) &lt;t3/&gt;ใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลง&lt;t4/&gt; &lt;t0/&gt;ห&lt;t1/&gt;ม&lt;t2/&gt;ายความว่า&lt;t5/&gt;อ&lt;t6/&gt;ย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164521Z">
+        <seg>(MT) &lt;t3/&gt;ประเด็นหลักและเจตนาเพื่อการเปลี่ยนแปลง&lt;t4/&gt; &lt;t0/&gt;ห&lt;t1/&gt;ม&lt;t2/&gt;ายความว่า&lt;t5/&gt;อ&lt;t6/&gt;ย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5053,8 +5053,8 @@
       <tuv lang="en-US">
         <seg>What &lt;t0/&gt;is the main idea and transformational intent of the writer?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T125500Z" creationid="nathanwatkins" creationdate="20260406T125500Z">
-        <seg>ข้อความหรือพระธรรมเล่มนี้มีใจความสำคัญและเจตนาสู่การเปลี่ยนแปลงอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260406T125500Z">
+        <seg>ข้อความหรือพระธรรมเล่มนี้มีประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5093,8 +5093,8 @@
       <tuv lang="en-US">
         <seg>What are the implications of this main idea and transformational intent for our own lives and ministries&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170410Z" creationid="nathanwatkins" creationdate="20260409T170410Z">
-        <seg>(MT) ใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลงนี้ ส่งผลอย่างไรต่อชีวิตและพันธกิจของเรา&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170410Z">
+        <seg>(MT) ประเด็นหลักและเจตนาเพื่อการเปลี่ยนแปลงนี้ ส่งผลอย่างไรต่อชีวิตและพันธกิจของเรา&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5317,8 +5317,8 @@
       <tuv lang="en-US">
         <seg>What is the main idea and transformational intent of this passage or book&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170740Z" creationid="nathanwatkins" creationdate="20260409T170740Z">
-        <seg>(MT) ใจความสำคัญและเป้าหมายในการเปลี่ยนแปลงชีวิตของพระธรรมตอนนี้หรือพระธรรมเล่มนี้คืออะไร&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170740Z">
+        <seg>(MT) ประเด็นหลักและเป้าหมายในการเปลี่ยนแปลงชีวิตของพระธรรมตอนนี้หรือพระธรรมเล่มนี้คืออะไร&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5421,8 +5421,8 @@
       <tuv lang="en-US">
         <seg>What themes are expressed in this main idea and transformational intent that connect to the larger story of the Bible? &lt;t0/&gt;Try to l&lt;t1/&gt;ist &lt;t2/&gt;three of &lt;t3/&gt;them&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170940Z" creationid="nathanwatkins" creationdate="20260409T170940Z">
-        <seg>(MT) ในใจความสำคัญและเจตนาเพื่อการเปลี่ยนแปลงนี้ มีหัวข้อสำคัญใดบ้างที่เชื่อมโยงกับเรื่องราวที่ยิ่งใหญ่กว่าของพระคัมภีร์? &lt;t0/&gt;ลองระบุ&lt;t1/&gt;มา&lt;t2/&gt;สาม&lt;t3/&gt;หัวข้อ&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170940Z">
+        <seg>(MT) ในประเด็นหลักและเจตนาเพื่อการเปลี่ยนแปลงนี้ มีหัวข้อสำคัญใดบ้างที่เชื่อมโยงกับเรื่องราวที่ยิ่งใหญ่กว่าของพระคัมภีร์? &lt;t0/&gt;ลองระบุ&lt;t1/&gt;มา&lt;t2/&gt;สาม&lt;t3/&gt;หัวข้อ&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5749,8 +5749,8 @@
       <tuv lang="en-US">
         <seg>Write &lt;t0/&gt;down your main idea and transformational intent for the&lt;t1/&gt; &lt;t2/&gt;book&lt;t3/&gt;.&lt;t4/&gt; (S&lt;t5/&gt;ee Session&lt;t6/&gt; &lt;t7/&gt;10&lt;t8/&gt;.&lt;t9/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171037Z" creationid="nathanwatkins" creationdate="20260409T171037Z">
-        <seg>(MT) เขียน &lt;t0/&gt;ใจความสำคัญและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงของคุณสำหรับ&lt;t1/&gt; &lt;t2/&gt;พระธรรมเล่มนี้&lt;t3/&gt;ลงไป&lt;t4/&gt; (&lt;t5/&gt;ดูบทเรียนที่&lt;t6/&gt; &lt;t7/&gt;10&lt;t8/&gt;.&lt;t9/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171037Z">
+        <seg>(MT) เขียน &lt;t0/&gt;ประเด็นหลักและจุดมุ่งหมายเพื่อการเปลี่ยนแปลงของคุณสำหรับ&lt;t1/&gt; &lt;t2/&gt;พระธรรมเล่มนี้&lt;t3/&gt;ลงไป&lt;t4/&gt; (&lt;t5/&gt;ดูบทเรียนที่&lt;t6/&gt; &lt;t7/&gt;10&lt;t8/&gt;.&lt;t9/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5773,8 +5773,8 @@
       <tuv lang="en-US">
         <seg>Write your introduction and conclusion last. The introduction opens the door to the main idea and transformational intent, and the conclusion provides a summary and final challenge.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เขียนคำนำและบทสรุปเป็นลำดับสุดท้าย โดยที่คำนำควรเป็นการเปิดประตูเข้าสู่ใจความสำคัญและเจตนาสู่การเปลี่ยนแปลง ส่วนบทสรุปควรเป็นการสรุปเนื้อหาและคำท้าทายผู้ฟังเป็นครั้งสุดท้าย</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เขียนคำนำและบทสรุปเป็นลำดับสุดท้าย โดยที่คำนำควรเป็นการเปิดประตูเข้าสู่ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง ส่วนบทสรุปควรเป็นการสรุปเนื้อหาและคำท้าทายผู้ฟังเป็นครั้งสุดท้าย</seg>
       </tuv>
     </tu>
     <tu>
@@ -6173,8 +6173,8 @@
       <tuv lang="en-US">
         <seg>see the message of a larger section of Scripture&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164428Z" creationid="nathanwatkins" creationdate="20260409T164428Z">
-        <seg>(MT) มองเห็นใจความสำคัญของพระคัมภีร์ในตอนที่กว้างขึ้น&lt;t0/&gt;.</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164428Z">
+        <seg>(MT) มองเห็นประเด็นหลักของพระคัมภีร์ในตอนที่กว้างขึ้น&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -6269,8 +6269,8 @@
       <tuv lang="en-US">
         <seg>understand the principle of Main Idea &amp; Transformational Intent&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164236Z" creationid="nathanwatkins" creationdate="20260409T164236Z">
-        <seg>(MT) ทำความเข้าใจหลักการเรื่องใจความสำคัญและจุดมุ่งหมายเพื่อการเปลี่ยนแปลง&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164236Z">
+        <seg>(MT) ทำความเข้าใจหลักการเรื่องประเด็นหลักและจุดมุ่งหมายเพื่อการเปลี่ยนแปลง&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6301,8 +6301,8 @@
       <tuv lang="en-US">
         <seg>understand the significance and function of genealogies in Genesis&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174910Z" creationid="nathanwatkins" creationdate="20260409T164018Z">
-        <seg>(MT) เข้าใจความสำคัญและหน้าที่ของลำดับพงศ์พันธุ์ในพระธรรมปฐมกาล&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164018Z">
+        <seg>(MT) เข้าประเด็นหลักและหน้าที่ของลำดับพงศ์พันธุ์ในพระธรรมปฐมกาล&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6325,8 +6325,8 @@
       <tuv lang="en-US">
         <seg>understand, identify, and state the main idea and transformational intent&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170326Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
-        <seg>(MT) ทำความเข้าใจ ระบุ และสรุปใจความสำคัญรวมถึงจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิต&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
+        <seg>(MT) ทำความเข้าใจ ระบุ และสรุปประเด็นหลักรวมถึงจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิต&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
