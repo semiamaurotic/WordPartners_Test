@@ -560,8 +560,8 @@
       <tuv lang="en-US">
         <seg>Attribution&lt;t0/&gt;:&lt;t1/&gt; You must give appropriate credit (to WordPartners), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T070014Z" creationid="nathanwatkins" creationdate="20260406T103728Z">
-        <seg>การแสดงที่มา – คุณต้องให้เครดิตอย่างเหมาะสม (แก่ WordPartners) โดยให้ลิงก์ไปยังสัญญาอนุญาต และระบุว่ามีการเปลี่ยนแปลงหรือไม่ คุณสามารถทำเช่นนี้ได้ในลักษณะที่สมเหตุสมผล แต่ต้องไม่เป็นไปในลักษณะที่สื่อว่าผู้ให้สิทธิ์รับรองคุณหรือรับรองการใช้งานของคุณุ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T070156Z" creationid="nathanwatkins" creationdate="20260406T103728Z">
+        <seg>การแสดงที่มา – คุณต้องให้เครดิตอย่างเหมาะสม (แก่ WordPartners) โดยให้ลิงก์ไปยังสัญญาอนุญาต และระบุว่ามีการเปลี่ยนแปลงหรือไม่ คุณสามารถทำเช่นนี้ได้ในลักษณะที่สมเหตุสมผล แต่ต้องไม่เป็นไปในลักษณะที่สื่อว่าผู้ให้สิทธิ์รับรองคุณหรือรับรองการใช้งานของคุณต</seg>
       </tuv>
     </tu>
     <tu>
@@ -2715,8 +2715,8 @@
       <tuv lang="en-US">
         <seg>No additional restrictions&lt;t0/&gt;:&lt;t1/&gt; You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103739Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
-        <seg>ไม่มีข้อจำกัดเพิ่มเติม – คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใด ๆ ที่จะจำกัดสิทธิ์ของผู้อื่นในการกระทำสิ่งที่สัญญาอนุญาตนี้อน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T071551Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
+        <seg>ไม่มีข้อจำกัดเพิ่มเติม – คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใด ๆ ที่จะจำกัดสิทธิ์ของผู้อื่นในการกระทำสิ่งที่สัญญาอนุญาตนี้อนุญาต</seg>
       </tuv>
     </tu>
     <tu>
