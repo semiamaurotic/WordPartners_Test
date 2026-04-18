@@ -944,8 +944,8 @@
       <tuv lang="en-US">
         <seg>Demonstrate&lt;t0/&gt;: &lt;t1/&gt;The &lt;t2/&gt;purpose of these sessions is to model expository preaching and teaching. Expository preaching and teaching &lt;t3/&gt;seeks&lt;t4/&gt; to proclaim the author’s message with his purpose and tone, showing how it unfolds the glories of Christ, &lt;t5/&gt;in order to&lt;t6/&gt; shepherd the transformation God intends. Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130855Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
-        <seg>สาธิต: จุดมุ่งหมายของช่วงเหล่านี้คือเป็นแบบอย่างของการเทศนาแบบอรรถาธิบายและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนด้วยจุดประสงค์และน้ำเสียงของเขา แสดงให้เห็นว่าข้อความนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่าย ๆ คือการเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตจากพระธรรมตอนนั้นๆ เป็นจุดศูนย์กลางของคำเทศนา</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260418T082414Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
+        <seg>สาธิต: จุดมุ่งหมายของเซสชั่นเหล่านี้คือ เพื่อเป็นแบบอย่างของการเทศนาและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนตามจุดประสงค์และน้ำเสียงของเขา โดยแสดงให้เห็นว่าข้อความนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่าย ๆ คือการเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตจากพระธรรมตอนนั้นๆ เป็นจุดศูนย์กลางของคำเทศนา</seg>
       </tuv>
     </tu>
     <tu>
@@ -2916,8 +2916,8 @@
       <tuv lang="en-US">
         <seg>Our workshops are centered around studying through a book of the Bible so that</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เวิร์กช็อปของเรามุ่งเน้นการศึกษาผ่านพระธรรมแต่ละเล่มในพระคัมภีร์ เพื่อว่า</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260418T081108Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เวิร์กช็อปของเรามุ่งเน้นการศึกษาผ่านพระธรรมแต่ละเล่มในพระคัมภีร์ เพื่อที่ี่</seg>
       </tuv>
     </tu>
     <tu>
@@ -5597,8 +5597,8 @@
       <tuv lang="en-US">
         <seg>Why Study through Books of the Bible?</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ทำไมจึงศึกษาผ่านพระธรรมต่างๆ ในพระคัมภีร์ ทีละเล่ม?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260418T080944Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำไมเราจึงศึกษาผ่านพระธรรมต่างๆ ในพระคัมภีร์ ทีละเล่ม?</seg>
       </tuv>
     </tu>
     <tu>
