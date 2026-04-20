@@ -944,8 +944,8 @@
       <tuv lang="en-US">
         <seg>Demonstrate&lt;t0/&gt;: &lt;t1/&gt;The &lt;t2/&gt;purpose of these sessions is to model expository preaching and teaching. Expository preaching and teaching &lt;t3/&gt;seeks&lt;t4/&gt; to proclaim the author’s message with his purpose and tone, showing how it unfolds the glories of Christ, &lt;t5/&gt;in order to&lt;t6/&gt; shepherd the transformation God intends. Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260418T082414Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
-        <seg>สาธิต: จุดมุ่งหมายของเซสชั่นเหล่านี้คือ เพื่อเป็นแบบอย่างของการเทศนาและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนตามจุดประสงค์และน้ำเสียงของเขา โดยแสดงให้เห็นว่าข้อความนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่าย ๆ คือการเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตจากพระธรรมตอนนั้นๆ เป็นจุดศูนย์กลางของคำเทศนา</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T030610Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
+        <seg>สาธิต: จุดมุ่งหมายของเซสชั่นเหล่านี้คือ เพื่อเป็นแบบอย่างของการเทศนาและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนตามจุดประสงค์และน้ำเสียงของผู้เขียน โดยแสดงให้เห็นว่าข้อความนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่าย ๆ คือการเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตจากพระธรรมตอนนั้นๆ เป็นจุดศูนย์กลางของคำเทศนา</seg>
       </tuv>
     </tu>
     <tu>
@@ -1040,8 +1040,8 @@
       <tuv lang="en-US">
         <seg>Do&lt;t0/&gt;: &lt;t1/&gt;The &lt;t2/&gt;purpose of these sessions is to help us become better expository preachers and teachers of the Word of God. This happens through your preparation and presentation of a passage of Scripture. The workshop leader and peers will provide feedback on your work for your development. In the early stages this involves group study and simple explanations. Later, it moves to individual presentations and then fuller&lt;t3/&gt; &lt;t4/&gt;sermons.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130908Z" creationid="nathanwatkins" creationdate="20260406T130908Z">
-        <seg>ปฏิบัติ: จุดมุ่งหมายของช่วงเหล่านี้คือช่วยให้เราเป็นผู้เทศนาและผู้สอนพระวจนะของพระเจ้าแบบอรรถาธิบายที่ดีขึ้น ซึ่งจะเกิดขึ้นผ่านการเตรียมและการนำเสนอพระธรรมตอนหนึ่ง ผู้นำเวิร์กช็อปและเพื่อนร่วมกลุ่มจะให้ข้อเสนอแนะต่อผลงานของคุณเพื่อการพัฒนา ในช่วงเริ่มต้นจะเป็นการศึกษาร่วมกันเป็นกลุ่มและการอธิบายแบบง่ายๆ ต่อมาจะขยับไปสู่การนำเสนอรายบุคคล และท้ายที่สุดจะเป็นคำเทศนาที่สมบูรณ์ยิ่งขึ้น</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T031121Z" creationid="nathanwatkins" creationdate="20260406T130908Z">
+        <seg>ลงมือปฏิบัติ: จุดมุ่งหมายของช่วงเหล่านี้คือช่วยให้เราเป็นผู้เทศนาและผู้สอนพระวจนะของพระเจ้าแบบอรรถาธิบายที่ดีขึ้น ซึ่งจะเกิดขึ้นผ่านการเตรียมและการนำเสนอพระธรรมหนึ่งตอน ผู้นำเวิร์กช็อปและเพื่อนร่วมกลุ่มจะให้ข้อเสนอแนะต่อผลงานของคุณเพื่อการพัฒนา ในช่วงเริ่มต้นจะเป็นการศึกษาร่วมกันเป็นกลุ่มและการอธิบายแบบง่ายๆ ต่อมาจะขยับไปสู่การนำเสนอรายบุคคล และท้ายที่สุดจะเป็นคำเทศนาที่สมบูรณ์ยิ่งขึ้น</seg>
       </tuv>
     </tu>
     <tu>
