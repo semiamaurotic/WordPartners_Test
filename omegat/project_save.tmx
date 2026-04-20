@@ -4477,8 +4477,8 @@
       <tuv lang="en-US">
         <seg>This session is about two principles – genre and structure – and the way they work together. &lt;t0/&gt;Genre&lt;t1/&gt; refers to a specific form of writing or literature. The books of the Bible represent many different genres. &lt;t2/&gt;Structure&lt;t3/&gt; refers to units of thought arranged in a specific way to accomplish the author’s intended purpose. There is a very close relationship between genre and structure. The preacher or teacher of God’s Word must recognize how genre and structure shape the way an author communicates the message&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T082039Z" creationid="nathanwatkins" creationdate="20260407T160916Z">
-        <seg>เซสชั่นนี้เป็นเรื่องเกี่ยวกับหลักการสองประการ คือประเภทวรรณกรรมและโครงสร้าง รวมถึงวิธีที่ทั้งสองสิ่งนี้ทำงานร่วมกัน &lt;t0/&gt;ประเภทวรรณกรรม&lt;t1/&gt; หมายถึง รูปแบบเฉพาะของงานเขียนหรือวรรณกรรม ซึ่งพระธรรมต่างๆ ในพระคัมภีร์ประกอบด้วยประเภทวรรณกรรมที่หลากหลาย &lt;t2/&gt;โครงสร้าง&lt;t3/&gt; หมายถึง โครงสร้างความคิดที่จัดเรียงในรูปแบบเฉพาะเพื่อบรรลุวัตถุประสงค์ที่ผู้เขียนตั้งใจไว้ ประเภทวรรณกรรมและโครงสร้างมีความสัมพันธ์กันอย่างใกล้ชิด ผู้เทศนาหรือผู้สอนพระวจนะของพระเจ้าต้องตระหนักว่าทั้งประเภทวรรณกรรมและโครงสร้างส่งผลต่อวิธีที่ผู้เขียนสื่อสารข้อความอย่างไร&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T080402Z" creationid="nathanwatkins" creationdate="20260407T160916Z">
+        <seg>เซสชั่นนี้เป็นเรื่องเกี่ยวกับหลักการ 2 ประการ คือประเภทวรรณกรรมและโครงสร้าง รวมถึงวิธีที่ทั้งสองหลักการนี้ทำงานร่วมกัน &lt;t0/&gt;ประเภทวรรณกรรม&lt;t1/&gt; หมายถึง รูปแบบเฉพาะของงานเขียนหรือวรรณกรรม ซึ่งพระธรรมต่างๆ ในพระคัมภีร์ประกอบด้วยประเภทวรรณกรรมที่หลากหลาย &lt;t2/&gt;โครงสร้าง&lt;t3/&gt; หมายถึง โครงสร้างของหลายๆ หน่วยความคิดที่จัดเรียงในรูปแบบเฉพาะเพื่อให้บรรลุวัตถุประสงค์ที่ผู้เขียนตั้งใจไว้ ประเภทวรรณกรรมและโครงสร้างมีความสัมพันธ์กันอย่างใกล้ชิด ผู้เทศนาหรือผู้สอนพระวจนะของพระเจ้าต้องตระหนักว่าประเภทวรรณกรรมและโครงสร้างมีผลต่อวิธีที่ผู้เขียนสื่อสารสารนั้นอย่างไร&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5653,8 +5653,8 @@
       <tuv lang="en-US">
         <seg>Why study this book? What unique contribution does it make to the whole of the Bible? In other words, what would we miss if we did not have this book? What do we gain because we do have it?</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>พระธรรมเล่มนี้มีส่วนช่วยอะไรเป็นพิเศษต่อพระคัมภีร์ทั้งเล่ม? กล่าวอีกนัยหนึ่ง ถ้าไม่มีพระธรรมเล่มนี้ เราจะพลาดอะไรไปบ้าง? และถ้าเรามีพระธรรมเล่มนี้ เราจะได้รับอะไรมากขึ้น?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T074926Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พระธรรมเล่มนี้มีอะไรพิเศษที่ช่วยเติมเต็มพระคัมภีร์ทั้งเล่ม? กล่าวอีกนัยหนึ่งคือ ถ้าไม่มีพระธรรมเล่มนี้ เราจะพลาดอะไรไปบ้าง? และถ้าเรามีพระธรรมเล่มนี้ เราจะได้รับอะไรมากขึ้น?</seg>
       </tuv>
     </tu>
     <tu>
