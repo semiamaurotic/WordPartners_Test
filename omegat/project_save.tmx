@@ -1024,8 +1024,8 @@
       <tuv lang="en-US">
         <seg>Do</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ปฏิบัติ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T025930Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ลงมือปฏิบัติ</seg>
       </tuv>
     </tu>
     <tu>
@@ -6357,8 +6357,8 @@
       <tuv lang="en-US">
         <seg>we can glean a &lt;t0/&gt;b&lt;t1/&gt;iblical view of ministry directly from what the Bible says&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T130721Z" creationid="nathanwatkins" creationdate="20260406T130721Z">
-        <seg>เราจะได้เก็บเกี่ยวมุมมองพระคัมภีร์ด้านพันธกิจจากสิ่งที่พระคัมภีร์กล่าวไว้ได้โดยตรง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T030423Z" creationid="nathanwatkins" creationdate="20260406T130721Z">
+        <seg>เราจะค่อยๆ เก็บเกี่ยวมุมมองพระคัมภีร์ด้านงานรับใช้ได้โดยตรงจากสิ่งที่พระคัมภีร์กล่าวไว้</seg>
       </tuv>
     </tu>
     <tu>
