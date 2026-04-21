@@ -328,8 +328,8 @@
       <tuv lang="en-US">
         <seg>A &lt;t0/&gt;Unit of Thought&lt;t1/&gt; refers to a portion of written material held together by a unity of theme or an idea. In narrative you can often recognize a new unit of thought when there is a change of subject, location, or new development in the story. This change is often signaled by key words or phrases (like “now,” “then,” “when,” “and,” “from there,” “at that time,” “the next day,” “after these things,” etc.).</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260421T022337Z" creationid="Angkana Laksa" creationdate="20260409T034749Z">
-        <seg>&lt;t0/&gt;หน่วยความคิด&lt;t1/&gt; หมายถึงส่วนหนึ่งของเนื้อหาที่เขียนขึ้นซึ่งเชื่อมโยงกันด้วยความเป็นเอกภาพของธีมหรือแนวคิด ในเรื่องเล่า คุณมักจะสังเกตเห็นหน่วยความคิดใหม่ได้เมื่อมีการเปลี่ยนหัวเรื่อง สถานที่ หรือเมื่อมีเหตุการณ์ใหม่เกิดขึ้นในเรื่อง ซึ่งการเปลี่ยนแปลงนี้มักสังเกตได้จากคำหรือวลีสำคัญ (เช่น “บัดนี้” “ต่อมา” “เมื่อ” “และ” “จากที่นั่น” “ในเวลานั้น” “วันรุ่งขึ้น” หรือ “หลังจากเหตุการณ์เหล่านี้”)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260421T022718Z" creationid="Angkana Laksa" creationdate="20260409T034749Z">
+        <seg>&lt;t0/&gt;หน่วยความคิด&lt;t1/&gt; หมายถึงส่วนหนึ่งของเนื้อหาที่เขียนขึ้นซึ่งเชื่อมโยงกันด้วยความเป็นเอกภาพของธีมหรือแนวคิด ในเรื่องเล่า คุณมักจะสังเกตเห็นหน่วยความคิดใหม่ได้เมื่อมีการเปลี่ยนหัวเรื่อง สถานที่ หรือเมื่อมีเหตุการณ์ใหม่เกิดขึ้นในเรื่อง ซึ่งการเปลี่ยนแปลงนี้มักสังเกตได้จากคำหรือวลีสำคัญ (เช่น “บัดนี้” “ต่อมา” “เมื่อ” “และ” “จากนั้น” “ในเวลานั้น” “วันรุ่งขึ้น” หรือ “หลังจากเหตุการณ์เหล่านี้”)</seg>
       </tuv>
     </tu>
     <tu>
