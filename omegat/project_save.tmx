@@ -360,8 +360,8 @@
       <tuv lang="en-US">
         <seg>A narrative is made up of three primary features: characters, setting, and plot.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113349Z" creationid="nathanwatkins" creationdate="20260409T113349Z">
-        <seg>(MT) เรื่องเล่าประกอบด้วยองค์ประกอบหลัก 3 ประการ คือ ตัวละคร ฉาก และโครงเรื่อง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260422T092654Z" creationid="nathanwatkins" creationdate="20260409T113349Z">
+        <seg>เรื่องเล่าประกอบด้วยองค์ประกอบหลัก 3 ประการ คือ ตัวละคร ฉาก และโครงเรื่อง</seg>
       </tuv>
     </tu>
     <tu>
@@ -728,8 +728,8 @@
       <tuv lang="en-US">
         <seg>Characters</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113402Z" creationid="nathanwatkins" creationdate="20260409T113402Z">
-        <seg>(MT) ตัวละคร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260422T092701Z" creationid="nathanwatkins" creationdate="20260409T113402Z">
+        <seg>ตัวละคร</seg>
       </tuv>
     </tu>
     <tu>
@@ -4076,8 +4076,8 @@
       <tuv lang="en-US">
         <seg>The features of &lt;t0/&gt;n&lt;t1/&gt;arrative point to &lt;t2/&gt;s&lt;t3/&gt;tructure&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T112851Z" creationid="nathanwatkins" creationdate="20260409T112851Z">
-        <seg>(MT) องค์ประกอบของ&lt;t0/&gt;เ&lt;t1/&gt;รื่องเล่าชี้ให้เห็นถึง&lt;t2/&gt;โ&lt;t3/&gt;ครงสร้าง&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260422T092634Z" creationid="nathanwatkins" creationdate="20260409T112851Z">
+        <seg>องค์ประกอบของ&lt;t0/&gt;&lt;t1/&gt;เรื่องเล่าชี้ให้เห็นถึง&lt;t2/&gt;&lt;t3/&gt;โครงสร้าง&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5525,8 +5525,8 @@
       <tuv lang="en-US">
         <seg>Who are all the characters mentioned in the story? What part does each play&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T113427Z" creationid="nathanwatkins" creationdate="20260409T113427Z">
-        <seg>(MT) ตัวละครทั้งหมดที่กล่าวถึงในเรื่องนี้มีใครบ้าง? แต่ละคนมีบทบาทอย่างไร&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260422T092717Z" creationid="nathanwatkins" creationdate="20260409T113427Z">
+        <seg>ตัวละครทั้งหมดที่กล่าวถึงในเรื่องนี้มีใครบ้าง? แต่ละคนมีบทบาทอย่างไร&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
