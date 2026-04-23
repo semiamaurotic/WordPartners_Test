@@ -2728,11 +2728,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>we should not use ตัวละครหลัก in this sentence coz God is the director of this story not an actor  (like in moives)</note>
       <tuv lang="en-US">
         <seg>Note: &lt;t0/&gt;God is the author and primary actor of the Bible’s story. In it, &lt;t1/&gt;he &lt;t2/&gt;is making &lt;t3/&gt;him&lt;t4/&gt;self and &lt;t5/&gt;his&lt;t6/&gt; redemption known. So, when reading &lt;t7/&gt;Scripture&lt;t8/&gt; we should always look for how &lt;t9/&gt;he &lt;t10/&gt;is at work and how &lt;t11/&gt;he &lt;t12/&gt;wants us to respond&lt;t13/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160200Z" creationid="nathanwatkins" creationdate="20260409T160200Z">
-        <seg>(MT) หมายเหตุ: &lt;t0/&gt;พระเจ้าทรงเป็นผู้เขียนและตัวละครหลักในเรื่องราวของพระคัมภีร์ ในเรื่องราวนั้น &lt;t1/&gt;พระองค์&lt;t2/&gt;ทรงสำแดงให้เรารู้จัก&lt;t3/&gt;พระองค์&lt;t4/&gt;เองและการไถ่&lt;t5/&gt;ของพระองค์&lt;t6/&gt; ดังนั้น เมื่อเราอ่าน&lt;t7/&gt;พระคัมภีร์&lt;t8/&gt; เราจึงควรสังเกตอยู่เสมอว่า&lt;t9/&gt;พระองค์&lt;t10/&gt;ทรงกำลังทำงานอย่างไร และ&lt;t11/&gt;พระองค์&lt;t12/&gt;ทรงต้องการให้เราตอบสนองอย่างไร&lt;t13/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T034144Z" creationid="nathanwatkins" creationdate="20260409T160200Z">
+        <seg>หมายเหตุ: &lt;t0/&gt;พระเจ้าทรงเป็นผู้เขียนและผู้ดำเนินเรื่องราวในพระคัมภีร์" ในเรื่องราวนั้น &lt;t1/&gt;พระองค์&lt;t2/&gt;ทรงสำแดงให้เรารู้จัก&lt;t3/&gt;พระองค์&lt;t4/&gt;เองและการไถ่&lt;t5/&gt;ของพระองค์&lt;t6/&gt; ดังนั้น เมื่อเราอ่าน&lt;t7/&gt;พระคัมภีร์&lt;t8/&gt; เราจึงควรสังเกตอยู่เสมอว่า&lt;t9/&gt;พระองค์&lt;t10/&gt;ทรงกำลังทำงานอย่างไร และ&lt;t11/&gt;พระองค์&lt;t12/&gt;ทรงต้องการให้เราตอบสนองอย่างไร&lt;t13/&gt;</seg>
       </tuv>
     </tu>
     <tu>
