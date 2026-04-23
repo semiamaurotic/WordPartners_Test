@@ -2299,8 +2299,8 @@
       <tuv lang="en-US">
         <seg>Introduction&lt;t0/&gt; &lt;t1/&gt;(often reveals the setting)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160058Z" creationid="nathanwatkins" creationdate="20260409T160058Z">
-        <seg>(MT) บทนำ&lt;t0/&gt; &lt;t1/&gt;(มักเผยให้เห็นถึงฉากของเรื่อง)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T024245Z" creationid="nathanwatkins" creationdate="20260409T160058Z">
+        <seg>บทนำ&lt;t0/&gt; &lt;t1/&gt;(มักเผยให้เห็นถึงฉากของเรื่อง)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3404,16 +3404,16 @@
       <tuv lang="en-US">
         <seg>Rise in tension</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T024207Z" creationid="nathanwatkins" creationdate="20260409T155251Z">
-        <seg>ความตึงเครียดที่ทวีขึ้น</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T024230Z" creationid="nathanwatkins" creationdate="20260409T155251Z">
+        <seg>ความตึงเครียดที่เพิ่มขึ้น</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Rise in tension&lt;t0/&gt; (&lt;t1/&gt;a question, problem, challenge, conflict, etc&lt;t2/&gt;.)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160057Z" creationid="nathanwatkins" creationdate="20260409T160057Z">
-        <seg>(MT) ความตึงเครียดทวีความเข้มข้นขึ้น&lt;t0/&gt; (&lt;t1/&gt;ผ่านทางคำถาม ปัญหา ความท้าทาย ความขัดแย้ง ฯลฯ&lt;t2/&gt;.)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T024552Z" creationid="nathanwatkins" creationdate="20260409T160057Z">
+        <seg>ความตึงเครียดที่เพิ่มขึ้น&lt;t0/&gt; (&lt;t1/&gt;ผ่านทางคำถาม ปัญหา ความท้าทาย ความขัดแย้ง ฯลฯ&lt;t2/&gt;.)</seg>
       </tuv>
     </tu>
     <tu>
