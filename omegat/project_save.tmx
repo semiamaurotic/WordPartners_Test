@@ -2932,8 +2932,8 @@
       <tuv lang="en-US">
         <seg>Overall plot / main idea &amp; transformational intent</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T030546Z" creationid="nathanwatkins" creationdate="20260409T160047Z">
-        <seg>โครงเรื่องโดยรวม / ประเด็นหลัก และจุดประสงค์เพื่อการเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T030639Z" creationid="nathanwatkins" creationdate="20260409T160047Z">
+        <seg>โครงเรื่องโดยรวม / ประเด็นหลัก และเจตนาสู่การเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -3772,8 +3772,8 @@
       <tuv lang="en-US">
         <seg>State the &lt;t0/&gt;main idea &amp; transformational intent&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
-        <seg>(MT) ระบุ &lt;t0/&gt;ประเด็นหลักและจุดประสงค์เพื่อการเปลี่ยนแปลง&lt;t1/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T030923Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
+        <seg>(MT) ระบุ &lt;t0/&gt;ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
