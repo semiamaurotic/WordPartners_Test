@@ -768,8 +768,8 @@
       <tuv lang="en-US">
         <seg>Climax &lt;t0/&gt;(&lt;t1/&gt;the high point &lt;t2/&gt;or turning point &lt;t3/&gt;of the tension&lt;t4/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T023943Z" creationid="nathanwatkins" creationdate="20260409T160104Z">
-        <seg>(MT) จุดไคลแมกซ์ของเรื่อง &lt;t0/&gt;(&lt;t1/&gt;จุดที่เข้มข้นที่สุด &lt;t2/&gt;หรือจุดเปลี่ยน &lt;t3/&gt;ของสถานการณ์&lt;t4/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T024643Z" creationid="nathanwatkins" creationdate="20260409T160104Z">
+        <seg>จุดไคลแมกซ์ของเรื่อง &lt;t0/&gt;(&lt;t1/&gt;จุดที่เข้มข้นที่สุด &lt;t2/&gt;หรือจุดเปลี่ยน &lt;t3/&gt;ของสถานการณ์&lt;t4/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3364,8 +3364,8 @@
       <tuv lang="en-US">
         <seg>Resolution &lt;t0/&gt;(&lt;t1/&gt;explains how things unfold after the climax&lt;t2/&gt;; &lt;t3/&gt;may also introduce a new tension&lt;t4/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T023943Z" creationid="nathanwatkins" creationdate="20260409T160122Z">
-        <seg>(MT) จุดคลี่คลาย &lt;t0/&gt;(&lt;t1/&gt;อธิบายว่าเรื่องราวเป็นอย่างไรต่อไปหลังจากผ่านจุดไคลแมกซ์&lt;t2/&gt;; &lt;t3/&gt;และอาจมีการเริ่มสร้างความตึงเครียดใหม่ขึ้นด้วย&lt;t4/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T024721Z" creationid="nathanwatkins" creationdate="20260409T160122Z">
+        <seg>จุดคลี่คลายจะ &lt;t0/&gt;(&lt;t1/&gt;อธิบายว่าเรื่องราวเป็นอย่างไรต่อไปหลังจากผ่านจุดไคลแมกซ์&lt;t2/&gt;; &lt;t3/&gt;และอาจมีการเริ่มสร้างความตึงเครียดใหม่ขึ้นด้วย&lt;t4/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
