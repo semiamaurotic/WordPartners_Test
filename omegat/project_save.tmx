@@ -1613,11 +1613,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>ธรรมบัญญัติของพระเจ้า "ถูกประทาน" ให้เป็น... most of Thai sentences won't say "to be given" in this way. We usually do not use Passive  voice  pattern</note>
       <tuv lang="en-US">
         <seg>God’s law is given as part of the covenant relationship God initiates with his people.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162404Z" creationid="nathanwatkins" creationdate="20260409T162404Z">
-        <seg>(MT) ธรรมบัญญัติของพระเจ้าได้รับการประทานให้เป็นส่วนหนึ่งของความสัมพันธ์แห่งพันธสัญญาที่พระองค์ทรงริเริ่มกับประชากรของพระองค์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T104805Z" creationid="nathanwatkins" creationdate="20260409T162404Z">
+        <seg>พระเจ้าทรงประทานธรรมบัญญัติให้เป็นส่วนหนึ่งของความสัมพันธ์ตามพันธสัญญาที่พระองค์ทรงริเริ่มกับประชากรของพระองค์</seg>
       </tuv>
     </tu>
     <tu>
