@@ -2203,16 +2203,16 @@
       <tuv lang="en-US">
         <seg>In Genesis, many genealogies are extended and tell part of the story. When narrative follows a genealogy, it sheds further light on the story the genealogy tells. This means they are supposed to be read and understood together.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164015Z" creationid="nathanwatkins" creationdate="20260409T164015Z">
-        <seg>(MT) ในพระธรรมปฐมกาล ลำดับพงศ์หลายชุดมีการขยายความและร่วมบอกเล่าเรื่องราวด้วย เมื่อมีบทบรรยายตามหลังลำดับพงศ์ บทบรรยายนั้นจะช่วยขยายความเข้าใจในเรื่องราวที่ปรากฏในลำดับพงศ์ให้ชัดเจนยิ่งขึ้น ซึ่งหมายความว่าเราควรอ่านและทำความเข้าใจทั้งสองส่วนนี้ควบคู่กันไป</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T092959Z" creationid="nathanwatkins" creationdate="20260409T164015Z">
+        <seg>(MT) ในพระธรรมปฐมกาล ลำดับเชื้อสายหลายชุดมีการขยายความและร่วมบอกเล่าเรื่องราวด้วย เมื่อมีบทบรรยายตามหลังลำดับเชื้อสาย บทบรรยายนั้นจะช่วยขยายความเข้าใจในเรื่องราวที่ปรากฏในลำดับเชื้อสายให้ชัดเจนยิ่งขึ้น ซึ่งหมายความว่าเราควรอ่านและทำความเข้าใจทั้งสองส่วนนี้ควบคู่กันไป</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In a genealogy there are many names. But who are the main characters of Genesis 5:1‒6:8? How does the genealogy help us know who the main characters are?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164211Z" creationid="nathanwatkins" creationdate="20260409T164211Z">
-        <seg>(MT) ในลำดับพงศ์มีรายชื่อปรากฏอยู่มากมาย แต่ใครคือตัวละครหลักใน {INSERT OFFICIAL SCRIPTURE TRANSLATION OF Genesis 5:1}‒6:8? ลำดับพงศ์นี้ช่วยให้เราทราบได้อย่างไรว่าใครคือตัวละครหลัก?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T092959Z" creationid="nathanwatkins" creationdate="20260409T164211Z">
+        <seg>(MT) ในลำดับเชื้อสายมีรายชื่อปรากฏอยู่มากมาย แต่ใครคือตัวละครหลักใน {INSERT OFFICIAL SCRIPTURE TRANSLATION OF Genesis 5:1}‒6:8? ลำดับเชื้อสายนี้ช่วยให้เราทราบได้อย่างไรว่าใครคือตัวละครหลัก?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4679,8 +4679,8 @@
       <tuv lang="en-US">
         <seg>Tracing God’s promises:&lt;t0/&gt; Following man’s fall into sin, God promised to rescue his creation through the seed of the woman (Genesis 3:15). Genealogies help us trace that line of promise. Later promises, like the Abrahamic Covenant (12:2-3), continue to refine the original one, revealing how God will bring it to pass.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160331Z" creationid="nathanwatkins" creationdate="20260409T160331Z">
-        <seg>(MT) การติดตามพระสัญญาของพระเจ้า:&lt;t0/&gt; หลังจากมนุษย์ตกในความบาป พระเจ้าทรงสัญญาว่าจะทรงช่วยกู้สิ่งที่พระองค์ทรงสร้างผ่านทางพงศ์พันธุ์ของหญิง (ปฐมกาล 3:15) ลำดับพงศ์ช่วยให้เราติดตามสายแห่งพระสัญญานั้นได้ ส่วนพระสัญญาในเวลาต่อมา เช่น พันธสัญญาที่ทรงทำกับอับราฮัม (12:2-3) ก็ได้ช่วยขยายความพระสัญญาเดิมให้ชัดเจนยิ่งขึ้น และเปิดเผยว่าพระเจ้าจะทรงทำให้พระสัญญานั้นสำเร็จเป็นจริงได้อย่างไร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T092959Z" creationid="nathanwatkins" creationdate="20260409T160331Z">
+        <seg>การติดตามพระสัญญาของพระเจ้า:&lt;t0/&gt; หลังจากมนุษย์ตกในความบาป พระเจ้าทรงสัญญาว่าจะทรงช่วยกู้สิ่งที่พระองค์ทรงสร้างผ่านทางพงศ์พันธุ์ของหญิง (ปฐมกาล 3:15) ลำดับเชื้อสายช่วยให้เราติดตามสายแห่งพระสัญญานั้นได้ ส่วนพระสัญญาในเวลาต่อมา เช่น พันธสัญญาที่ทรงทำกับอับราฮัม (12:2-3) ก็ได้ช่วยขยายความพระสัญญาเดิมให้ชัดเจนยิ่งขึ้น และเปิดเผยว่าพระเจ้าจะทรงทำให้พระสัญญานั้นสำเร็จเป็นจริงได้อย่างไร</seg>
       </tuv>
     </tu>
     <tu>
@@ -5399,8 +5399,8 @@
       <tuv lang="en-US">
         <seg>What is the unique tone of this genealogy? (compare to the genealogies that start at Genesis 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164200Z" creationid="nathanwatkins" creationdate="20260409T164200Z">
-        <seg>(MT) ลำดับพงศ์นี้มีลักษณะเด่นหรือน้ำเสียงที่พิเศษอย่างไร? (เปรียบเทียบกับลำดับพงศ์ที่เริ่มต้นใน ปฐมกาล 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T092959Z" creationid="nathanwatkins" creationdate="20260409T164200Z">
+        <seg>(MT) ลำดับเชื้อสายนี้มีลักษณะเด่นหรือน้ำเสียงที่พิเศษอย่างไร? (เปรียบเทียบกับลำดับเชื้อสายที่เริ่มต้นใน ปฐมกาล 2:4; 6:9; 10:1; 11:10; 11:27; 25:12; 25:19; 36:1; 36:9; 37:2)</seg>
       </tuv>
     </tu>
     <tu>
