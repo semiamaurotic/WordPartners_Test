@@ -1368,8 +1368,8 @@
       <tuv lang="en-US">
         <seg>Genealogies</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160313Z" creationid="nathanwatkins" creationdate="20260409T160313Z">
-        <seg>(MT) ลำดับพงศ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T034443Z" creationid="nathanwatkins" creationdate="20260409T160313Z">
+        <seg>ลำดับเชื้อสาย</seg>
       </tuv>
     </tu>
     <tu>
@@ -3750,8 +3750,8 @@
       <tuv lang="en-US">
         <seg>Specific to Genesis</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160339Z" creationid="nathanwatkins" creationdate="20260409T160339Z">
-        <seg>(MT) ลักษณะเฉพาะในพระธรรมปฐมกาล</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T033549Z" creationid="nathanwatkins" creationdate="20260409T160339Z">
+        <seg>ลักษณะเฉพาะในพระธรรมปฐมกาล</seg>
       </tuv>
     </tu>
     <tu>
