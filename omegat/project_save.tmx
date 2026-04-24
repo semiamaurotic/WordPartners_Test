@@ -2651,8 +2651,8 @@
       <tuv lang="en-US">
         <seg>Mood:&lt;t0/&gt; &lt;t1/&gt;The author intentionally uses his tone through the narrative to create a &lt;t2/&gt;mood&lt;t3/&gt; in the reader. This mood is the attitude toward the story and characters with which the author intended the reader to respond. This leads to the author’s intended transformation which is not just our actions but also our attitudes&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160349Z" creationid="nathanwatkins" creationdate="20260409T160349Z">
-        <seg>(MT) อารมณ์:&lt;t0/&gt; &lt;t1/&gt;ผู้เขียนจงใจใช้น้ำเสียงของตนผ่านการดำเนินเรื่องเพื่อสร้าง &lt;t2/&gt;อารมณ์&lt;t3/&gt; ให้เกิดขึ้นในใจผู้อ่าน อารมณ์นี้คือทัศนคติต่อเรื่องราวและตัวละครที่ผู้เขียนมุ่งหวังให้ผู้อ่านมีในการตอบสนอง ซึ่งนำไปสู่การเปลี่ยนแปลงตามที่ผู้เขียนตั้งใจไว้ อันเป็นความเปลี่ยนแปลงที่ไม่ใช่เพียงแค่การกระทำเท่านั้น แต่ยังรวมถึงทัศนคติของเราด้วย&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T033541Z" creationid="nathanwatkins" creationdate="20260409T160349Z">
+        <seg>อารมณ์:&lt;t0/&gt; &lt;t1/&gt;ผู้เขียนจงใจใช้น้ำเสียงในการเล่าเรื่องเพื่อสร้าง &lt;t2/&gt;อารมณ์&lt;t3/&gt; ให้แก่ผู้อ่าน อารมณ์นี้เป็นท่าทีที่ผู้อ่านมีต่อเรื่องราวและตัวละคร ซึ่งผู้เขียนตั้งใจให้ผู้อ่านมีปฏิกิริยาตอบสนอง และนำไปสู่การเปลี่ยนแปลงตามที่ผู้เขียนตั้งใจไว้ ซึ่งไม่ใช่แค่การเปลี่ยนแปลงพฤติกรรมเท่านั้น แต่รวมถึงทัศนคติด้วย&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4663,8 +4663,8 @@
       <tuv lang="en-US">
         <seg>Tone:&lt;t0/&gt; &lt;t1/&gt;Embedded in every story is the author’s attitude toward the story and the characters in the story. This is the author’s &lt;t2/&gt;tone&lt;t3/&gt;. Tone is expressed in writing through the author’s choice of descriptions, verbs, expressions, and the pace of the story&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T160343Z" creationid="nathanwatkins" creationdate="20260409T160343Z">
-        <seg>(MT) น้ำเสียง:&lt;t0/&gt; &lt;t1/&gt;ในทุกเรื่องราวจะมีทัศนคติของผู้เขียนที่มีต่อเนื้อเรื่องและตัวละครแฝงอยู่เสมอ นี่คือ &lt;t2/&gt;น้ำเสียง&lt;t3/&gt;ของผู้เขียน ซึ่งน้ำเสียงนี้จะแสดงออกผ่านการเลือกใช้คำบรรยาย คำกริยา สำนวน และจังหวะในการดำเนินเรื่องของผู้เขียนเอง&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T031101Z" creationid="nathanwatkins" creationdate="20260409T160343Z">
+        <seg>น้ำเสียง:&lt;t0/&gt; &lt;t1/&gt;ในทุกเรื่องราวจะมีทัศนคติของผู้เขียนที่มีต่อเนื้อเรื่องและตัวละครแฝงอยู่เสมอ นี่คือ &lt;t2/&gt;น้ำเสียง&lt;t3/&gt;ของผู้เขียน ซึ่งน้ำเสียงนี้จะแสดงออกผ่านการเลือกใช้คำบรรยาย คำกริยา สำนวน และจังหวะในการดำเนินเรื่องของผู้เขียนเอง&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
