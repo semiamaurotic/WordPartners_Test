@@ -3374,8 +3374,8 @@
       <tuv lang="en-US">
         <seg>Revealing origins:&lt;t0/&gt; Genesis is the book of beginnings, and the genealogies help God’s people understand the source of their identity, nation, and purpose.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T091515Z" creationid="nathanwatkins" creationdate="20260409T160335Z">
-        <seg>(MT) เผยให้เห็นต้นกำเนิด:&lt;t0/&gt; พระธรรมปฐมกาลคือหนังสือแห่งการเริ่มต้น และลำดับเชื้อสายช่วยให้ประชากรของพระเจ้าเข้าใจถึงที่มาของอัตลักษณ์ ประชาชาติ และจุดประสงค์ของตนเอง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T092035Z" creationid="nathanwatkins" creationdate="20260409T160335Z">
+        <seg>เผยให้เห็นต้นกำเนิด:&lt;t0/&gt; พระธรรมปฐมกาลเป็นพระธรรมห่งการเริ่มต้น และลำดับเชื้อสายช่วยให้ประชากรของพระเจ้าเข้าใจถึงที่มาของอัตลักษณ์ ประชาชาติ และจุดประสงค์ของตนเอง</seg>
       </tuv>
     </tu>
     <tu>
@@ -4342,8 +4342,8 @@
       <tuv lang="en-US">
         <seg>They do this by:</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T161230Z" creationid="nathanwatkins" creationdate="20260409T155820Z">
-        <seg>ลำดับพงศ์เหล่านี้ทำหน้าที่ดังกล่าวโดย:</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T091720Z" creationid="nathanwatkins" creationdate="20260409T155820Z">
+        <seg>ลำดับเชื้อสายเหล่านี้ทำหน้าที่ดังกล่าวโดย:</seg>
       </tuv>
     </tu>
     <tu>
