@@ -1613,12 +1613,12 @@
       </tuv>
     </tu>
     <tu>
-      <note>ธรรมบัญญัติของพระเจ้า "ถูกประทาน" ให้เป็น... most of Thai sentences won't say "to be given" in this way. We usually do not use Passive  voice  pattern</note>
+      <note> "ถูกประทาน"  most of Thai sentences won't say "to be given" in this way. We usually do not use Passive  voice  pattern</note>
       <tuv lang="en-US">
         <seg>God’s law is given as part of the covenant relationship God initiates with his people.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T104805Z" creationid="nathanwatkins" creationdate="20260409T162404Z">
-        <seg>พระเจ้าทรงประทานธรรมบัญญัติให้เป็นส่วนหนึ่งของความสัมพันธ์ตามพันธสัญญาที่พระองค์ทรงริเริ่มกับประชากรของพระองค์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T105409Z" creationid="nathanwatkins" creationdate="20260409T162404Z">
+        <seg>พระเจ้าทรงประทานธรรมบัญญัติให้เป็นส่วนหนึ่งของความสัมพันธ์แบบพันธสัญญาที่พระองค์ทรงริเริ่มกับประชากรของพระองค์</seg>
       </tuv>
     </tu>
     <tu>
@@ -2500,8 +2500,8 @@
       <tuv lang="en-US">
         <seg>Law &lt;t0/&gt;(Genesis is part of the Book of the Law, the five books of Moses)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T103358Z" creationid="nathanwatkins" creationdate="20260409T162352Z">
-        <seg>ธรรมบัญญัติ &lt;t0/&gt;(พระธรรมปฐมกาลเป็นส่วนหนึ่งของหนังสือธรรมบัญญัติ หรือหนังสือห้าเล่มของโมเสส)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T105427Z" creationid="nathanwatkins" creationdate="20260409T162352Z">
+        <seg>ธรรมบัญญัติ &lt;t0/&gt;(พระธรรมปฐมกาลเป็นส่วนหนึ่งของหนังสือธรรมบัญญัติของโมเสส หรือหนังสือห้าเล่มของโมเสส)</seg>
       </tuv>
     </tu>
     <tu>
