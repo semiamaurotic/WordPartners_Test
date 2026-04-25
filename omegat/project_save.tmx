@@ -4220,11 +4220,12 @@
       </tuv>
     </tu>
     <tu>
+      <note>"are given" (Thai usually not use this Passive voice pattern)</note>
       <tuv lang="en-US">
         <seg>The stipulations are given in the form of &lt;t0/&gt;laws&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162354Z" creationid="nathanwatkins" creationdate="20260409T162354Z">
-        <seg>(MT) ข้อกำหนดเหล่านี้ประทานมาในรูปแบบของ &lt;t0/&gt;ธรรมบัญญัติ&lt;t1/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T025502Z" creationid="nathanwatkins" creationdate="20260409T162354Z">
+        <seg>ข้อกำหนดเหล่านี้ถูกกำหนดมาในรูปแบบของ &lt;t0/&gt;ธรรมบัญญัติ&lt;t1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
