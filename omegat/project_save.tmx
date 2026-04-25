@@ -2044,8 +2044,8 @@
       <tuv lang="en-US">
         <seg>How is the end related to the beginning?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162511Z" creationid="nathanwatkins" creationdate="20260409T162511Z">
-        <seg>(MT) ตอนจบกับตอนเริ่มต้นมีความเกี่ยวข้องกันอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083637Z" creationid="nathanwatkins" creationdate="20260409T162511Z">
+        <seg>ตอนจบกับตอนต้นมีความเกี่ยวข้องกันอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3287,8 +3287,8 @@
       <tuv lang="en-US">
         <seg>Read Genesis 1:1‒2:25. How is the story of Genesis introduced?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162549Z" creationid="nathanwatkins" creationdate="20260409T162549Z">
-        <seg>(MT) อ่านปฐมกาล 1:1–2:25 พระธรรมปฐมกาลเริ่มต้นเรื่องราวอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083405Z" creationid="nathanwatkins" creationdate="20260409T162549Z">
+        <seg>อ่านปฐมกาล 1:1–2:25 พระธรรมปฐมกาลเริ่มต้นเรื่องราวอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3303,8 +3303,8 @@
       <tuv lang="en-US">
         <seg>Read Genesis 49:1‒50:26. How is the story of Genesis resolved?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162524Z" creationid="nathanwatkins" creationdate="20260409T162524Z">
-        <seg>(MT) อ่านปฐมกาล 49:1–50:26 เรื่องราวในหนังสือปฐมกาลคลี่คลายลงอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083501Z" creationid="nathanwatkins" creationdate="20260409T162524Z">
+        <seg>อ่านปฐมกาล 49:1–50:26 เรื่องราวในพระธรรมปฐมกาลคลี่คลายลงอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4031,8 +4031,8 @@
       <tuv lang="en-US">
         <seg>The beginning of the story (&lt;t0/&gt;i&lt;t1/&gt;ntroduction)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162527Z" creationid="nathanwatkins" creationdate="20260409T162527Z">
-        <seg>(MT) จุดเริ่มต้นของเรื่องราว (&lt;t0/&gt;บ&lt;t1/&gt;ทนำ)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083347Z" creationid="nathanwatkins" creationdate="20260409T162527Z">
+        <seg>จุดเริ่มต้นของเรื่องราว (&lt;t0/&gt;&lt;t1/&gt;บทนำ)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4063,8 +4063,8 @@
       <tuv lang="en-US">
         <seg>The end of the story (Resolution)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T021854Z" creationid="nathanwatkins" creationdate="20260409T162509Z">
-        <seg>(MT) ตอนจบของเรื่องราว (จุดคลี่คลาย)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083437Z" creationid="nathanwatkins" creationdate="20260409T162509Z">
+        <seg>ตอนจบของเรื่องราว (จุดคลี่คลาย)</seg>
       </tuv>
     </tu>
     <tu>
@@ -5249,16 +5249,16 @@
       <tuv lang="en-US">
         <seg>What is God’s assessment of &lt;t0/&gt;his&lt;t1/&gt; creation&lt;t2/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162608Z" creationid="nathanwatkins" creationdate="20260409T162608Z">
-        <seg>(MT) พระเจ้าทรงประเมินสิ่งที่&lt;t0/&gt;พระองค์&lt;t1/&gt;ทรงสร้าง&lt;t2/&gt;ว่าอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083426Z" creationid="nathanwatkins" creationdate="20260409T162608Z">
+        <seg>พระเจ้าทรงประเมินสิ่งที่&lt;t0/&gt;พระองค์&lt;t1/&gt;ทรงสร้าง&lt;t2/&gt;ว่าอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>What is Joseph’s assessment of his brothers and all that has happened to him?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162547Z" creationid="nathanwatkins" creationdate="20260409T162547Z">
-        <seg>(MT) โยเซฟมองพวกพี่ชายและเหตุการณ์ทั้งหมดที่เกิดขึ้นกับเขาอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083509Z" creationid="nathanwatkins" creationdate="20260409T162547Z">
+        <seg>โยเซฟมองพวกพี่ชายและเหตุการณ์ทั้งหมดที่เกิดขึ้นกับเขาอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
