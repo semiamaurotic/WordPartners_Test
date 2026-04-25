@@ -824,8 +824,8 @@
       <tuv lang="en-US">
         <seg>Consider the entire overarching story of Genesis and answer the following questions according to the features of &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174723Z" creationid="nathanwatkins" creationdate="20260409T162446Z">
-        <seg>(MT) พิจารณาภาพรวมของเรื่องราวทั้งหมดในพระธรรมปฐมกาล และตอบคำถามต่อไปนี้ตามลักษณะของ &lt;t0/&gt;เ&lt;t1/&gt;รื่องเล่า&lt;t2/&gt;เ&lt;t3/&gt;ชิงประวัติศาสตร์&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T081235Z" creationid="nathanwatkins" creationdate="20260409T162446Z">
+        <seg>พิจารณาภาพรวมของเรื่องราวทั้งหมดในพระธรรมปฐมกาล และตอบคำถามต่อไปนี้ตามลักษณะของ &lt;t0/&gt;&lt;t1/&gt;เรื่องเล่า&lt;t2/&gt;&lt;t3/&gt;เชิงประวัติศาสตร์&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5345,8 +5345,8 @@
       <tuv lang="en-US">
         <seg>What is the setting of the story? Where and when does it take place&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162507Z" creationid="nathanwatkins" creationdate="20260409T162507Z">
-        <seg>(MT) ฉากของเรื่องนี้คืออะไร? เรื่องราวเกิดขึ้นที่ไหนและเมื่อใด&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T081348Z" creationid="nathanwatkins" creationdate="20260409T162507Z">
+        <seg>ฉากของเรื่องนี้คืออะไร? เรื่องราวเกิดขึ้นที่ไหนและเมื่อใด&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5497,8 +5497,8 @@
       <tuv lang="en-US">
         <seg>Where does the setting change throughout the story? How might the setting (and any changes in setting) reveal something about the message the author is communicating&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162525Z" creationid="nathanwatkins" creationdate="20260409T162525Z">
-        <seg>(MT) ตลอดทั้งเรื่องมีการเปลี่ยนฉากที่จุดใดบ้าง? ฉากและสื่อกลางเหล่านี้ (รวมถึงการเปลี่ยนแปลงที่เกิดขึ้น) ช่วยสะท้อนให้เห็นถึงสิ่งที่ผู้เขียนต้องการสื่อสารอย่างไรบ้าง&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T082944Z" creationid="nathanwatkins" creationdate="20260409T162525Z">
+        <seg>ตลอดทั้งเรื่องมีการเปลี่ยนฉากที่จุดใดบ้าง? ฉากเหล่านั้น(และการเปลี่ยนแปลงใดๆ ในฉาก) สะท้อนให้เห็นบางสิ่งเกี่ยวกับสารที่ผู้เขียนต้องการจะสื่ออย่างไร&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5545,8 +5545,8 @@
       <tuv lang="en-US">
         <seg>Who are the characters in the story? Who are the &lt;t0/&gt;main&lt;t1/&gt; characters? How can you tell&lt;t2/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162358Z" creationid="nathanwatkins" creationdate="20260409T162358Z">
-        <seg>(MT) ในเรื่องนี้มีตัวละครใครบ้าง? ใครคือตัวละคร&lt;t0/&gt;หลัก&lt;t1/&gt;? คุณทราบได้อย่างไร&lt;t2/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T081338Z" creationid="nathanwatkins" creationdate="20260409T162358Z">
+        <seg>ในเรื่องนี้มีตัวละครใดบ้าง? ใครคือตัวละคร&lt;t0/&gt;หลัก&lt;t1/&gt;? คุณทราบได้อย่างไร&lt;t2/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
