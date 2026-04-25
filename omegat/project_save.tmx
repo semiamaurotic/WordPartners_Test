@@ -520,8 +520,8 @@
       <tuv lang="en-US">
         <seg>Are there any shifts in tone throughout the book? How would you describe each shift in tone? How do they contribute to the tone of the book?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T162644Z" creationid="nathanwatkins" creationdate="20260409T162644Z">
-        <seg>(MT) มีการเปลี่ยนแปลงระดับน้ำเสียงในหนังสือเล่มนี้บ้างไหม? คุณจะอธิบายการเปลี่ยนน้ำเสียงในแต่ละช่วงอย่างไร? และสิ่งเหล่านั้นส่งผลต่อน้ำเสียงโดยรวมของหนังสือเล่มนี้อย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T090248Z" creationid="nathanwatkins" creationdate="20260409T162644Z">
+        <seg>มีการเปลี่ยนแปลงระดับน้ำเสียงตลอดพระธรรมเล่มนี้บ้างไหม? คุณจะอธิบายการเปลี่ยนน้ำเสียงในแต่ละช่วงอย่างไร? และสิ่งเหล่านั้นส่งผลต่อน้ำเสียงโดยรวมของพระธรรมเล่มนี้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1352,8 @@
       <tuv lang="en-US">
         <seg>From your &lt;t0/&gt;n&lt;t1/&gt;arrative &lt;t2/&gt;p&lt;t3/&gt;lotline of the &lt;t4/&gt;b&lt;t5/&gt;ook, how would you describe the introduction, rise in tension, climax, and resolution of the book&lt;t6/&gt;?&lt;t7/&gt; What direction does this story take?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T021854Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
-        <seg>(MT) จาก&lt;t0/&gt;โ&lt;t1/&gt;ครงเรื่อง&lt;t2/&gt;แ&lt;t3/&gt;ละลำดับเหตุการณ์ในพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดสุดยอด และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T085939Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
+        <seg>(MT) จาก&lt;t0/&gt;โ&lt;t1/&gt;ครงเรื่อง&lt;t2/&gt;แ&lt;t3/&gt;ละลำดับเหตุการณ์ในพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5481,8 +5481,8 @@
       <tuv lang="en-US">
         <seg>Where do you see the highest point of tension most clearly (Climax)? Why?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T085937Z" creationid="nathanwatkins" creationdate="20260409T162638Z">
-        <seg>คุณเห็นจุดที่มีความตึงเครียดสูงสุด (จุดสุดยอดของเรื่อง) ได้ชัดเจนที่สุดที่ตอนไหน? เพราะเหตุใด?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T085939Z" creationid="nathanwatkins" creationdate="20260409T162638Z">
+        <seg>คุณเห็นจุดที่มีความตึงเครียดสูงสุด (จุดไคลแมกซ์ของเรื่อง) ได้ชัดเจนที่สุดที่ตอนไหน? เพราะเหตุใด?</seg>
       </tuv>
     </tu>
     <tu>
