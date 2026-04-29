@@ -13,6 +13,7 @@ Bull’s-eye (Target)	ภาพเปรียบเทียบ
 Covenant	พันธสัญญา
 Dig & Discover	ขุดค้นและค้นพบ
 do	ลงมือปฏิบัติ
+elevate God’s life-giving Word in the hearts, lives, and ministries of pastors and their people	ยกพระวจนะของพระเจ้าที่ี่่ให้ชีวิตให้สูงขึ้นในจิตใจ ในชีวิต และในการทำงานของผู้รับใช้และสมาชิกในคริสตจักรของพวกเขา
 Epistle	จดหมายฝาก
 expository preaching	การเทศนาแบบอรรถาธิบาย
 expository sermon	คำเทศนาแบบอรรถาธิบาย
@@ -44,12 +45,12 @@ principle	หลักการ
 Prophecy	คำเผยพระวจนะ
 Prophet	ผู้เผยพระวจนะ
 Session	เซสชั่น
+shepherd	อภิบาล	verb form
 structure	โครงสร้าง
 Study to Sermon	จากการศึกษาสู่คำเทศนา
 Text and Framework	เนื้อหาและกรอบแนวความคิด
 The Line	เส้นหลัก
 The Line	เส้นหลักของพระวจนะ	(heading)
-shepherd	อภิบาล	verb form
 Tone and Mood	น้ำเสียงและอารมณ์
 Transformation	การเปลี่ยนแปลง
 Transformational Intent	เจตนาสู่การเปลี่ยนแปลง
@@ -58,5 +59,4 @@ Units of Thought	หน่วยความคิด
 Wisdom	สติปัญญา
 Wisdom Literature	วรรณกรรมแห่งปัญญา
 Word of God	พระวจนะของพระเจ้า
-elevate God’s life-giving Word in the hearts, lives, and ministries of pastors and their people	ยกพระวจนะของพระเจ้าที่ี่่ให้ชีวิตให้สูงขึ้นในจิตใจ ในชีวิต และในการทำงานของผู้รับใช้และสมาชิกในคริสตจักรของพวกเขา
 ยกระดับพระวจนะที่ให้ชีวิตในใจ	ยกพระวจนะที่ให้ชีวิตให้สูงขึ้นในจิตใจ
