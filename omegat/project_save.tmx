@@ -1048,8 +1048,8 @@
       <tuv lang="en-US">
         <seg>Does the text intend for me to make this application?</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ข้อความพระคัมภีร์ตอนนี้มีเจตนาให้ฉันนำไปประยุกต์ใช้ในลักษณะนี้หรือไม่?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T050723Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เนื้อหาพระธรรมตอนนี้มีเจตนาให้ฉันนำไปประยุกต์ใช้ในลักษณะนี้หรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5625,8 +5625,8 @@
       <tuv lang="en-US">
         <seg>Why is it here?</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เหตุใดจึงมีข้อความพระคัมภีร์ตอนนี้อยู่ที่นี่?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T050326Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เหตุใดจึงมีเนื้อหาพระธรรมตอนนี้อยู่ที่นี่?</seg>
       </tuv>
     </tu>
     <tu>
