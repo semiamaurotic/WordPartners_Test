@@ -4881,8 +4881,8 @@
       <tuv lang="en-US">
         <seg>W&lt;t0/&gt;e will be confident that we have understood what the author actually said and the purpose for which he said it&lt;t1/&gt;,&lt;t2/&gt; and</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163055Z" creationid="nathanwatkins" creationdate="20260409T163055Z">
-        <seg>(MT) เรา&lt;t0/&gt;จะมั่นใจว่าเราเข้าใจสิ่งที่ผู้เขียนกล่าวไว้จริงๆ และเข้าใจถึงจุดประสงค์ที่ท่านกล่าวเช่นนั้น&lt;t1/&gt;,&lt;t2/&gt; และ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T021111Z" creationid="nathanwatkins" creationdate="20260409T163055Z">
+        <seg>เรา&lt;t0/&gt;จะมั่นใจว่าเราเข้าใจสิ่งที่ผู้เขียนกล่าวไว้จริงๆ และเข้าใจถึงจุดประสงค์ที่ท่านกล่าวเช่นนั้น&lt;t1/&gt;,&lt;t2/&gt; และ</seg>
       </tuv>
     </tu>
     <tu>
@@ -5473,8 +5473,8 @@
       <tuv lang="en-US">
         <seg>When we go the long route through the original context,</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>แต่เมื่อเราเลือกเดินทางผ่านบริบทดั้งเดิม</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T021010Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แต่เมื่อเราใช้เวลาเข้าใจบริบทดั้งเดิมอย่างละเอียด</seg>
       </tuv>
     </tu>
     <tu>
