@@ -1128,8 +1128,8 @@
       <tuv lang="en-US">
         <seg>End: How does the story end? What is similar? What has changed? Why?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163532Z" creationid="nathanwatkins" creationdate="20260409T163532Z">
-        <seg>(MT) ตอนจบของเรื่อง: เรื่องนี้จบลงอย่างไร? มีสิ่งใดบ้างที่ยังเหมือนเดิม? มีสิ่งใดบ้างที่เปลี่ยนแปลงไป? และทำไมความเปลี่ยนแปลงเหล่านั้นจึงเกิดขึ้น?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065130Z" creationid="nathanwatkins" creationdate="20260409T163532Z">
+        <seg>ตอนจบ: เรื่องนี้จบลงอย่างไร? มีสิ่งใดบ้างที่ยังเหมือนเดิม? มีสิ่งใดบ้างที่เปลี่ยนแปลงไป? และทำไมการเปลี่ยนแปลงเหล่านั้นจึงเกิดขึ้น?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1868,8 +1868,8 @@
       <tuv lang="en-US">
         <seg>How does the author develop the tension to its climax? Where is the climax?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T023943Z" creationid="nathanwatkins" creationdate="20260409T163540Z">
-        <seg>(MT) ผู้เขียนดำเนินเรื่องเพื่อนำความตึงเครียดไปสู่จุดไคลแมกซ์อย่างไร? และจุดไคลแมกซ์ของเรื่องอยู่ตรงไหน?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065200Z" creationid="nathanwatkins" creationdate="20260409T163540Z">
+        <seg>ผู้เขียนดำเนินเรื่องเพื่อนำความตึงเครียดไปสู่จุดไคลแมกซ์อย่างไร? และจุดไคลแมกซ์ของเรื่องอยู่ตรงไหน?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1900,8 +1900,8 @@
       <tuv lang="en-US">
         <seg>How does the story resolve?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163618Z" creationid="nathanwatkins" creationdate="20260409T163618Z">
-        <seg>(MT) เรื่องราวนี้คลี่คลายลงอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065206Z" creationid="nathanwatkins" creationdate="20260409T163618Z">
+        <seg>เรื่องราวนี้คลี่คลายลงอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2813,9 +2813,8 @@
       <tuv lang="en-US">
         <seg>Now take a moment and describe each unit of thought using a few key words. Next, try to summarize the whole story in one sentence.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T174834Z" creationid="nathanwatkins" creationdate="20260409T163628Z">
-        <seg>(MT) ตอนนี้ ให้คุณใช้เวลาสักครู่บรรยายแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ จากนั้นลองสรุปเรื่องราวทั้งหมดให้เหลือเพียงประโยคเดียว"}
-ค่เพียงประโยคเดียว</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065342Z" creationid="nathanwatkins" creationdate="20260409T163628Z">
+        <seg>เอาล่ะ ให้คุณใช้เวลาสักครู่บรรยายแต่ละหน่วยความคิดโดยใช้คำสำคัญเพียงไม่กี่คำ จากนั้นลองสรุปเรื่องราวทั้งหมดให้เหลือเพียงประโยคเดียว</seg>
       </tuv>
     </tu>
     <tu>
@@ -5385,8 +5384,8 @@
       <tuv lang="en-US">
         <seg>What is the tension (conflict, difficulty, problem, etc.) in this story?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163548Z" creationid="nathanwatkins" creationdate="20260409T163548Z">
-        <seg>(MT) ความตึงเครียดในเรื่องนี้คืออะไร (ความขัดแย้ง อุปสรรค ปัญหา ฯลฯ)?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065144Z" creationid="nathanwatkins" creationdate="20260409T163548Z">
+        <seg>ความตึงเครียดในเรื่องนี้คืออะไร (ความขัดแย้ง อุปสรรค ปัญหา ฯลฯ)?</seg>
       </tuv>
     </tu>
     <tu>
