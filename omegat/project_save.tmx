@@ -416,8 +416,8 @@
       <tuv lang="en-US">
         <seg>After &lt;t0/&gt;the presentation, the listeners will evaluate it using the following questions&lt;t1/&gt;:</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163807Z" creationid="nathanwatkins" creationdate="20260409T163807Z">
-        <seg>(MT) หลังจบ &lt;t0/&gt;การนำเสนอ ผู้ฟังจะประเมินการนำเสนอนั้นโดยใช้คำถามต่อไปนี้&lt;t1/&gt;:</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T015033Z" creationid="nathanwatkins" creationdate="20260409T163807Z">
+        <seg>หลังจบ &lt;t0/&gt;การนำเสนอ ผู้ฟังจะประเมินการนำเสนอนั้นโดยใช้คำถามต่อไปนี้&lt;t1/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
@@ -848,8 +848,8 @@
       <tuv lang="en-US">
         <seg>Context:&lt;t0/&gt; &lt;t1/&gt;Was the immediate and historical context presented in a way that informed and led to the transformational intent of the author?&lt;t2/&gt;</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163913Z" creationid="nathanwatkins" creationdate="20260409T163913Z">
-        <seg>(MT) บริบท:&lt;t0/&gt; &lt;t1/&gt;มีการนำเสนอบริบทแวดล้อมและบริบททางประวัติศาสตร์ในลักษณะที่ช่วยให้เข้าใจและนำไปสู่จุดมุ่งหมายในการเปลี่ยนแปลงชีวิตตามเจตนารมณ์ของผู้เขียนหรือไม่?&lt;t2/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T015223Z" creationid="nathanwatkins" creationdate="20260409T163913Z">
+        <seg>บริบท:&lt;t0/&gt; &lt;t1/&gt;มีการนำเสนอบริบทแวดล้อมและบริบททางประวัติศาสตร์ในลักษณะที่ช่วยให้เข้าใจและนำไปสู่เจตนาสู่การเปลี่ยนแปลงของผู้เขียนหรือไม่?&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,8 +3174,8 @@
       <tuv lang="en-US">
         <seg>Principles:&lt;t0/&gt; &lt;t1/&gt;Did you see the Dig &amp; Discover principles at work in the presentation? If so, where?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T163811Z" creationid="nathanwatkins" creationdate="20260409T163811Z">
-        <seg>(MT) หลักการ:&lt;t0/&gt; &lt;t1/&gt;คุณเห็นการนำหลักการ “ขุดและค้นพบ” (Dig &amp; Discover) มาใช้ในการนำเสนอนี้หรือไม่? หากเห็นว่ามี คุณเห็นได้จากส่วนไหนบ้าง?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T015111Z" creationid="nathanwatkins" creationdate="20260409T163811Z">
+        <seg>หลักการ:&lt;t0/&gt; &lt;t1/&gt;คุณเห็นการนำหลักการ “ขุดค้นและค้นพบ” (Dig &amp; Discover) มาใช้ในการนำเสนอนี้หรือไม่? หากเห็นว่ามี คุณเห็นได้จากส่วนไหนบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
