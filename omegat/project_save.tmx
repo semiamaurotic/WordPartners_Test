@@ -6328,8 +6328,9 @@
       <tuv lang="en-US">
         <seg>understand, identify, and state the main idea and transformational intent&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
-        <seg>(MT) ทำความเข้าใจ ระบุ และสรุปประเด็นหลักรวมถึงจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิต&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T033206Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
+        <seg>ทำความเข้าใจ ระบุ และสรุปประเด็นหลัก รวมถึงเจตนาสู่การเปลี่ยนแปลง
+&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
