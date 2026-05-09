@@ -1128,8 +1128,8 @@
       <tuv lang="en-US">
         <seg>End: How does the story end? What is similar? What has changed? Why?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065130Z" creationid="nathanwatkins" creationdate="20260409T163532Z">
-        <seg>ตอนจบ: เรื่องนี้จบลงอย่างไร? มีสิ่งใดบ้างที่ยังเหมือนเดิม? มีสิ่งใดบ้างที่เปลี่ยนแปลงไป? และทำไมการเปลี่ยนแปลงเหล่านั้นจึงเกิดขึ้น?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260509T100717Z" creationid="nathanwatkins" creationdate="20260409T163532Z">
+        <seg>ตอนจบ: เรื่องนี้จบลงอย่างไร? มีสิ่งใดบ้างที่ยังเหมือนเดิม? มีสิ่งใดบ้างที่เปลี่ยนแปลงไป? และทำไมจึงเกิดการเปลี่ยนแปลงเหล่านั้นขึ้น?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1836,8 +1836,8 @@
       <tuv lang="en-US">
         <seg>How do you think the author of Genesis desires the reader to respond? How would you preach this section in order to communicate this intent to your church&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T065517Z" creationid="nathanwatkins" creationdate="20260409T163623Z">
-        <seg>คุณคิดว่าผู้เขียนพระธรรมปฐมกาลต้องการให้ผู้อ่านตอบสนองอย่างไร? และคุณจะเทศนาเนื้อหาส่วนนี้อย่างไรเพื่อสื่อสารเจตนารมณ์ดังกล่าวให้แก่คริสตจักรของคุณ&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260509T100633Z" creationid="nathanwatkins" creationdate="20260409T163623Z">
+        <seg>คุณคิดว่าผู้เขียนพระธรรมปฐมกาลต้องการให้ผู้อ่านตอบสนองอย่างไร? และคุณจะเทศนาเนื้อหาส่วนนี้อย่างไรเพื่อสื่อสารเจตนาของผู้เขียนให้แก่คริสตจักรของคุณ&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
