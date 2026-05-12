@@ -912,8 +912,8 @@
       <tuv lang="en-US">
         <seg>D&lt;t0/&gt;ig &amp; Discover</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164303Z" creationid="nathanwatkins" creationdate="20260409T164303Z">
-        <seg>(MT) ขุด&lt;t0/&gt;และค้นพบ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260512T092132Z" creationid="nathanwatkins" creationdate="20260409T164303Z">
+        <seg>ขุดค้น&lt;t0/&gt;และค้นพบ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2773,8 +2773,8 @@
       <tuv lang="en-US">
         <seg>Now &lt;t0/&gt;add &lt;t1/&gt;your work to the narrative plotline on page &lt;t2/&gt;31&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164246Z" creationid="nathanwatkins" creationdate="20260409T164246Z">
-        <seg>(MT) คราวนี้ &lt;t0/&gt;ให้เพิ่ม &lt;t1/&gt;งานของคุณลงในโครงเรื่องในหน้า &lt;t2/&gt;31&lt;t3/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260512T091747Z" creationid="nathanwatkins" creationdate="20260409T164246Z">
+        <seg>คราวนี้ &lt;t0/&gt;ให้บันทึก &lt;t1/&gt;งานของคุณลงในโครงเรื่องในหน้า &lt;t2/&gt;31&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3622,8 +3622,8 @@
       <tuv lang="en-US">
         <seg>Session &lt;t0/&gt;7</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164235Z" creationid="nathanwatkins" creationdate="20260409T164235Z">
-        <seg>(MT) บทเรียนที่ &lt;t0/&gt;7</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260512T091811Z" creationid="nathanwatkins" creationdate="20260409T164235Z">
+        <seg>เซสชั่นที่ &lt;t0/&gt;7</seg>
       </tuv>
     </tu>
     <tu>
@@ -5032,8 +5032,8 @@
       <tuv lang="en-US">
         <seg>What &lt;t0/&gt;D&lt;t1/&gt;oes&lt;t2/&gt; &lt;t3/&gt;Main Idea and Transformational Intent&lt;t4/&gt; &lt;t5/&gt;M&lt;t6/&gt;ean?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164521Z">
-        <seg>(MT) &lt;t3/&gt;ประเด็นหลักและเจตนาเพื่อการเปลี่ยนแปลง&lt;t4/&gt; &lt;t0/&gt;ห&lt;t1/&gt;ม&lt;t2/&gt;ายความว่า&lt;t5/&gt;อ&lt;t6/&gt;ย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260512T091730Z" creationid="nathanwatkins" creationdate="20260409T164521Z">
+        <seg>&lt;t3/&gt;ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง&lt;t4/&gt; &lt;t0/&gt;ห&lt;t1/&gt;ม&lt;t2/&gt;ายความว่า&lt;t5/&gt;อ&lt;t6/&gt;ย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
