@@ -360,8 +360,8 @@
       <tuv lang="en-US">
         <seg>A narrative is made up of three primary features: characters, setting, and plot.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T031500Z" creationid="nathanwatkins" creationdate="20260409T113349Z">
-        <seg>เรื่องเล่าประกอบด้วยองค์ประกอบหลัก 3 ประการ คือ ตัวละคร ฉาก และลำดับเหตุการณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T113349Z">
+        <seg>เรื่องเล่าประกอบด้วยองค์ประกอบหลัก 3 ประการ คือ ตัวละคร ฉาก และโครงเรื่อง</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1008,8 @@
       <tuv lang="en-US">
         <seg>Discovering Structure: Characters, Setting, and Plot</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T033437Z" creationid="nathanwatkins" creationdate="20260409T165858Z">
-        <seg>(MT) สำรวจโครงสร้าง: ตัวละคร ฉาก และลำดับเหตุการณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T165858Z">
+        <seg>(MT) สำรวจโครงสร้าง: ตัวละคร ฉาก และโครงเรื่อง</seg>
       </tuv>
     </tu>
     <tu>
@@ -1352,8 +1352,8 @@
       <tuv lang="en-US">
         <seg>From your &lt;t0/&gt;n&lt;t1/&gt;arrative &lt;t2/&gt;p&lt;t3/&gt;lotline of the &lt;t4/&gt;b&lt;t5/&gt;ook, how would you describe the introduction, rise in tension, climax, and resolution of the book&lt;t6/&gt;?&lt;t7/&gt; What direction does this story take?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T085939Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
-        <seg>(MT) จาก&lt;t0/&gt;โ&lt;t1/&gt;ครงเรื่อง&lt;t2/&gt;แ&lt;t3/&gt;ละลำดับเหตุการณ์ในพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
+        <seg>(MT) จาก&lt;t0/&gt;โ&lt;t1/&gt;ครงเรื่อง&lt;t2/&gt;แ&lt;t3/&gt;ละโครงเรื่องในพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2934,8 +2934,8 @@
       <tuv lang="en-US">
         <seg>Overall plot / main idea &amp; transformational intent</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T033217Z" creationid="nathanwatkins" creationdate="20260409T160047Z">
-        <seg>ลำดับเหตุการณ์โดยรวม / ประเด็นหลัก และเจตนาสู่การเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T160047Z">
+        <seg>โครงเรื่องโดยรวม / ประเด็นหลัก และเจตนาสู่การเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,24 +3022,24 @@
       <tuv lang="en-US">
         <seg>Plot</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T032724Z" creationid="nathanwatkins" creationdate="20260409T120419Z">
-        <seg>ลำดับเหตุการณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T120419Z">
+        <seg>โครงเรื่อง</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Plot (&lt;t0/&gt;Discovering the Units of Thought&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T033352Z" creationid="nathanwatkins" creationdate="20260409T163539Z">
-        <seg>ลำดับเหตุการณ์ (&lt;t0/&gt;การค้นพบหน่วยความคิด&lt;t1/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T163539Z">
+        <seg>โครงเรื่อง (&lt;t0/&gt;การค้นพบหน่วยความคิด&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Plot is developed through the actions and dialogue of the characters&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T032746Z" creationid="nathanwatkins" creationdate="20260409T120521Z">
-        <seg>ลำดับเหตุการณ์จะดำเนินไปผ่านการกระทำและบทสนทนาของตัวละคร&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T120521Z">
+        <seg>โครงเรื่องจะดำเนินไปผ่านการกระทำและบทสนทนาของตัวละคร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,8 +3790,8 @@
       <tuv lang="en-US">
         <seg>Stories, along with other literary devices, are linked together to form the overall plot and reveal the main idea and transformational intent of the book.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T033131Z" creationid="nathanwatkins" creationdate="20260409T160059Z">
-        <seg>เรื่องราวต่าง ๆ และกลวิธีทางวรรณกรรมอื่น ๆ ถูกร้อยเรียงเข้าด้วยกันเพื่อประกอบขึ้นเป็นลำดับเหตุการณ์โดยรวม และเผยให้เห็นประเด็นหลักรวมถึงเจตนาสู่การเปลี่ยนแปลงของพระธรรมเล่มนั้นๆ </seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T160059Z">
+        <seg>เรื่องราวต่าง ๆ และกลวิธีทางวรรณกรรมอื่น ๆ ถูกร้อยเรียงเข้าด้วยกันเพื่อประกอบขึ้นเป็นโครงเรื่องโดยรวม และเผยให้เห็นประเด็นหลักรวมถึงเจตนาสู่การเปลี่ยนแปลงของพระธรรมเล่มนั้นๆ </seg>
       </tuv>
     </tu>
     <tu>
@@ -4174,16 +4174,16 @@
       <tuv lang="en-US">
         <seg>The plot of every story has these essential elements (together these elements form the narrative arch)&lt;t0/&gt;:</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T032912Z" creationid="nathanwatkins" creationdate="20260409T155259Z">
-        <seg>ลำดับเหตุการณ์ของทุกเรื่องราวมีองค์ประกอบที่สำคัญดังนี้ (ซึ่งองค์ประกอบเหล่านี้รวมกันเป็นโครงเรื่องหลัก)&lt;t0/&gt;:</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T155259Z">
+        <seg>โครงเรื่องของทุกเรื่องราวมีองค์ประกอบที่สำคัญดังนี้ (ซึ่งองค์ประกอบเหล่านี้รวมกันเป็นโครงเรื่องหลัก)&lt;t0/&gt;:</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>The plotline of the story will reveal its general structure. Begin by comparing the beginning and the end to see where the author is taking you.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260425T083316Z" creationid="nathanwatkins" creationdate="20260409T162514Z">
-        <seg>โครงเรื่องจะเผยให้เห็นโครงสร้างโดยรวมของเรื่อง โดยเริ่มจากการเปรียบเทียบตอนต้นกับตอนจบ เพื่อดูว่าผู้เขียนกำลังนำพาคุณไปในทิศทางใด</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034612Z" creationid="nathanwatkins" creationdate="20260409T162514Z">
+        <seg>เส้นโครงเรื่องจะเผยให้เห็นโครงสร้างโดยรวมของเรื่อง โดยเริ่มจากการเปรียบเทียบตอนต้นกับตอนจบ เพื่อดูว่าผู้เขียนกำลังนำพาคุณไปในทิศทางใด</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,16 +5696,16 @@
       <tuv lang="en-US">
         <seg>With the genre of &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative, recognizing the elements of narrative (characters, setting, and plot) an&lt;t4/&gt;d identifying the plotline (or &lt;t5/&gt;n&lt;t6/&gt;arrative &lt;t7/&gt;a&lt;t8/&gt;rch) helps us discover the units of thought that make up the story’s structure.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T091210Z" creationid="nathanwatkins" creationdate="20260409T163506Z">
-        <seg>ในวรรณกรรมประเภท&lt;t0/&gt;เ&lt;t1/&gt;รื่องเล่า&lt;t2/&gt;ท&lt;t3/&gt;างประวัติศาสตร์ เราสามารถค้นพบหน่วยความคิดที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่องได้ โดยการสังเกตองค์ประกอบของการเล่าเรื่อง (ตัวละคร ฉาก และลำดับเหตุการณ์) แล&lt;t4/&gt;ะโครงเรื่อง (หรือ &lt;t5/&gt;เ&lt;t6/&gt;ส้นโค้ง&lt;t7/&gt;ข&lt;t8/&gt;องเรื่องเล่า)-</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T035147Z" creationid="nathanwatkins" creationdate="20260409T163506Z">
+        <seg>ในประเภทวรรณกรรมแบบเรื่องเล่าประวัติศาสตร์ การสังเกตองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง) และการระบุเส้นเรื่อง (หรือส่วนโค้งของเรื่องเล่า) ช่วยให้เราค้นพบหน่วยความคิดต่าง ๆ ที่ประกอบกันเป็นโครงสร้างของเรื่อง </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>With the genre of historical narrative, recognizing the elements of narrative (characters, setting, and plot) and identifying the plot line (or&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;n&lt;t3/&gt;arrative &lt;t4/&gt;a&lt;t5/&gt;rch) helps us discover the units of thought that make up the story’s structure. Pay particular attention to the &lt;t6/&gt;connection &lt;t7/&gt;of the units of thought and the &lt;t8/&gt;direction&lt;t9/&gt; the story takes as a result. It is especially important to identify the climax because it helps us see the direction the story is taking and the author’s intention for telling the story.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260509T095656Z" creationid="nathanwatkins" creationdate="20260409T164106Z">
-        <seg>ในวรรณกรรมประเภทเรื่องราวทางประวัติศาสตร์ การระบุองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และลำดับเหตุการณ์) และการทำความเข้าใจโครงเรื่อง (หรือ&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;เส้นโค้ง&lt;t3/&gt;&lt;t4/&gt;ของเรื่องเล่า&lt;t5/&gt;) จะช่วยให้เราค้นพบหน่วยความคิดที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่อง ขอให้สังเกต&lt;t6/&gt;ความเชื่อมโยง&lt;t7/&gt;ของหน่วยความคิดเหล่านี้และ&lt;t8/&gt;ทิศทาง&lt;t9/&gt;ที่เรื่องดำเนินไปอันเป็นผลสืบเนื่องมาจากความเชื่อมโยงนั้นอย่างใกล้ชิด การระบุจุดไคลแมกซ์ของเรื่องถือว่าสำคัญเป็นพิเศษ เพราะช่วยให้เราเห็นทั้งทิศทางของเรื่องและเจตนาของผู้เขียนในการเล่าเรื่องนั้น</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T164106Z">
+        <seg>ในวรรณกรรมประเภทเรื่องราวทางประวัติศาสตร์ การระบุองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง) และการทำความเข้าใจโครงเรื่อง (หรือ&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;เส้นโค้ง&lt;t3/&gt;&lt;t4/&gt;ของเรื่องเล่า&lt;t5/&gt;) จะช่วยให้เราค้นพบหน่วยความคิดที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่อง ขอให้สังเกต&lt;t6/&gt;ความเชื่อมโยง&lt;t7/&gt;ของหน่วยความคิดเหล่านี้และ&lt;t8/&gt;ทิศทาง&lt;t9/&gt;ที่เรื่องดำเนินไปอันเป็นผลสืบเนื่องมาจากความเชื่อมโยงนั้นอย่างใกล้ชิด การระบุจุดไคลแมกซ์ของเรื่องถือว่าสำคัญเป็นพิเศษ เพราะช่วยให้เราเห็นทั้งทิศทางของเรื่องและเจตนาของผู้เขียนในการเล่าเรื่องนั้น</seg>
       </tuv>
     </tu>
     <tu>
