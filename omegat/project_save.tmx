@@ -1008,8 +1008,8 @@
       <tuv lang="en-US">
         <seg>Discovering Structure: Characters, Setting, and Plot</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T165858Z" creationid="nathanwatkins" creationdate="20260409T165858Z">
-        <seg>(MT) สำรวจโครงสร้าง: ตัวละคร ฉาก และโครงเรื่อง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T033437Z" creationid="nathanwatkins" creationdate="20260409T165858Z">
+        <seg>(MT) สำรวจโครงสร้าง: ตัวละคร ฉาก และลำดับเหตุการณ์</seg>
       </tuv>
     </tu>
     <tu>
@@ -3030,8 +3030,8 @@
       <tuv lang="en-US">
         <seg>Plot (&lt;t0/&gt;Discovering the Units of Thought&lt;t1/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T064637Z" creationid="nathanwatkins" creationdate="20260409T163539Z">
-        <seg>โครงเรื่อง (&lt;t0/&gt;การค้นพบหน่วยความคิด&lt;t1/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T033352Z" creationid="nathanwatkins" creationdate="20260409T163539Z">
+        <seg>ลำดับเหตุการณ์ (&lt;t0/&gt;การค้นพบหน่วยความคิด&lt;t1/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
