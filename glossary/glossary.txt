@@ -20,7 +20,7 @@ expository sermon	คำเทศนาแบบอรรถาธิบาย
 Framework	กรอบแนวความคิด
 Genealogies	ลำดับเชื้อสาย
 genre	ประเภทวรรณกรรม
-God’s living Word	พระวจนะที่มีชีวิต	
+God’s living Word	พระวจนะที่มีชีวิต
 Gospel	พระกิตติคุณ
 Grace	พระคุณ
 Historical Narrative	เรื่องราวทางประวัติศาสตร์
