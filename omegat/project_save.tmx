@@ -2524,8 +2524,8 @@
       <tuv lang="en-US">
         <seg>Main &lt;t0/&gt;i&lt;t1/&gt;dea</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T022624Z" creationid="nathanwatkins" creationdate="20260409T164429Z">
-        <seg>x</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T022714Z" creationid="nathanwatkins" creationdate="20260409T164429Z">
+        <seg>ประเด็นหลัก </seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,8 +3918,8 @@
       <tuv lang="en-US">
         <seg>The &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea is a summary statement of the author’s message stated with his &lt;t4/&gt;t&lt;t5/&gt;one (the attitude of the author toward his message).</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164631Z" creationid="nathanwatkins" creationdate="20260409T164631Z">
-        <seg>(MT) &lt;t0/&gt;ใ&lt;t1/&gt;จความ&lt;t2/&gt;ส&lt;t3/&gt;ำคัญ คือประโยคสรุปสารของผู้เขียนที่กล่าวด้วย&lt;t4/&gt;น&lt;t5/&gt;้ำเสียงของเขา (ท่าทีของผู้เขียนที่มีต่อสารของตนเอง)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T022811Z" creationid="nathanwatkins" creationdate="20260409T164631Z">
+        <seg>ประเด็นหลักคือประโยคสรุปสารของผู้เขียนที่กล่าวด้วย&lt;t4/&gt;น&lt;t5/&gt;้ำเสียงของเขา (ท่าทีของผู้เขียนที่มีต่อสารของตนเอง)</seg>
       </tuv>
     </tu>
     <tu>
@@ -3998,8 +3998,8 @@
       <tuv lang="en-US">
         <seg>The Transformational Intent is the change God is seeking through the author’s message with the &lt;t0/&gt;m&lt;t1/&gt;ood he intended (the attitude of the reader in response to the author’s message).</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164613Z" creationid="nathanwatkins" creationdate="20260409T164613Z">
-        <seg>(MT) เจตนาสู่การเปลี่ยนแปลง คือความเปลี่ยนแปลงที่พระเจ้าทรงมุ่งหวังจะกระทำผ่านสารของผู้เขียน พร้อมกับ&lt;t0/&gt;อ&lt;t1/&gt;ารมณ์ที่ผู้เขียนตั้งใจไว้ (ซึ่งหมายถึงท่าทีที่ผู้อ่านควรมีในการตอบสนองต่อสารของผู้เขียน)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T023556Z" creationid="nathanwatkins" creationdate="20260409T164613Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลง คือการเปลี่ยนแปลงที่พระเจ้าทรงมุ่งหวังจะกระทำผ่านสารของผู้เขียน โดยรวมถึง&lt;t0/&gt;อ&lt;t1/&gt;ารมณ์ที่ผู้เขียนตั้งใจใช้ด้วย (รวมทั้งท่าทีหรือความรู้สึกตอบสนองที่ผู้เขียนต้องการให้ผู้อ่านมีต่อข้อความนั้นด้วย) </seg>
       </tuv>
     </tu>
     <tu>
@@ -4632,8 +4632,8 @@
       <tuv lang="en-US">
         <seg>Tone and &lt;t0/&gt;m&lt;t1/&gt;ood</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164438Z" creationid="nathanwatkins" creationdate="20260409T164438Z">
-        <seg>(MT) น้ำเสียงและ&lt;t0/&gt;อ&lt;t1/&gt;ารมณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T022723Z" creationid="nathanwatkins" creationdate="20260409T164438Z">
+        <seg>น้ำเสียงและ&lt;t0/&gt;อ&lt;t1/&gt;ารมณ์</seg>
       </tuv>
     </tu>
     <tu>
