@@ -440,8 +440,8 @@
       <tuv lang="en-US">
         <seg>All the previous principles help us get to the main idea and transformational intent. So, we will be using all the previous principles in this session.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>หลักการทั้งหมดก่อนหน้านี้ล้วนช่วยนำเราไปสู่ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง ดังนั้น ในบทนี้เราจะใช้หลักการทั้งหมดที่เรียนมาก่อนหน้านี้</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T031110Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>หลักการทั้งหมดก่อนหน้านี้ล้วนช่วยนำเราไปสู่ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง ดังนั้น ในเซสชั่นนี้เราจะใช้หลักการทั้งหมดที่เรียนมาก่อนหน้านี้</seg>
       </tuv>
     </tu>
     <tu>
@@ -2412,8 +2412,8 @@
       <tuv lang="en-US">
         <seg>It is the culminating point of all the previous principles and helps us express the author’s message with his purpose and tone.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T023943Z" creationid="nathanwatkins" creationdate="20260409T164547Z">
-        <seg>(MT) นี่คือจุดไคลแมกซ์ของหลักการก่อนหน้านี้ทั้งหมด ซึ่งช่วยให้เราถ่ายทอดสารของผู้เขียนออกมาได้ตรงตามวัตถุประสงค์และน้ำเสียงของท่าน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T031324Z" creationid="nathanwatkins" creationdate="20260409T164547Z">
+        <seg>นี่คือจุดสรุปสูงสุดของหลักการทั้งหมดที่กล่าวมาก่อนหน้านี้ ซึ่งช่วยให้เราถ่ายทอดสารของผู้เขียนออกมาได้ตรงตามวัตถุประสงค์และน้ำเสียงของเขา</seg>
       </tuv>
     </tu>
     <tu>
@@ -5568,8 +5568,8 @@
       <tuv lang="en-US">
         <seg>Why &lt;t0/&gt;I&lt;t1/&gt;s &lt;t2/&gt;T&lt;t3/&gt;his &lt;t4/&gt;I&lt;t5/&gt;mportant?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164738Z" creationid="nathanwatkins" creationdate="20260409T164738Z">
-        <seg>(MT) ทำไม &lt;t2/&gt;เรื่องนี้&lt;t3/&gt;&lt;t0/&gt;จึง&lt;t1/&gt;&lt;t4/&gt;สำคัญ&lt;t5/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260521T031119Z" creationid="nathanwatkins" creationdate="20260409T164738Z">
+        <seg>ทำไม &lt;t2/&gt;เรื่องนี้&lt;t3/&gt;&lt;t0/&gt;จึง&lt;t1/&gt;&lt;t4/&gt;สำคัญ&lt;t5/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
