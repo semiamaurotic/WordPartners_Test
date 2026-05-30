@@ -2588,8 +2588,8 @@
       <tuv lang="en-US">
         <seg>Main Idea: Ask, “What is the author saying?”</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164550Z">
-        <seg>(MT) ประเด็นหลัก: ถามว่า “ผู้เขียนกำลังบอกอะไร?”</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260530T092325Z" creationid="nathanwatkins" creationdate="20260409T164550Z">
+        <seg>ประเด็นหลัก: ถามว่า “ผู้เขียนกำลังบอกอะไร?”</seg>
       </tuv>
     </tu>
     <tu>
@@ -5304,8 +5304,8 @@
       <tuv lang="en-US">
         <seg>What is the author’s general idea, and what is he saying specifically about that idea?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164809Z" creationid="nathanwatkins" creationdate="20260409T164809Z">
-        <seg>(MT) แนวคิดโดยรวมของผู้เขียนคืออะไร และเขาได้ให้รายละเอียดเฉพาะเจาะจงเกี่ยวกับแนวคิดนั้นว่าอย่างไรบ้าง?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260530T092711Z" creationid="nathanwatkins" creationdate="20260409T164809Z">
+        <seg>แนวคิดหลักโดยรวมที่ผู้เขียนต้องการสื่อคืออะไร และเขาได้ให้รายละเอียดเฉพาะเจาะจงเกี่ยวกับแนวคิดนั้นว่าอย่างไรบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
