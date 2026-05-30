@@ -4640,8 +4640,8 @@
       <tuv lang="en-US">
         <seg>Tone and Mood: Ask, “How does the author say it?” (see Session 1)</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164827Z" creationid="nathanwatkins" creationdate="20260409T164827Z">
-        <seg>(MT) น้ำเสียงและอารมณ์: ถามว่า “ผู้เขียนสื่อสารออกมาอย่างไร” (ดูบทเรียนที่ 1)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260530T092737Z" creationid="nathanwatkins" creationdate="20260409T164827Z">
+        <seg>น้ำเสียงและอารมณ์: ถามว่า “ผู้เขียนสื่อสารน้ำเสียงและอารมณ์ออกมาอย่างไร” (ดูบทเรียนที่ 1)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4656,8 +4656,8 @@
       <tuv lang="en-US">
         <seg>Tone: What perspective, conviction, feelings, etc.&lt;t0/&gt;,&lt;t1/&gt; does the author express?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164855Z" creationid="nathanwatkins" creationdate="20260409T164855Z">
-        <seg>(MT) น้ำเสียง: มุมมอง ความเชื่อมั่น ความรู้สึก ฯลฯ&lt;t0/&gt;,&lt;t1/&gt; ที่ผู้เขียนแสดงออกมีอะไรบ้าง?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260530T093203Z" creationid="nathanwatkins" creationdate="20260409T164855Z">
+        <seg>น้ำเสียง: ผู้เขียนแสดงมุมมอง ความเชื่อมั่น ความรู้สึก ฯลฯ&lt;t0/&gt;,&lt;t1/&gt; อะไรออกมา?</seg>
       </tuv>
     </tu>
     <tu>
