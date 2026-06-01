@@ -3350,8 +3350,8 @@
       <tuv lang="en-US">
         <seg>Remember: The main idea and transformational intent sentence should be clear, instructive, and reflect the author’s tone. Your sermon should be organized around this sentence so you can shepherd people with precise and compelling applications that flow from the author’s transformational intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T164818Z">
-        <seg>(MT) ข้อควรจำ: ประโยคประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงควรมีความชัดเจน ให้แนวทางที่นำไปใช้ได้ และสะท้อนน้ำเสียงของผู้เขียน คุณควรจัดโครงสร้างคำเทศนาโดยยึดตามประโยคนี้ เพื่อที่คุณจะสามารถอภิบาลผู้คนด้วยการประยุกต์ใช้ที่ตรงประเด็นและมีพลัง ซึ่งหลั่งไหลมาจากเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T015955Z" creationid="nathanwatkins" creationdate="20260409T164818Z">
+        <seg>ข้อควรจำ: ประโยคที่พูดถึงประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงควรมีความชัดเจน ให้แนวทางที่นำไปใช้ได้ และสะท้อนน้ำเสียงของผู้เขียน คุณควรจัดโครงสร้างคำเทศนาโดยยึดตามประโยคนี้ เพื่อที่คุณจะสามารถอภิบาลผู้อื่นด้วยการประยุกต์ใช้ที่ชัดเจนและมีความหมาย โดยตั้งอยู่บนเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -4744,8 +4744,8 @@
       <tuv lang="en-US">
         <seg>Transformational Intent: Ask, “Why does the author say it?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T164822Z" creationid="nathanwatkins" creationdate="20260409T164822Z">
-        <seg>(MT) จุดมุ่งหมายเพื่อการเปลี่ยนแปลง: ให้ถามว่า “ทำไมผู้เขียนจึงกล่าวเช่นนั้น?”</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T015422Z" creationid="nathanwatkins" creationdate="20260409T164822Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลง: ให้ถามว่า “ทำไมผู้เขียนจึงกล่าวเช่นนั้น?”</seg>
       </tuv>
     </tu>
     <tu>
