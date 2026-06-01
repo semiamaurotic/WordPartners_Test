@@ -2773,8 +2773,8 @@
       <tuv lang="en-US">
         <seg>Now &lt;t0/&gt;add &lt;t1/&gt;your work to the narrative plotline on page &lt;t2/&gt;31&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260512T091747Z" creationid="nathanwatkins" creationdate="20260409T164246Z">
-        <seg>คราวนี้ &lt;t0/&gt;ให้บันทึก &lt;t1/&gt;งานของคุณลงในโครงเรื่องในหน้า &lt;t2/&gt;31&lt;t3/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T094022Z" creationid="nathanwatkins" creationdate="20260409T164246Z">
+        <seg>คราวนี้ &lt;t0/&gt;ให้บันทึก &lt;t1/&gt;งานของคุณลงในเส้นลำดับเหตุการณ์ในหน้า &lt;t2/&gt;31&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,16 +5696,16 @@
       <tuv lang="en-US">
         <seg>With the genre of &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative, recognizing the elements of narrative (characters, setting, and plot) an&lt;t4/&gt;d identifying the plotline (or &lt;t5/&gt;n&lt;t6/&gt;arrative &lt;t7/&gt;a&lt;t8/&gt;rch) helps us discover the units of thought that make up the story’s structure.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T092655Z" creationid="nathanwatkins" creationdate="20260409T163506Z">
-        <seg>ในประเภทวรรณกรรมแบบเรื่องเล่าประวัติศาสตร์ การสังเกตองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง) และการระบุเส้นโครงเรื่อง (หรือส่วนโค้งของเรื่องเล่า) ช่วยให้เราค้นพบหน่วยความคิดต่าง ๆ ที่ประกอบกันเป็นโครงสร้างของเรื่อง </seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T093843Z" creationid="nathanwatkins" creationdate="20260409T163506Z">
+        <seg>ในประเภทวรรณกรรมแบบเรื่องเล่าประวัติศาสตร์ การสังเกตองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง) และการระบุเส้นลำดับเหตุการณ์ (หรือเส้นโค้งของเรื่องเล่า) ช่วยให้เราค้นพบหน่วยความคิดต่าง ๆ ที่ประกอบกันเป็นโครงสร้างของเรื่อง </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>With the genre of historical narrative, recognizing the elements of narrative (characters, setting, and plot) and identifying the plot line (or&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;n&lt;t3/&gt;arrative &lt;t4/&gt;a&lt;t5/&gt;rch) helps us discover the units of thought that make up the story’s structure. Pay particular attention to the &lt;t6/&gt;connection &lt;t7/&gt;of the units of thought and the &lt;t8/&gt;direction&lt;t9/&gt; the story takes as a result. It is especially important to identify the climax because it helps us see the direction the story is taking and the author’s intention for telling the story.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T092951Z" creationid="nathanwatkins" creationdate="20260409T164106Z">
-        <seg>ในวรรณกรรมประเภทเรื่องราวทางประวัติศาสตร์ การระบุองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง) และระบุลำดับเหตุการณ์ (หรือ&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;เส้นโค้ง&lt;t3/&gt;&lt;t4/&gt;ของเรื่องเล่า&lt;t5/&gt;) จะช่วยให้เราค้นพบหน่วยความคิดที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่อง ขอให้สังเกต&lt;t6/&gt;ความเชื่อมโยง&lt;t7/&gt;ของหน่วยความคิดเหล่านี้และ&lt;t8/&gt;ทิศทาง&lt;t9/&gt;ที่เรื่องดำเนินไปอันเป็นผลสืบเนื่องมาจากความเชื่อมโยงนั้นอย่างใกล้ชิด การระบุจุดไคลแมกซ์ของเรื่องถือว่าสำคัญเป็นพิเศษ เพราะช่วยให้เราเห็นทั้งทิศทางของเรื่องและเจตนาของผู้เขียนในการเล่าเรื่องนั้น</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260601T093945Z" creationid="nathanwatkins" creationdate="20260409T164106Z">
+        <seg>ในวรรณกรรมประเภทเรื่องราวทางประวัติศาสตร์ การระบุองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง) และระบุเส้นลำดับเหตุการณ์ (หรือ&lt;t0/&gt;,&lt;t1/&gt; &lt;t2/&gt;เส้นโค้ง&lt;t3/&gt;&lt;t4/&gt;ของเรื่องเล่า&lt;t5/&gt;) จะช่วยให้เราค้นพบหน่วยความคิดที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่อง ขอให้สังเกต&lt;t6/&gt;ความเชื่อมโยง&lt;t7/&gt;ของหน่วยความคิดเหล่านี้และ&lt;t8/&gt;ทิศทาง&lt;t9/&gt;ที่เรื่องดำเนินไปอันเป็นผลสืบเนื่องมาจากความเชื่อมโยงนั้นอย่างใกล้ชิด การระบุจุดไคลแมกซ์ของเรื่องถือว่าสำคัญเป็นพิเศษ เพราะช่วยให้เราเห็นทั้งทิศทางของเรื่องและเจตนาของผู้เขียนในการเล่าเรื่องนั้น</seg>
       </tuv>
     </tu>
     <tu>
