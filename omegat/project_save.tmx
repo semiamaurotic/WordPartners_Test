@@ -584,8 +584,8 @@
       <tuv lang="en-US">
         <seg>Before answering the questions below, you will want to review the explanation of Structure in Sessions 1, 4, 6, and 7. Please also review the discussions on &lt;t0/&gt;g&lt;t1/&gt;enealogies, &lt;t2/&gt;l&lt;t3/&gt;aw, and Tone &amp; Mood in Session 1.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170406Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
-        <seg>(MT) ก่อนจะตอบคำถามด้านล่างนี้ ท่านควรทบทวนคำอธิบายเรื่องโครงสร้างในบทเรียนที่ 1, 4, 6 และ 7 นอกจากนี้ โปรดทบทวนเนื้อหาเกี่ยวกับ &lt;t0/&gt;ล&lt;t1/&gt;ำดับพงศ์ &lt;t2/&gt;ธ&lt;t3/&gt;รรมบัญญัติ รวมถึงเรื่องน้ำเสียงและอารมณ์ในบทเรียนที่ 1 ด้วย</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T043549Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
+        <seg>ก่อนจะตอบคำถามข้างล่างนี้ ท่านควรทบทวนคำอธิบายเรื่องโครงสร้างในเซสชั่นที่ 1, 4, 6 และ 7 อีกทั้ง ทบทวนเนื้อหาเกี่ยวกับ &lt;t0/&gt;ล&lt;t1/&gt;ำดับเชื้อสาย &lt;t2/&gt;ธ&lt;t3/&gt;รรมบัญญัติ รวมถึงเรื่องน้ำเสียงและอารมณ์ในเซสชั่นที่ 1 ด้วย</seg>
       </tuv>
     </tu>
     <tu>
@@ -1416,8 +1416,8 @@
       <tuv lang="en-US">
         <seg>Genesis 10:1–11:9</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170132Z" creationid="nathanwatkins" creationdate="20260409T170132Z">
-        <seg>(MT) ปฐมกาล 10:1–11:9</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T043352Z" creationid="nathanwatkins" creationdate="20260409T170132Z">
+        <seg>ปฐมกาล 10:1–11:9</seg>
       </tuv>
     </tu>
     <tu>
@@ -3534,8 +3534,8 @@
       <tuv lang="en-US">
         <seg>Session 8</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170149Z" creationid="nathanwatkins" creationdate="20260409T170149Z">
-        <seg>(MT) บทที่ 8</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T043253Z" creationid="nathanwatkins" creationdate="20260409T170149Z">
+        <seg>เซสชั่นที่ 8</seg>
       </tuv>
     </tu>
     <tu>
