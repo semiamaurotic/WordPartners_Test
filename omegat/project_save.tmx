@@ -2837,16 +2837,16 @@
       <tuv lang="en-US">
         <seg>Now, how does the author tell this story?&lt;t0/&gt; &lt;t1/&gt;Write down some words or ideas that express the author’s attitude, perspective, conviction, or feelings, about the story he is telling&lt;t2/&gt;.&lt;t3/&gt; (&lt;t4/&gt;T&lt;t5/&gt;his is the author’s &lt;t6/&gt;t&lt;t7/&gt;one&lt;t8/&gt;.&lt;t9/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T035102Z" creationid="nathanwatkins" creationdate="20260409T170117Z">
-        <seg>ต่อไป ให้พิจารณาว่าผู้เขียนเล่าเรื่องนี้อย่างไร&lt;t0/&gt; &lt;t1/&gt;จดถ้อยคำหรือแนวคิดที่สะท้อนถึงทัศนคติ มุมมอง ความเชื่อมั่น หรือความรู้สึกของผู้เขียนที่มีต่อเรื่องที่เขากำลังเล่า&lt;t2/&gt;.&lt;t3/&gt; (ซึ่งก็คือ น้ำเสียง&lt;t8/&gt;ของผู้เขียนนั่นเอง&lt;t9/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T035427Z" creationid="nathanwatkins" creationdate="20260409T170117Z">
+        <seg>ต่อไป ให้พิจารณาว่าผู้เขียนเล่าเรื่องนี้อย่างไร&lt;t0/&gt; &lt;t1/&gt;จดถ้อยคำหรือแนวคิดที่สะท้อนถึงทัศนคติ มุมมอง ความเชื่อมั่น หรือความรู้สึกของผู้เขียนที่มีต่อเรื่องที่เขากำลังเล่า&lt;t2/&gt;.&lt;t3/&gt; (นี่คือ น้ำเสียง&lt;t8/&gt;ของผู้เขียน&lt;t9/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>Now, restate your &lt;t0/&gt;m&lt;t1/&gt;ain &lt;t2/&gt;i&lt;t3/&gt;dea sentence in a way that expresses this &lt;t4/&gt;t&lt;t5/&gt;one and &lt;t6/&gt;m&lt;t7/&gt;ood.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170115Z" creationid="nathanwatkins" creationdate="20260409T170115Z">
-        <seg>(MT) ตอนนี้ ให้คุณเรียบเรียงประโยค &lt;t0/&gt;ใ&lt;t1/&gt;จความ &lt;t2/&gt;ส&lt;t3/&gt;ำคัญของคุณใหม่ เพื่อสื่อถึง &lt;t4/&gt;น&lt;t5/&gt;้ำเสียง และ &lt;t6/&gt;อ&lt;t7/&gt;ารมณ์ นี้</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T035710Z" creationid="nathanwatkins" creationdate="20260409T170115Z">
+        <seg>ตอนนี้ ให้คุณเรียบเรียงประโยคประเด็นหลักของคุณใหม่ โดยถ่ายทอด &lt;t4/&gt;น&lt;t5/&gt;้ำเสียง และ &lt;t6/&gt;อ&lt;t7/&gt;ารมณ์ที่ผู้เขียนต้องการให้ผู้อ่านรู้สึกด้วย</seg>
       </tuv>
     </tu>
     <tu>
