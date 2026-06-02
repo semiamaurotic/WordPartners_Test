@@ -2749,8 +2749,8 @@
       <tuv lang="en-US">
         <seg>Note: Generally speaking, with narrative, the heart of the author’s message is found at the climax and resolution of the story.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T023943Z" creationid="nathanwatkins" creationdate="20260409T170031Z">
-        <seg>(MT) หมายเหตุ: โดยทั่วไปแล้ว สำหรับงานเขียนประเภทเรื่องเล่า หัวใจสำคัญของสิ่งที่ผู้เขียนต้องการสื่อ มักจะอยู่ที่จุดไคลแมกซ์และจุดคลี่คลายของเรื่อง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T031940Z" creationid="nathanwatkins" creationdate="20260409T170031Z">
+        <seg>หมายเหตุ: โดยทั่วไปแล้ว สำหรับงานเขียนประเภทเรื่องเล่า หัวใจสำคัญของสิ่งที่ผู้เขียนต้องการสื่อ มักจะอยู่ที่จุดไคลแมกซ์และจุดคลี่คลายของเรื่อง</seg>
       </tuv>
     </tu>
     <tu>
@@ -5312,8 +5312,8 @@
       <tuv lang="en-US">
         <seg>What is the author’s general idea? What is the author saying specifically about that idea?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170035Z" creationid="nathanwatkins" creationdate="20260409T170035Z">
-        <seg>(MT) แนวคิดหลักของผู้เขียนคืออะไร? และผู้เขียนกล่าวเจาะจงเกี่ยวกับแนวคิดนั้นว่าอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T032539Z" creationid="nathanwatkins" creationdate="20260409T170035Z">
+        <seg>แนวคิดหลักโดยรวมที่ผู้เขียนต้องการสื่อคืออะไร ผู้เขียนกล่าวถึงแนวคิดนั้นอย่างเฉพาะเจาะจงว่าอย่างไรบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
