@@ -2308,8 +2308,8 @@
       <tuv lang="en-US">
         <seg>Is it saying less than the author’s main idea? Is it saying more?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
-        <seg>(MT) สิ่งที่สื่อออกมานั้นขาดตกไปจากประเด็นหลักของผู้เขียน หรือว่าสื่อความหมายเกินเลยไปหรือไม่?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T054517Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
+        <seg>สิ่งที่คุณเขียนตกหล่นประเด็นหลักบางอย่างของผู้เขียนหรือไม่ หรือว่าสื่อความหมายเกินเลยไปหรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
