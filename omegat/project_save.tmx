@@ -1296,8 +1296,8 @@
       <tuv lang="en-US">
         <seg>Finally, use the tone, mood, and transformational intent to shape your main idea into a sentence that expresses the purpose of the author. (Make sure it is general enough to express the whole of the author’s thought, yet specific enough to differentiate it from other books or passages&lt;t0/&gt;.)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
-        <seg>(MT) สุดท้ายนี้ ให้นำน้ำเสียง อารมณ์ และเจตนาในการเปลี่ยนแปลงชีวิต มาเรียบเรียงประเด็นหลักของคุณให้เป็นประโยคที่สื่อถึงจุดประสงค์ของผู้เขียน (โดยให้แน่ใจว่าประโยคนั้นครอบคลุมความคิดทั้งหมดของผู้เขียน แต่ก็มีความเฉพาะเจาะจงมากพอที่จะทำให้เห็นความแตกต่างจากหนังสือหรือพระธรรมตอนอื่นๆ&lt;t0/&gt;)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T053705Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
+        <seg>ท้ายนี้ ให้นำน้ำเสียง อารมณ์ และเจตนาสู่การเปลี่ยนแปลงมาเรียบเรียงประเด็นหลักของคุณให้เป็นประโยคที่สื่อถึงจุดประสงค์ของผู้เขียน (โดยให้แน่ใจว่าประโยคนั้นครอบคลุมความคิดทั้งหมดของผู้เขียน แต่ก็มีความเฉพาะเจาะจงมากพอที่จะทำให้เห็นความแตกต่างจากพระธรรมเล่มอื่นๆ หรือเนื้อหาในพระธรรมตอนอื่นๆ&lt;t0/&gt;)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2829,8 +2829,8 @@
       <tuv lang="en-US">
         <seg>Now write down some words or ideas that describe the author’s</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T053357Z" creationid="nathanwatkins" creationdate="20260409T170529Z">
-        <seg>ให้เขียนบางคำหรือแนวคิดบางประการที่อธิบายถึงน้ำเสียงและเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T053446Z" creationid="nathanwatkins" creationdate="20260409T170529Z">
+        <seg>ให้เขียนบางคำหรือแนวคิดบางประการที่อธิบายถึงน้ำเสียง เจตนาสู่การเปลี่ยนแปลง และอารมณ์ ของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -4624,8 +4624,8 @@
       <tuv lang="en-US">
         <seg>Tone</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170334Z" creationid="nathanwatkins" creationdate="20260409T170334Z">
-        <seg>(MT) น้ำเสียง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T053453Z" creationid="nathanwatkins" creationdate="20260409T170334Z">
+        <seg>น้ำเสียง</seg>
       </tuv>
     </tu>
     <tu>
@@ -4736,8 +4736,8 @@
       <tuv lang="en-US">
         <seg>Transformational &lt;t0/&gt;i&lt;t1/&gt;ntent &lt;t2/&gt;and &lt;t3/&gt;m&lt;t4/&gt;ood</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170625Z" creationid="nathanwatkins" creationdate="20260409T170625Z">
-        <seg>(MT) เจตนารมณ์ &lt;t0/&gt;ใ&lt;t1/&gt;นการเปลี่ยนแปลง &lt;t2/&gt;และ &lt;t3/&gt;อ&lt;t4/&gt;ารมณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T053501Z" creationid="nathanwatkins" creationdate="20260409T170625Z">
+        <seg>เจตนารมณ์ &lt;t0/&gt;สู่การเปลี่ยนแปลง &lt;t2/&gt;และ &lt;t3/&gt;อ&lt;t4/&gt;ารมณ์</seg>
       </tuv>
     </tu>
     <tu>
