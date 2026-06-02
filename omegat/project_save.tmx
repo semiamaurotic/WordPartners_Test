@@ -1352,8 +1352,8 @@
       <tuv lang="en-US">
         <seg>From your &lt;t0/&gt;n&lt;t1/&gt;arrative &lt;t2/&gt;p&lt;t3/&gt;lotline of the &lt;t4/&gt;b&lt;t5/&gt;ook, how would you describe the introduction, rise in tension, climax, and resolution of the book&lt;t6/&gt;?&lt;t7/&gt; What direction does this story take?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
-        <seg>(MT) จาก&lt;t0/&gt;โ&lt;t1/&gt;ครงเรื่อง&lt;t2/&gt;แ&lt;t3/&gt;ละโครงเรื่องในพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T045206Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
+        <seg>จาก&lt;t0/&gt;เส้นลำดับเหตุการณ์ของพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; ทิศทางโดยรวมของเรื่องราวนี้คืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5376,8 +5376,8 @@
       <tuv lang="en-US">
         <seg>What is the structure of the book of Genesis? &lt;t0/&gt;Review what you discovered about the beginning and end of the book.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T170319Z" creationid="nathanwatkins" creationdate="20260409T170319Z">
-        <seg>(MT) พระธรรมปฐมกาลมีโครงสร้างอย่างไร? &lt;t0/&gt;ให้ทบทวนสิ่งที่คุณได้ค้นพบเกี่ยวกับช่วงเริ่มต้นและช่วงท้ายของพระธรรมเล่มนี้</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T043559Z" creationid="nathanwatkins" creationdate="20260409T170319Z">
+        <seg>พระธรรมปฐมกาลมีโครงสร้างอย่างไร? &lt;t0/&gt;ให้ทบทวนสิ่งที่คุณได้ค้นพบเกี่ยวกับช่วงเริ่มต้นและช่วงท้ายของพระธรรมเล่มนี้</seg>
       </tuv>
     </tu>
     <tu>
