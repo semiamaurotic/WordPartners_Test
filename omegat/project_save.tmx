@@ -2028,8 +2028,8 @@
       <tuv lang="en-US">
         <seg>How have the key themes in the main idea and transformational intent developed through the Bible's story to this point?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ธีม (Theme) ในประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงได้พัฒนาผ่านเรื่องราวของพระคัมภีร์จนไปถึงจุดนี้อย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T034613Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ธีมหลักต่างๆ ที่พบในประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงได้พัฒนาผ่านเรื่องราวของพระคัมภีร์จนไปถึงจุดนี้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2380,16 +2380,16 @@
       <tuv lang="en-US">
         <seg>It helps us see the text and &lt;t0/&gt;the main idea and transformational intent in light &lt;t1/&gt;of the whole Bible.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T072924Z" creationid="nathanwatkins" creationdate="20260409T170742Z">
-        <seg>วิธีที่พระเยซูและสาวกเข้าใจพระคัมภีร์ช่วยให้เราเข้าใจเนื้อหาของพระธรรมตอนนั้นๆ &lt;t0/&gt;รวมถึงประเด็นหลัก และเจตนาสู่การเปลี่ยนแปลงของผู้เขียน โดยมองผ่านมุมมองของ &lt;t1/&gt;พระคัมภีร์ทั้งเล่ม</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T034342Z" creationid="nathanwatkins" creationdate="20260409T170742Z">
+        <seg>ศาสนศาสตร์พระคัมภีร์ช่วยให้เราเข้าใจเนื้อหาของพระธรรมตอนนั้นๆ &lt;t0/&gt;รวมถึงประเด็นหลัก และเจตนาสู่การเปลี่ยนแปลงของผู้เขียน โดยมองผ่านมุมมองของ &lt;t1/&gt;พระคัมภีร์ทั้งเล่ม</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>It helps us to proclaim the glories of Christ and his gospel as the focus and fulfillment of the Scriptures.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T073141Z" creationid="nathanwatkins" creationdate="20260409T170726Z">
-        <seg>ซึ่งช่วยให้เราประกาศพระสิริของพระคริสต์และข่าวประเสริฐของพระองค์ โดยตระหนักว่าพระองค์ทรงเป็นจุดศูนย์กลางและความสำเร็จครบถ้วนของพระคัมภีร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T034358Z" creationid="nathanwatkins" creationdate="20260409T170726Z">
+        <seg>ศาสนศาสตร์พระคัมภีร์ช่วยให้เราประกาศพระสิริของพระคริสต์และข่าวประเสริฐของพระองค์ โดยตระหนักว่าพระองค์ทรงเป็นจุดศูนย์กลางและความสำเร็จครบถ้วนของพระคัมภีร์</seg>
       </tuv>
     </tu>
     <tu>
@@ -5320,8 +5320,8 @@
       <tuv lang="en-US">
         <seg>What is the main idea and transformational intent of this passage or book&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T170740Z">
-        <seg>(MT) ประเด็นหลักและเป้าหมายในการเปลี่ยนแปลงชีวิตของพระธรรมตอนนี้หรือพระธรรมเล่มนี้คืออะไร&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T034435Z" creationid="nathanwatkins" creationdate="20260409T170740Z">
+        <seg>ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของพระธรรมตอนนี้หรือพระธรรมเล่มนี้คืออะไร&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
