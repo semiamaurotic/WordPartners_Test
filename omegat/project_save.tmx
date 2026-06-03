@@ -432,8 +432,8 @@
       <tuv lang="en-US">
         <seg>Aim: Proclaim and shepherd the listeners with the main idea and transformational intent of the author.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>การเล็งเป้า: การเทศนาและอภิบาลผู้ฟังด้วยประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนพระคัมภีร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T080004Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเล็งเป้า: คือการเทศนาและอภิบาลผู้ฟังด้วยประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนพระคัมภีร์</seg>
       </tuv>
     </tu>
     <tu>
@@ -1304,8 +1304,8 @@
       <tuv lang="en-US">
         <seg>Flow: The sermon should flow naturally out of the structure and main idea and transformational intent of the text. Make the author’s point your point.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171436Z">
-        <seg>(MT) ความลื่นไหล: คำเทศนาควรลื่นไหลไปตามโครงสร้าง ประเด็นหลัก และจุดมุ่งหมายเพื่อการเปลี่ยนแปลงชีวิตของเนื้อหาในพระธรรมตอนนั้นอย่างเป็นธรรมชาติ จงสื่อสารประเด็นของผู้เขียนให้เป็นประเด็นของคุณเอง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T080401Z" creationid="nathanwatkins" creationdate="20260409T171436Z">
+        <seg>ความลื่นไหล: คำเทศนาควรลื่นไหลไปตามโครงสร้าง และประเด็นหลัก และเจตนาสู่การเปลี่ยนแปลงของเนื้อหาในพระธรรมตอนนั้นๆ อย่างเป็นธรรมชาติ จงสื่อสารประเด็นของผู้เขียนให้เป็นเหมือนประเด็นของคุณเอง</seg>
       </tuv>
     </tu>
     <tu>
@@ -4578,8 +4578,8 @@
       <tuv lang="en-US">
         <seg>Timing: We must work through the text, utilizing every principle in this booklet, before we can write the sermon.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เวลาและกระบวนการ: เราต้องศึกษาเนื้อหาของพระคัมภีร์อย่างรอบคอบโดยใช้หลักการทั้งหมดเล่มนี้ก่อนที่จะเริ่มลงมือเขียนคำเทศนา</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T080054Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เวลาและกระบวนการ: เราต้องศึกษาเนื้อหาของพระคัมภีร์อย่างรอบคอบโดยใช้หลักการทั้งหมดในคู่มือเล่มนี้ก่อนที่จะเริ่มลงมือเขียนคำเทศนา</seg>
       </tuv>
     </tu>
     <tu>
