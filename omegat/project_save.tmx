@@ -1336,8 +1336,8 @@
       <tuv lang="en-US">
         <seg>Frameworks affect how we read the Bible. When we sit down to study a text, frameworks influence the way we think about God, man, sin, suffering, salvation, and many other things. Some frameworks accurately reflect the biblical text; others do not. We must recognize the distinction between text and framework as well as the influence our frameworks exercise over us.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>กรอบแนวความคิดส่งผลต่อวิธีที่เราอ่านพระคัมภีร์ เมื่อเรานั่งลงเพื่อศึกษาเนื้อหา กรอบแนวความคิดจะมีอิทธิพลต่อวิธีที่เราคิดเกี่ยวกับพระเจ้า มนุษย์ บาป ความทุกข์ ความรอด และอีกหลายเรื่อง กรอบแนวความคิดบางอย่างสะท้อนเนื้อหาพระคัมภีร์ได้อย่างถูกต้อง แต่บางอย่างไม่ใช่ เราจำเป็นต้องตระหนักถึงความแตกต่างระหว่าง “เนื้อหา” กับ “กรอบแนวความคิด” รวมทั้งอิทธิพลที่กรอบแนวความคิดของเรามีต่อเรา</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T063232Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>กรอบแนวความคิดส่งผลต่อวิธีที่เราอ่านพระคัมภีร์ เมื่อเรานั่งลงเพื่อศึกษาเนื้อหาพระคัมภีร์  กรอบแนวความคิดจะมีอิทธิพลต่อวิธีที่เราคิดเกี่ยวกับพระเจ้า มนุษย์ ความบาป ความทุกข์ ความรอด และอีกหลายๆ เรื่อง กรอบแนวความคิดบางอย่างสะท้อนเนื้อหาพระคัมภีร์ได้อย่างถูกต้อง แต่บางอย่างไม่ใช่ เราจำเป็นต้องตระหนักถึงความแตกต่างระหว่าง “เนื้อหา” กับ “กรอบแนวความคิด” รวมทั้งอิทธิพลที่กรอบแนวความคิดของเรามีผลต่อเรา</seg>
       </tuv>
     </tu>
     <tu>
@@ -3950,8 +3950,8 @@
       <tuv lang="en-US">
         <seg>The Bible confronts our frameworks. Text is king! God’s words must rule over and shape our frameworks. How does this happen?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171139Z" creationid="nathanwatkins" creationdate="20260409T171139Z">
-        <seg>(MT) พระคัมภีร์ท้าทายกรอบแนวคิดของเรา ตัวบทพระคัมภีร์ต้องเป็นสิทธิอำนาจสูงสุด! พระวจนะของพระเจ้าต้องครอบครองและหล่อหลอมกรอบแนวคิดของเรา การเปลี่ยนแปลงเช่นนี้จะเกิดขึ้นได้อย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T063416Z" creationid="nathanwatkins" creationdate="20260409T171139Z">
+        <seg>พระคัมภีร์ท้าทายกรอบแนวความคิดของเรา เนื้อหาพระคัมภีร์ต้องมีสิทธิอำนาจสูงสุด! พระวจนะของพระเจ้าต้องครอบครองและหล่อหลอมกรอบแนวความคิดของเรา การเปลี่ยนแปลงเช่นนี้จะเกิดขึ้นได้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4255,8 +4255,8 @@
       <tuv lang="en-US">
         <seg>The text is a passage from the Bible. The framework is our understanding of the way things are and how they work. We must allow the text to challenge and shape our frameworks. &lt;t0/&gt;Then in our preaching, we apply the text to the frameworks of our audience. &lt;t1/&gt;Text is king.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T062821Z" creationid="nathanwatkins" creationdate="20260409T171157Z">
-        <seg>เนื้อหาคือข้อความตอนหนึ่งจากพระคัมภีร์ ส่วนกรอบแนวความคิดคือความเข้าใจในสิ่งต่างๆ ที่เป็นอยู่และวิธีที่สิ่งเหล่านั้นดำเนินไป เราต้องยอมให้เนื้อหาของพระคัมภีร์ท้าทายและหล่อหลอมกรอบแนวความคิดของเราเองเสียก่อน &lt;t0/&gt;หลังจากนั้น เราจึงจะสามารถนำเนื้อหาพระคัมภีร์ดังกล่าวไปปรับเปลี่ยนกรอบแนวคิดของผู้ฟังผ่านคำสอนหรือคำเทศนาของเรา &lt;t1/&gt;เนื้อหาพระคัมภีรเป็นมาตรฐานสูงสุดในการกำหนดวิธีคิดของเรา</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T063324Z" creationid="nathanwatkins" creationdate="20260409T171157Z">
+        <seg>เนื้อหาคือข้อความตอนหนึ่งจากพระคัมภีร์ ส่วนกรอบแนวความคิดคือความเข้าใจในสิ่งต่างๆ ที่เป็นอยู่และวิธีที่สิ่งเหล่านั้นดำเนินไป เราต้องยอมให้เนื้อหาของพระคัมภีร์ท้าทายและหล่อหลอมกรอบแนวความคิดของเราเองเสียก่อน &lt;t0/&gt;หลังจากนั้น เราจึงจะสามารถนำเนื้อหาพระคัมภีร์ดังกล่าวไปปรับเปลี่ยนกรอบแนวคิดของผู้ฟังผ่านคำสอนหรือคำเทศนาของเรา &lt;t1/&gt;เนื้อหาพระคัมภีรมีสิทธิอำนาจสูงสุดในการกำหนดวิธีคิดของเรา</seg>
       </tuv>
     </tu>
     <tu>
