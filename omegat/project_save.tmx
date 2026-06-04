@@ -1088,8 +1088,9 @@
       <tuv lang="en-US">
         <seg>E&lt;t0/&gt;xpository preaching &lt;t1/&gt;means that&lt;t2/&gt; the transformational message of the text of Scripture is the point of the sermon&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="nathanwatkins" creationdate="20260409T171522Z">
-        <seg>(MT) การ&lt;t0/&gt;เทศนาแบบอรรถาธิบาย &lt;t1/&gt;หมายความว่า&lt;t2/&gt;ข่าวสารเพื่อการเปลี่ยนแปลงชีวิตจากเนื้อหาในพระคัมภีร์ คือประเด็นหลักของคำเทศนา&lt;t3/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064850Z" creationid="nathanwatkins" creationdate="20260409T171522Z">
+        <seg>การเทศนาแบบอรรถาธิบายหมายถึงหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตจากข้อความในพระคัมภีร์ เป็นหัวใจของคำเทศนา
+</seg>
       </tuv>
     </tu>
     <tu>
@@ -2476,8 +2477,8 @@
       <tuv lang="en-US">
         <seg>Key elements to be considered for an expository sermon&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171533Z" creationid="nathanwatkins" creationdate="20260409T171533Z">
-        <seg>(MT) องค์ประกอบสำคัญที่ควรพิจารณาสำหรับคำเทศนาแบบอรรถาธิบาย&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064857Z" creationid="nathanwatkins" creationdate="20260409T171533Z">
+        <seg>องค์ประกอบสำคัญที่ควรพิจารณาสำหรับคำเทศนาแบบอรรถาธิบาย&lt;t0/&gt;:&lt;t1/&gt; &lt;t2/&gt;1</seg>
       </tuv>
     </tu>
     <tu>
@@ -3775,8 +3776,8 @@
       <tuv lang="en-US">
         <seg>State the &lt;t0/&gt;main idea &amp; transformational intent&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T030923Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
-        <seg>(MT) ระบุ &lt;t0/&gt;ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง&lt;t1/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T065030Z" creationid="nathanwatkins" creationdate="20260409T171613Z">
+        <seg>ระบุประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
