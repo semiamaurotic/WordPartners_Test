@@ -496,8 +496,8 @@
       <tuv lang="en-US">
         <seg>Application should flow into the closing prayer, asking God to bring about the change &lt;t0/&gt;h&lt;t1/&gt;e desires.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171541Z" creationid="nathanwatkins" creationdate="20260409T171541Z">
-        <seg>(MT) การประยุกต์ใช้ควรนำเข้าสู่คำอธิษฐานปิดท้าย เพื่อทูลขอให้พระเจ้าทรงทำให้เกิดการเปลี่ยนแปลงตามที่&lt;t0/&gt;พระ&lt;t1/&gt;องค์ทรงปรารถนา</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064344Z" creationid="nathanwatkins" creationdate="20260409T171541Z">
+        <seg>การประยุกต์ใช้ควรนำเข้าสู่คำอธิษฐานปิดท้าย เพื่อทูลขอให้พระเจ้าทรงทำให้เกิดการเปลี่ยนแปลงตามที่&lt;t0/&gt;พระ&lt;t1/&gt;องค์ทรงปรารถนา</seg>
       </tuv>
     </tu>
     <tu>
@@ -1080,8 +1080,8 @@
       <tuv lang="en-US">
         <seg>E&lt;t0/&gt;xamples&lt;t1/&gt; or illustrations</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171504Z" creationid="nathanwatkins" creationdate="20260409T171504Z">
-        <seg>(MT) ต&lt;t0/&gt;ัวอย่าง&lt;t1/&gt; หรือภาพประกอบ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064314Z" creationid="nathanwatkins" creationdate="20260409T171504Z">
+        <seg>ต&lt;t0/&gt;ัวอย่าง&lt;t1/&gt; หรือภาพประกอบ</seg>
       </tuv>
     </tu>
     <tu>
@@ -1641,8 +1641,8 @@
       <tuv lang="en-US">
         <seg>Good application considers existing frameworks, current issues, personal circumstances, different age groups&lt;t0/&gt;,&lt;t1/&gt; and personality types&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171521Z" creationid="nathanwatkins" creationdate="20260409T171521Z">
-        <seg>(MT) การประยุกต์ใช้ที่ดีควรคำนึงถึงโครงสร้างทางสังคมที่มีอยู่ ประเด็นปัจจุบัน สถานการณ์ส่วนบุคคล รวมถึงกลุ่มอายุที่หลากหลาย&lt;t0/&gt;,&lt;t1/&gt; และลักษณะบุคลิกภาพที่แตกต่างกัน&lt;t2/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064328Z" creationid="nathanwatkins" creationdate="20260409T171521Z">
+        <seg>การประยุกต์ใช้ที่ดีควรคำนึงถึงโครงสร้างทางสังคมที่มีอยู่ ประเด็นปัจจุบัน สถานการณ์ส่วนบุคคล รวมถึงกลุ่มอายุที่หลากหลาย&lt;t0/&gt;,&lt;t1/&gt; และลักษณะบุคลิกภาพที่แตกต่างกัน&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2148,16 +2148,16 @@
       <tuv lang="en-US">
         <seg>I&lt;t0/&gt;mperatives</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171503Z" creationid="nathanwatkins" creationdate="20260409T171503Z">
-        <seg>(MT) ค&lt;t0/&gt;ำสั่ง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064307Z" creationid="nathanwatkins" creationdate="20260409T171503Z">
+        <seg>ค&lt;t0/&gt;ำสั่ง</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>I&lt;t0/&gt;nstructions</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171505Z" creationid="nathanwatkins" creationdate="20260409T171505Z">
-        <seg>(MT) คำ&lt;t0/&gt;แนะนำ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064300Z" creationid="nathanwatkins" creationdate="20260409T171505Z">
+        <seg>คำ&lt;t0/&gt;แนะนำ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3263,8 +3263,8 @@
       <tuv lang="en-US">
         <seg>Q&lt;t0/&gt;uestions</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T171448Z" creationid="nathanwatkins" creationdate="20260409T171448Z">
-        <seg>(MT) คำ&lt;t0/&gt;ถาม</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T064255Z" creationid="nathanwatkins" creationdate="20260409T171448Z">
+        <seg>คำ&lt;t0/&gt;ถาม</seg>
       </tuv>
     </tu>
     <tu>
