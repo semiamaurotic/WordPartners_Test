@@ -2717,8 +2717,8 @@
       <tuv lang="en-US">
         <seg>No additional restrictions&lt;t0/&gt;:&lt;t1/&gt; You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T071551Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
-        <seg>ไม่มีข้อจำกัดเพิ่มเติม – คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใด ๆ ที่จะจำกัดสิทธิ์ของผู้อื่นในการกระทำสิ่งที่สัญญาอนุญาตนี้อนุญาต</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T050702Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
+        <seg>ห้ามเพิ่มข้อจำกัดเพิ่มเติม: คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใด ๆ ที่จะจำกัดสิทธิ์ของผู้อื่นไม่ให้ใช้สิทธิ์ใด ๆ ที่สัญญาอนุญาตนี้อนุญาต</seg>
       </tuv>
     </tu>
     <tu>
