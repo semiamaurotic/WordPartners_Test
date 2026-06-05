@@ -560,8 +560,8 @@
       <tuv lang="en-US">
         <seg>Attribution&lt;t0/&gt;:&lt;t1/&gt; You must give appropriate credit (to WordPartners), provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T071649Z" creationid="nathanwatkins" creationdate="20260406T103728Z">
-        <seg>การแสดงที่มา – คุณต้องให้เครดิตอย่างเหมาะสม (แก่ WordPartners) โดยให้ลิงก์ไปยังสัญญาอนุญาต และระบุว่ามีการเปลี่ยนแปลงหรือไม่ คุณสามารถทำเช่นนี้ได้ในลักษณะที่สมเหตุสมผล แต่ต้องไม่เป็นไปในลักษณะที่สื่อว่าผู้ให้สิทธิ์รับรองคุณหรือรับรองการใช้งานของคุณ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T045841Z" creationid="nathanwatkins" creationdate="20260406T103728Z">
+        <seg>การแสดงที่มา: คุณต้องให้เครดิตอย่างเหมาะสม (แก่ องค์กรเวิร์ดพาร์ทเนอร์) โดยให้ลิงก์ไปยังสัญญาอนุญาต และระบุว่ามีการเปลี่ยนแปลงหรือไม่ คุณสามารถทำเช่นนี้ได้ในลักษณะที่สมเหตุสมผล แต่ต้องไม่เป็นไปในลักษณะที่สื่อว่าผู้ให้สิทธิ์รับรองคุณหรือรับรองการใช้งานของคุณ</seg>
       </tuv>
     </tu>
     <tu>
@@ -2742,8 +2742,8 @@
       <tuv lang="en-US">
         <seg>Note: &lt;t0/&gt;The licensor cannot revoke these freedoms as long as you follow the license terms.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T103722Z" creationid="nathanwatkins" creationdate="20260406T103722Z">
-        <seg>(ผู้ให้สิทธิ์ไม่สามารถเพิกถอนสิทธิ์เหล่านี้ ตราบใดที่คุณปฏิบัติตามเงื่อนไขของสัญญาอนุญาต)</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T045700Z" creationid="nathanwatkins" creationdate="20260406T103722Z">
+        <seg>หมายเหตุ: ผู้ให้สิทธิ์ไม่สามารถเพิกถอนสิทธิ์เหล่านี้ ตราบใดที่คุณปฏิบัติตามเงื่อนไขของสัญญาอนุญาต</seg>
       </tuv>
     </tu>
     <tu>
@@ -5715,8 +5715,8 @@
       <tuv lang="en-US">
         <seg>WordPartners</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T044653Z" creationid="Angkana Laksa" creationdate="20260407T082311Z">
-        <seg>องค์กรเวิร์ดพาร์ทเนอร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T045729Z" creationid="Angkana Laksa" creationdate="20260407T082311Z">
+        <seg>องค์กรเวิร์ดพาร์ทเนอร์</seg>
       </tuv>
     </tu>
     <tu>
