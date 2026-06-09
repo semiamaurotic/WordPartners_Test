@@ -632,8 +632,8 @@
       <tuv lang="en-US">
         <seg>Below is a spectrum that compares the way language is typically used in several types of &lt;t0/&gt;genre&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260409T110907Z" creationid="nathanwatkins" creationdate="20260409T110907Z">
-        <seg>ด้านล่างนี้คือแผนภูมิแสดงการเปรียบเทียบการใช้ภาษาโดยทั่วไปใน &lt;t0/&gt;ประเภทวรรณกรรม&lt;t1/&gt;หลายประเภท</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T060124Z" creationid="nathanwatkins" creationdate="20260409T110907Z">
+        <seg>ด้านล่างนี้คือแผนภูมิแสดงการเปรียบเทียบการใช้ภาษาโดยทั่วไปใน &lt;t0/&gt;วรรณกรรม&lt;t1/&gt;ประเภทปต่างๆ</seg>
       </tuv>
     </tu>
     <tu>
@@ -3207,8 +3207,8 @@
       <tuv lang="en-US">
         <seg>Propositional</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เป็นข้อความเชิงข้อเสนอ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T060311Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เป็นข้อความเชิงข้อเสนอที่ชัดเจน</seg>
       </tuv>
     </tu>
     <tu>
