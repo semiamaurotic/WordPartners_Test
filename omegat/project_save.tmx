@@ -5211,8 +5211,8 @@
       <tuv lang="en-US">
         <seg>What existing frameworks (worldviews) does this challenge?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260418T063932Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>บทบาทดังกล่าวท้าทายกรอบแนวความคิด (โลกทัศน์) ใดของคุณและผู้ที่คุณดูแล?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T035840Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บทบาทดังกล่าวท้าทายกรอบแนวความคิด (โลกทัศน์) ของผู้ฟังในเรื่องใดบ้าง? </seg>
       </tuv>
     </tu>
     <tu>
@@ -5331,8 +5331,8 @@
       <tuv lang="en-US">
         <seg>What is the main tension or conflict in the story?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072259Z" creationid="Angkana Laksa" creationdate="20260408T072259Z">
-        <seg>ปมขัดแย้งหรือความตึงเครียดหลักในเรื่องนี้คืออะไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T035529Z" creationid="Angkana Laksa" creationdate="20260408T072259Z">
+        <seg>ปมขัดแย้งหลักหรือความตึงเครียดหลักในเรื่องนี้คืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5667,8 +5667,8 @@
       <tuv lang="en-US">
         <seg>Why study this book? Why was it written?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260415T121040Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>ทำไมจึงศึกษาพระธรรมเล่มนี้? ทำไมพระธรรมเล่มนี้จึงถูกเขียนขึ้น?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T035405Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>ทำไมเราจึงศึกษาพระธรรมเล่มนี้? พระธรรมเล่มนี้ถูกเขียนขึ้นเพื่ออะไร?</seg>
       </tuv>
     </tu>
     <tu>
