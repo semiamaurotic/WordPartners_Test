@@ -2999,8 +2999,8 @@
       <tuv lang="en-US">
         <seg>Paying &lt;t0/&gt;A&lt;t1/&gt;ttention to Tone and Mood in &lt;t2/&gt;Historical &lt;t3/&gt;Narrative</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T031008Z" creationid="nathanwatkins" creationdate="20260409T160508Z">
-        <seg>การ&lt;t0/&gt;&lt;t1/&gt;สังเกตน้ำเสียงและอารมณ์ใน&lt;t2/&gt;เรื่องเล่า&lt;t3/&gt;เชิงประวัติศาสตร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T062828Z" creationid="nathanwatkins" creationdate="20260409T160508Z">
+        <seg>การ&lt;t0/&gt;&lt;t1/&gt;สังเกตน้ำเสียงและอารมณ์ใน&lt;t2/&gt;เรื่องเล่า&lt;t3/&gt;ทางประวัติศาสตร์</seg>
       </tuv>
     </tu>
     <tu>
@@ -3944,8 +3944,8 @@
       <tuv lang="en-US">
         <seg>The Author’s &lt;t0/&gt;t&lt;t1/&gt;one and &lt;t2/&gt;m&lt;t3/&gt;ood is closely related to &lt;t4/&gt;g&lt;t5/&gt;enre.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T013930Z" creationid="nathanwatkins" creationdate="20260409T160352Z">
-        <seg> &lt;t0/&gt;น้ำเสียง&lt;t1/&gt;และ&lt;t2/&gt;บรรยากาศ&lt;t3/&gt;ของผู้เขียนมีความสัมพันธ์อย่างใกล้ชิดกับ&lt;t4/&gt;ประเภทวรรณกรรม&lt;t5/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T062854Z" creationid="nathanwatkins" creationdate="20260409T160352Z">
+        <seg> &lt;t0/&gt;น้ำเสียง&lt;t1/&gt;และ&lt;t2/&gt;อารมณ์&lt;t3/&gt;ของผู้เขียนมีความสัมพันธ์อย่างใกล้ชิดกับ&lt;t4/&gt;ประเภทวรรณกรรม&lt;t5/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5003,8 +5003,8 @@
       <tuv lang="en-US">
         <seg>We will practice below answering the kinds of questions we need to ask for understanding &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260423T034336Z" creationid="nathanwatkins" creationdate="20260409T160136Z">
-        <seg>เราจะฝึกตอบคำถามประเภทต่าง ๆ ต่อไปนี้ที่จำเป็นต้องถามเพื่อทำความเข้าใจ&lt;t0/&gt;เรื่อง&lt;t1/&gt;เล่าเชิง&lt;t2/&gt;ประวัติ&lt;t3/&gt;ศาสตร์&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T062808Z" creationid="nathanwatkins" creationdate="20260409T160136Z">
+        <seg>เราจะฝึกตอบคำถามประเภทต่าง ๆ ต่อไปนี้ที่จำเป็นต้องถามเพื่อทำความเข้าใจ&lt;t0/&gt;เรื่อง&lt;t1/&gt;เล่าทาง&lt;t2/&gt;ประวัติ&lt;t3/&gt;ศาสตร์&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
