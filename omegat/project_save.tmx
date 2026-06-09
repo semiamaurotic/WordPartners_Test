@@ -2725,8 +2725,8 @@
       <tuv lang="en-US">
         <seg>No direct route: Often we are tempted to read God’s Word and immediately apply it to our lives. This is a shortcut we must not take.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260428T064233Z" creationid="nathanwatkins" creationdate="20260409T162907Z">
-        <seg>ไม่มีเส้นทางลัด: บ่อยครั้งเรามีแนวโน้มที่จะอ่านพระวจนะของพระเจ้าแล้วนำมาประยุกต์ใช้กับชีวิตของเราทันที เราต้องไม่เลือกใช้ทางลัด</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T074112Z" creationid="nathanwatkins" creationdate="20260409T162907Z">
+        <seg>ไม่มีทางลัด: บ่อยครั้งเรามีแนวโน้มที่จะอ่านพระวจนะของพระเจ้าแล้วนำมาประยุกต์ใช้กับชีวิตของเราทันที เราต้องไม่ใช้ทางลัดแบบนี้ </seg>
       </tuv>
     </tu>
     <tu>
@@ -4433,8 +4433,8 @@
       <tuv lang="en-US">
         <seg>This principle is about the relationship between context and application. Before we can apply the &lt;t0/&gt;text&lt;t1/&gt;, we must carefully observe it in its context. This will help us discover the author’s main idea and transformational intent. Then we can make precise and compelling applications aligned with the author’s intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260509T101903Z" creationid="nathanwatkins" creationdate="20260409T162854Z">
-        <seg>หลักการนี้ว่าด้วยความสัมพันธ์ระหว่างบริบทและการนำไปประยุกต์ใช้ ก่อนที่เราจะนำ &lt;t0/&gt;เนื้อหาในพระคัมภีร์&lt;t1/&gt;ไปประยุกต์ใช้ เราต้องสังเกตเนื้อหานั้นในบริบทของมันอย่างละเอียดรอบคอบเสียก่อน วิธีนี้จะช่วยให้เราค้นพบประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงที่ผู้เขียนต้องการให้เกิดขึ้น จากนั้นเราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำและทรงพลัง โดยตั้งอยู่บนเจตนาของผู้เขียน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T073950Z" creationid="nathanwatkins" creationdate="20260409T162854Z">
+        <seg>หลักการนี้ว่าด้วยความสัมพันธ์ระหว่างบริบทและการนำไปประยุกต์ใช้ ก่อนที่เราจะนำ &lt;t0/&gt;เนื้อหาในพระคัมภีร์&lt;t1/&gt;ไปประยุกต์ใช้ เราต้องสังเกตเนื้อหานั้นในบริบทของมันอย่างละเอียดรอบคอบเสียก่อน วิธีนี้จะช่วยให้เราค้นพบประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียน จากนั้นเราจึงจะสามารถนำไปประยุกต์ใช้ได้อย่างแม่นยำและทรงพลัง โดยตั้งอยู่บนเจตนาของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -5203,8 +5203,8 @@
       <tuv lang="en-US">
         <seg>What does&lt;t0/&gt; it&lt;t1/&gt; &lt;t2/&gt;mean?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260428T061927Z" creationid="nathanwatkins" creationdate="20260409T162812Z">
-        <seg>&lt;t0/&gt;ข้อความนี้&lt;t1/&gt; &lt;t2/&gt;หมายความว่าอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T073905Z" creationid="nathanwatkins" creationdate="20260409T162812Z">
+        <seg>&lt;t0/&gt;หลักการนี้&lt;t1/&gt; &lt;t2/&gt;หมายความว่าอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
