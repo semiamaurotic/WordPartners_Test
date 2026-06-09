@@ -5531,8 +5531,8 @@
       <tuv lang="en-US">
         <seg>Who are all the characters mentioned in the story? What part does each play&lt;t0/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260422T092717Z" creationid="nathanwatkins" creationdate="20260409T113427Z">
-        <seg>ตัวละครทั้งหมดที่กล่าวถึงในเรื่องนี้มีใครบ้าง? แต่ละคนมีบทบาทอย่างไร&lt;t0/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T061807Z" creationid="nathanwatkins" creationdate="20260409T113427Z">
+        <seg>ตัวละครทั้งหมดที่กล่าวถึงในเรื่องนี้มีใครบ้าง? แต่ละตัวละครมีบทบาทอย่างไร&lt;t0/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
