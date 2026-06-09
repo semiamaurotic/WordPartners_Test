@@ -448,8 +448,8 @@
       <tuv lang="en-US">
         <seg>Also read the following passages outside of the book of &lt;t0/&gt;Genesis&lt;t1/&gt;. What relationship do these passages have to the book of &lt;t2/&gt;Genesis&lt;t3/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260416T023035Z" creationid="nathanwatkins" creationdate="20260406T125707Z">
-        <seg>ขอให้อ่านข้อพระคัมภีร์ต่อไปนี้นอกเหนือจากพระธรรมปฐมกาล ข้อเหล่านี้มีความสัมพันธ์กับพระธรรมปฐมกาลอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T040232Z" creationid="nathanwatkins" creationdate="20260406T125707Z">
+        <seg>ขอให้อ่านข้อพระคัมภีร์ต่อไปนี้นอกเหนือจากพระธรรมปฐมกาล ข้อพระคัมภีร์เหล่านี้มีความสัมพันธ์กับพระธรรมปฐมกาลอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1941,8 +1941,8 @@
       <tuv lang="en-US">
         <seg>How does this shape the way we shepherd people?</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>การตอบสนองของผู้ฟังกำหนดแนวทางที่เขาเลี้ยงดูผู้อื่นอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T040024Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การตอบสนองของผู้ฟังจะกำหนดแนวทางที่เขาอภิบาลผู้อื่นอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
