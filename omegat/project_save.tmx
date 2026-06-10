@@ -2653,8 +2653,8 @@
       <tuv lang="en-US">
         <seg>Mood:&lt;t0/&gt; &lt;t1/&gt;The author intentionally uses his tone through the narrative to create a &lt;t2/&gt;mood&lt;t3/&gt; in the reader. This mood is the attitude toward the story and characters with which the author intended the reader to respond. This leads to the author’s intended transformation which is not just our actions but also our attitudes&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260424T033541Z" creationid="nathanwatkins" creationdate="20260409T160349Z">
-        <seg>อารมณ์:&lt;t0/&gt; &lt;t1/&gt;ผู้เขียนจงใจใช้น้ำเสียงในการเล่าเรื่องเพื่อสร้าง &lt;t2/&gt;อารมณ์&lt;t3/&gt; ให้แก่ผู้อ่าน อารมณ์นี้เป็นท่าทีที่ผู้อ่านมีต่อเรื่องราวและตัวละคร ซึ่งผู้เขียนตั้งใจให้ผู้อ่านมีปฏิกิริยาตอบสนอง และนำไปสู่การเปลี่ยนแปลงตามที่ผู้เขียนตั้งใจไว้ ซึ่งไม่ใช่แค่การเปลี่ยนแปลงพฤติกรรมเท่านั้น แต่รวมถึงทัศนคติด้วย&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260610T062742Z" creationid="nathanwatkins" creationdate="20260409T160349Z">
+        <seg>อารมณ์:&lt;t0/&gt; &lt;t1/&gt;ผู้เขียนจงใจใช้น้ำเสียงในการเล่าเรื่องเพื่อสร้าง &lt;t2/&gt;อารมณ์&lt;t3/&gt; ให้แก่ผู้อ่าน อารมณ์นี้เป็นท่าทีหรือปฏิกิริยาตอบสนองที่ผู้เขียนตั้งใจให้ผู้อ่านมีต่อเรื่องราวและตัวละคร และนำไปสู่การเปลี่ยนแปลงตามที่ผู้เขียนตั้งใจไว้ ซึ่งไม่ใช่แค่การเปลี่ยนแปลงพฤติกรรมเท่านั้น แต่รวมถึงทัศนคติด้วย&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
