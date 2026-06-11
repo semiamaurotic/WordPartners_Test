@@ -432,8 +432,8 @@
       <tuv lang="en-US">
         <seg>Aim: Proclaim and shepherd the listeners with the main idea and transformational intent of the author.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T080004Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>การเล็งเป้า: คือการเทศนาและอภิบาลผู้ฟังด้วยประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียนพระคัมภีร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T090443Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>การเล็งเป้า: คือการเทศนาและอภิบาลผู้ฟังด้วยประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -3735,8 +3735,8 @@
       <tuv lang="en-US">
         <seg>Show the structure of the author.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>แสดงโครงสร้างของผู้เขียนพระคัมภีร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T090524Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แสดงโครงสร้างของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -5777,8 +5777,8 @@
       <tuv lang="en-US">
         <seg>Write your introduction and conclusion last. The introduction opens the door to the main idea and transformational intent, and the conclusion provides a summary and final challenge.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>เขียนคำนำและบทสรุปเป็นลำดับสุดท้าย โดยที่คำนำควรเป็นการเปิดประตูเข้าสู่ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง ส่วนบทสรุปควรเป็นการสรุปเนื้อหาและคำท้าทายผู้ฟังเป็นครั้งสุดท้าย</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T090826Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>เขียนคำนำและบทสรุปเป็นลำดับสุดท้าย โดยที่คำนำควรเป็นการเปิดประตูเข้าสู่ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง ส่วนบทสรุปควรเป็นการสรุปเนื้อหาและคำท้าทายผู้ฟังเป็นครั้งสุดท้าย </seg>
       </tuv>
     </tu>
     <tu>
