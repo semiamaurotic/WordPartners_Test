@@ -2309,8 +2309,8 @@
       <tuv lang="en-US">
         <seg>Is it saying less than the author’s main idea? Is it saying more?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T054517Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
-        <seg>สิ่งที่คุณเขียนตกหล่นประเด็นหลักบางอย่างของผู้เขียนหรือไม่ หรือว่าสื่อความหมายเกินเลยไปหรือไม่?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T041153Z" creationid="nathanwatkins" creationdate="20260409T170427Z">
+        <seg>สิ่งที่คุณเขียนตกหล่นประเด็นหลักบางอย่างของผู้เขียนหรือไม่ หรือว่าสื่อสารอะไรเกินเลยไปหรือไม่?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5163,8 +5163,8 @@
       <tuv lang="en-US">
         <seg>What does it capture from the text?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T054223Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>สิ่งที่คุณเขียนสะท้อนประเด็นอะไรจากเนื้อหาพระคัมภีร์ตอนนั้นๆ?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T040951Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>สิ่งที่คุณเขียนสะท้อนสาระสำคัญอะไรจากพระคัมภีร์ตอนนั้นๆ?</seg>
       </tuv>
     </tu>
     <tu>
