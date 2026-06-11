@@ -1917,8 +1917,8 @@
       <tuv lang="en-US">
         <seg>How does this book of the Bible challenge your own frameworks and those in your context?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T073848Z" creationid="nathanwatkins" creationdate="20260409T171334Z">
-        <seg>พระธรรมเล่มนี้ท้าทายกรอบแนวความคิดของคุณเองและกรอบความแนวคิดของผู้คนในบริบทของคุณอย่างไรบ้าง?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T085342Z" creationid="nathanwatkins" creationdate="20260409T171334Z">
+        <seg>พระธรรมเล่มนี้ท้าทายกรอบแนวความคิดของคุณเองและกรอบความแนวคิดของผู้คนในบริบทที่คุณรับใช้อยู่อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2822,8 +2822,8 @@
       <tuv lang="en-US">
         <seg>Now that we have finished the work, let’s ask again, &lt;t0/&gt;Why&lt;t1/&gt; study this book?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T073708Z" creationid="nathanwatkins" creationdate="20260409T171341Z">
-        <seg> เมื่อเราศึกษาพระธรรมเล่มนี้จบแล้ว ให้เราลองกลับมาถามกันอีกครั้งว่า &lt;t0/&gt;ทำไม&lt;t1/&gt;เราจึงต้องศึกษาพระธรรมเล่มนี้?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T085132Z" creationid="nathanwatkins" creationdate="20260409T171341Z">
+        <seg>เมื่อเราศึกษาพระธรรมเล่มนี้จบแล้ว ให้เราลองกลับมาถามกันอีกครั้งว่า &lt;t0/&gt;ทำไม&lt;t1/&gt;เราจึงต้องศึกษาพระธรรมเล่มนี้?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4360,8 +4360,8 @@
       <tuv lang="en-US">
         <seg>This &lt;t0/&gt;session is an important opportunity to reflect on what God is accomplishing through this workshop. We will use a series of questions to think through how &lt;t1/&gt;he &lt;t2/&gt;has challenged us and changed us and what we will do next&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T073511Z" creationid="nathanwatkins" creationdate="20260409T171312Z">
-        <seg>เซสชั่นนี้เป็นโอกาสสำคัญที่่เราจะได้ใคร่ครวญว่าพระเจ้ากำลังทรงกระทำอะไรในชีวิตของเราผ่านเวิร์กช็อปครั่งนี้ เราจะใช้ชุดคำถามต่อไปนี้เพื่อพิจารณาว่า &lt;t1/&gt;พระองค์ &lt;t2/&gt;ทรงท้าทายความคิดของเราและเปลี่ยนแปลงชีวิตเราอย่างไร และเราควรจะทำอะไรต่อไป&lt;t3/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T085110Z" creationid="nathanwatkins" creationdate="20260409T171312Z">
+        <seg>เซสชั่นนี้เป็นโอกาสสำคัญที่่เราจะได้ใคร่ครวญว่าพระเจ้ากำลังทรงกระทำอะไรในชีวิตของเราผ่านเวิร์กช็อปครั่งนี้ เราจะใช้ชุดคำถามต่อไปนี้เพื่อพิจารณาว่า &lt;t1/&gt;พระองค์ &lt;t2/&gt;ทรงท้าทายความคิดของเราและเปลี่ยนแปลงชีวิตของเราอย่างไร และเราควรจะทำอะไรต่อไป&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6001,16 +6001,16 @@
       <tuv lang="en-US">
         <seg>how the exposition shepherds the transformation God intends&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T072923Z" creationid="nathanwatkins" creationdate="20260409T171301Z">
-        <seg>วิธีที่การอรรถาธิบายพระวจนะนำผู้ฟังไปสู่การเปลี่ยนแปลงชีวิตที่พระเจ้าทรงประสงค์อย่างไร&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T085044Z" creationid="nathanwatkins" creationdate="20260409T171301Z">
+        <seg>การอรรถาธิบายพระวจนะนำผู้ฟังไปสู่การเปลี่ยนแปลงชีวิตที่พระเจ้าทรงประสงค์อย่างไร&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>how the exposition unfolds the glories of Christ&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T084955Z" creationid="nathanwatkins" creationdate="20260409T171319Z">
-        <seg>การอรรถาธิบายค่อยๆ เผยให้เห็นพระสิริอันยิ่งใหญ่ของพระคริสต์อย่างไร&lt;t0/&gt;.</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T085007Z" creationid="nathanwatkins" creationdate="20260409T171319Z">
+        <seg>การอรรถาธิบายพระวจนะค่อยๆ เผยให้เห็นพระสิริอันยิ่งใหญ่ของพระคริสต์อย่างไร&lt;t0/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
