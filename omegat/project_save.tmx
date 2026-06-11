@@ -5315,8 +5315,8 @@
       <tuv lang="en-US">
         <seg>What is the author’s general idea? What is the author saying specifically about that idea?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T032539Z" creationid="nathanwatkins" creationdate="20260409T170035Z">
-        <seg>แนวคิดหลักโดยรวมที่ผู้เขียนต้องการสื่อคืออะไร ผู้เขียนกล่าวถึงแนวคิดนั้นอย่างเฉพาะเจาะจงว่าอย่างไรบ้าง?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T015610Z" creationid="nathanwatkins" creationdate="20260409T170035Z">
+        <seg>แนวคิดหลักโดยรวมที่ผู้เขียนต้องการสื่อคืออะไร ผู้เขียนกล่าวถึงแนวคิดนั้นอย่างเฉพาะเจาะจงว่าอย่างไรบ้าง? </seg>
       </tuv>
     </tu>
     <tu>
@@ -5763,8 +5763,8 @@
       <tuv lang="en-US">
         <seg>Write a sentence that communicates this message concisely and completely.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T034802Z" creationid="nathanwatkins" creationdate="20260409T170030Z">
-        <seg>เขียนประโยคที่สื่อสารแนวคิดหลักโดยรวมของผู้เขียนอย่างสั้นกระชับและครบถ้วน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T015403Z" creationid="nathanwatkins" creationdate="20260409T170030Z">
+        <seg>จงเขียนหนึ่งประโยคที่สื่อสารแนวคิดหลักโดยรวมของผู้เขียนอย่างสั้นกระชับและครบถ้วน</seg>
       </tuv>
     </tu>
     <tu>
