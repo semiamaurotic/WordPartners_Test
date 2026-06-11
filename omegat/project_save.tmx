@@ -128,8 +128,8 @@
       <tuv lang="en-US">
         <seg>3. The Text of &lt;t0/&gt;Genesis</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T064752Z" creationid="nathanwatkins" creationdate="20260409T171304Z">
-        <seg>3. เนื้อหาหรือข้อความใน &lt;t0/&gt;พระธรรมปฐมกาล</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T073953Z" creationid="nathanwatkins" creationdate="20260409T171304Z">
+        <seg>3. เนื้อหาใน &lt;t0/&gt;พระธรรมปฐมกาล</seg>
       </tuv>
     </tu>
     <tu>
@@ -1997,8 +1997,8 @@
       <tuv lang="en-US">
         <seg>How has the transformational intent of &lt;t0/&gt;Genesis&lt;t1/&gt; reshaped your frameworks? Put simply, what do you need to change now that God&lt;t2/&gt;’&lt;t3/&gt;s Word has spoken to you?</seg>
       </tuv>
-      <tuv lang="th" changeid="nathanwatkins" changedate="20260406T092911Z" creationid="nathanwatkins" creationdate="20260406T092911Z">
-        <seg>เจตนาสู่การเปลี่ยนแปลงของปฐมกาลได้ปรับกรอบแนวความคิดของคุณเสียใหม่อย่างไร? พูดให้ตรง ๆ ก็คือ คุณจำเป็นต้องเปลี่ยนอะไรบ้าง เมื่อพระวจนะของพระเจ้าได้ตรัสกับคุณแล้ว?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T074020Z" creationid="nathanwatkins" creationdate="20260406T092911Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลงของพระธรรมปฐมกาลได้ปรับกรอบแนวความคิดของคุณเสียใหม่อย่างไรบ้าง? พูดให้ตรง ๆ ก็คือ คุณจำเป็นต้องเปลี่ยนอะไรบ้าง เมื่อพระวจนะของพระเจ้าได้ตรัสกับคุณแล้ว?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2141,8 +2141,8 @@
       <tuv lang="en-US">
         <seg>How would you use the transformational intent of &lt;t0/&gt;Genesis&lt;t1/&gt; to shepherd people in reshaping their frameworks? What specific and compelling applications would you make in your context?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T064952Z" creationid="nathanwatkins" creationdate="20260406T092944Z">
-        <seg>คุณจะใช้เจตนาสู่การเปลี่ยนแปลงของปฐมกาลในการอภิบาลผู้อื่นเพื่อช่วยปรับเปลี่ยนกรอบความคิดของพวกเขาอย่างไร? คุณจะประยุกต์ใช้ในบริบทของคุณอย่างเฉพาะเจาะจงและทรงพลังอย่างไรบ้าง?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T074036Z" creationid="nathanwatkins" creationdate="20260406T092944Z">
+        <seg>คุณจะใช้เจตนาสู่การเปลี่ยนแปลงของพระธรรมปฐมกาลในการอภิบาลผู้อื่นเพื่อช่วยปรับเปลี่ยนกรอบความคิดของพวกเขาอย่างไร? คุณจะประยุกต์ใช้ในบริบทของคุณอย่างเฉพาะเจาะจงและทรงพลังอย่างไรบ้าง?</seg>
       </tuv>
     </tu>
     <tu>
@@ -3247,9 +3247,8 @@
       <tuv lang="en-US">
         <seg>Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon. Expository preaching and teaching seek to proclaim the author’s message with his purpose and tone, showing how it unfolds the glories of Christ, in order to shepherd the transformation God intends.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T070030Z" creationid="nathanwatkins" creationdate="20260409T171319Z">
-        <seg>กล่าวอย่างง่ายคือ การเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตซึ่งอยู่ในข้อความในพระคัมภีร์เป็นประเด็นหลักของคำเทศนา
-การเทศนาและการสอนแบบอรรถาธิบายมุ่งที่จะประกาศสารที่ผู้เขียนพระคัมภีร์ต้องการสื่อ โดยรักษาจุดประสงค์และน้ำเสียงของผู้เขียนไว้ พร้อมทั้งแสดงให้เห็นว่าสารนั้นเผยให้เห็นพระสิริของพระคริสต์อย่างไร โดยมีเป้าหมายเพื่ออภิบาลผู้คนไปสู่การเปลี่ยนแปลงชีวิตตามที่พระเจ้าทรงประสงค์                                  </seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T074251Z" creationid="nathanwatkins" creationdate="20260409T171319Z">
+        <seg>กล่าวง่ายๆ ได้ว่า การเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารแห่งการเปลี่ยนแปลงชีวิตซึ่งอยู่ในพระธรรมตอนนั้นๆ เป็นจุดศูนย์กลางของคำเทศนา การเทศนาและการสอนแบบอรรถาธิบายมุ่งที่จะประกาศสารที่ผู้เขียนพระคัมภีร์ต้องการสื่อ โดยรักษาจุดประสงค์และน้ำเสียงของผู้เขียนไว้ พร้อมทั้งแสดงให้เห็นว่าสารนั้นเผยให้เห็นพระสิริของพระคริสต์อย่างไร โดยมีเป้าหมายเพื่ออภิบาลผู้คนไปสู่การเปลี่ยนแปลงชีวิตตามที่พระเจ้าทรงประสงค์                                  </seg>
       </tuv>
     </tu>
     <tu>
