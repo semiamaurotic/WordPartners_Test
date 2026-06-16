@@ -1072,8 +1072,8 @@
       <tuv lang="en-US">
         <seg>E&lt;t0/&gt;dition&lt;t1/&gt; 5.0 –&lt;t2/&gt; &lt;t3/&gt;[Translator, please replace this red text with the name of&lt;t4/&gt; the&lt;t5/&gt; language you are translating this material into]</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T044443Z" creationid="nathanwatkins" creationdate="20260407T103204Z">
-        <seg>&lt;t0/&gt;ฉบับ&lt;t1/&gt; 5.0 –&lt;t2/&gt;&lt;t3/&gt;[โปรดแทนที่ข้อความสีแดงนี้ด้วยชื่อของภาษาที่คุณกำลังแปลเนื้อหานี้]</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260616T065543Z" creationid="nathanwatkins" creationdate="20260407T103204Z">
+        <seg>&lt;t0/&gt;ฉบับภาษ	าไทย</seg>
       </tuv>
     </tu>
     <tu>
