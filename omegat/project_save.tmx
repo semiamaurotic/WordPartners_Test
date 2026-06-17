@@ -1072,8 +1072,8 @@
       <tuv lang="en-US">
         <seg>E&lt;t0/&gt;dition&lt;t1/&gt; 5.0 –&lt;t2/&gt; &lt;t3/&gt;[Translator, please replace this red text with the name of&lt;t4/&gt; the&lt;t5/&gt; language you are translating this material into]</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260616T065543Z" creationid="nathanwatkins" creationdate="20260407T103204Z">
-        <seg>&lt;t0/&gt;ฉบับภาษ	าไทย</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T015837Z" creationid="nathanwatkins" creationdate="20260407T103204Z">
+        <seg>ฉบับ&lt;t0/&gt; 5.0 – ภาษ	าไทย</seg>
       </tuv>
     </tu>
     <tu>
@@ -4761,8 +4761,8 @@
       <tuv lang="en-US">
         <seg>Translated by &lt;t0/&gt;[Translator, please replace this red text with your name&lt;t1/&gt;.&lt;t2/&gt;]</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260616T070132Z" creationid="nathanwatkins" creationdate="20260407T103149Z">
-        <seg>แปลโดย&lt;t0/&gt;[                        ]&lt;t1/&gt;.&lt;t2/&gt;]</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T021120Z" creationid="nathanwatkins" creationdate="20260407T103149Z">
+        <seg>แปลโดย&lt;t0/&gt; [                        ]&lt;t1/&gt;&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
