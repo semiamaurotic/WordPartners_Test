@@ -1885,8 +1885,8 @@
       <tuv lang="en-US">
         <seg>How does the story begin and end? How does the story unfold?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072231Z" creationid="Angkana Laksa" creationdate="20260408T072231Z">
-        <seg>เรื่องราวเริ่มต้นและจบลงอย่างไร และดำเนินไปอย่างไร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T072241Z" creationid="Angkana Laksa" creationdate="20260408T072231Z">
+        <seg>เรื่องราวเริ่มต้นและจบลงอย่างไร และดำเนินไปอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5361,8 +5361,8 @@
       <tuv lang="en-US">
         <seg>What is the setting?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260408T072130Z" creationid="Angkana Laksa" creationdate="20260408T072130Z">
-        <seg>เนื้อเรื่องคืออะไร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T071920Z" creationid="Angkana Laksa" creationdate="20260408T072130Z">
+        <seg>เนื้อเรื่องคืออะไร?</seg>
       </tuv>
     </tu>
     <tu>
