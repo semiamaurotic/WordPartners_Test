@@ -824,8 +824,8 @@
       <tuv lang="en-US">
         <seg>Consider the entire overarching story of Genesis and answer the following questions according to the features of &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260509T102638Z" creationid="nathanwatkins" creationdate="20260409T162446Z">
-        <seg>พิจารณาภาพรวมของเรื่องราวทั้งหมดในพระธรรมปฐมกาล และตอบคำถามต่อไปนี้ตามลักษณะของ &lt;t0/&gt;&lt;t1/&gt;เรื่องเล่า&lt;t2/&gt;&lt;t3/&gt;ทางประวัติศาสตร์&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T085854Z" creationid="nathanwatkins" creationdate="20260409T162446Z">
+        <seg>พิจารณาภาพรวมของเรื่องราวทั้งหมดในพระธรรมปฐมกาล และตอบคำถามต่อไปนี้ตามลักษณะของเรื่องเล่า&lt;t2/&gt;&lt;t3/&gt;ทางประวัติศาสตร์&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -4183,8 +4183,8 @@
       <tuv lang="en-US">
         <seg>The plotline of the story will reveal its general structure. Begin by comparing the beginning and the end to see where the author is taking you.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T064018Z" creationid="nathanwatkins" creationdate="20260409T162514Z">
-        <seg>เส้นลำดับเหตุการณ์จะเผยให้เห็นโครงสร้างโดยรวมของเรื่อง โดยเริ่มจากการเปรียบเทียบตอนต้นกับตอนจบ เพื่อดูว่าผู้เขียนกำลังนำพาคุณไปในทิศทางใด</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T090233Z" creationid="nathanwatkins" creationdate="20260409T162514Z">
+        <seg>เส้นโครงเรื่องหรือเส้นลำดับเหตุการณ์จะเผยให้เห็นโครงสร้างโดยรวมของเรื่อง โดยเริ่มจากการเปรียบเทียบตอนต้นกับตอนจบ เพื่อให้เห็นว่าผู้เขียนกำลังนำพาคุณไปในทิศทางใด</seg>
       </tuv>
     </tu>
     <tu>
@@ -4328,8 +4328,8 @@
       <tuv lang="en-US">
         <seg>These laws give instructions for life in God’s kingdom, reflect God’s character and purposes, and, when kept, display the relationship between God and his people.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T063910Z" creationid="nathanwatkins" creationdate="20260409T162425Z">
-        <seg>ธรรมบัญญัติเหล่านี้ให้แนวทางสำหรับการดำเนินชีวิตของประชากรในแผ่นดินของพระเจ้า สะท้อนให้เห็นถึงพระลักษณะและพระประสงค์ของพระองค์ เมื่อเมื่อประชากรของพระองค์เชื่อฟังและปฏิบัติตาม ก็จะสำแดงให้เห็นถึงความสัมพันธ์ระหว่างพระเจ้ากับประชากรของพระองค์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T085809Z" creationid="nathanwatkins" creationdate="20260409T162425Z">
+        <seg>ธรรมบัญญัติเหล่านี้ให้แนวทางสำหรับการดำเนินชีวิตของประชากรในแผ่นดินของพระเจ้า สะท้อนให้เห็นถึงพระลักษณะและพระประสงค์ของพระองค์ เมื่อประชากรของพระองค์เชื่อฟังและปฏิบัติตาม ก็จะสำแดงให้เห็นถึงความสัมพันธ์ระหว่างพระเจ้ากับประชากรของพระองค์</seg>
       </tuv>
     </tu>
     <tu>
