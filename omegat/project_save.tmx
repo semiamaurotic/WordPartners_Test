@@ -632,8 +632,8 @@
       <tuv lang="en-US">
         <seg>Below is a spectrum that compares the way language is typically used in several types of &lt;t0/&gt;genre&lt;t1/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260610T062027Z" creationid="nathanwatkins" creationdate="20260409T110907Z">
-        <seg>ด้านล่างนี้เป็นแผนภูมิแสดงการเปรียบเทียบการใช้ภาษาโดยทั่วไปใน &lt;t0/&gt;วรรณกรรม&lt;t1/&gt;ประเภทต่างๆ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T075637Z" creationid="nathanwatkins" creationdate="20260409T110907Z">
+        <seg>ด้านล่างนี้เป็นแผนภูมิแสดงการเปรียบเทียบการใช้ภาษาโดยทั่วไปในวรรณกรรม&lt;t1/&gt;ประเภทต่างๆ</seg>
       </tuv>
     </tu>
     <tu>
