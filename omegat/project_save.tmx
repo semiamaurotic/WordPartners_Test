@@ -1749,8 +1749,8 @@
       <tuv lang="en-US">
         <seg>Historical</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T060602Z" creationid="nathanwatkins" creationdate="20260409T112435Z">
-        <seg>ทางประวัติศาสตร์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T084430Z" creationid="nathanwatkins" creationdate="20260409T112435Z">
+        <seg>ประวัติศาสตร์</seg>
       </tuv>
     </tu>
     <tu>
@@ -4199,8 +4199,8 @@
       <tuv lang="en-US">
         <seg>The primary Genre of Genesis is narrative. It is historical in nature. &lt;t0/&gt;So&lt;t1/&gt; we call its genre &lt;t2/&gt;Historical Narrative. &lt;t3/&gt;What are the characteristics of Historical Narrative books in the Bible?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T085251Z" creationid="nathanwatkins" creationdate="20260409T111032Z">
-        <seg>รูปแบบวรรณกรรมหลักของปฐมกาลคือเรื่องเล่า มีลักษณะเป็นประวัติศาสตร์ &lt;t0/&gt;ดังนั้น&lt;t1/&gt;เราจึงเรียกประเภทวรรณกรรมนี้ว่า &lt;t2/&gt;เรื่องเล่าทางประวัติศาสตร์ &lt;t3/&gt;พระธรรมประเภท “เรื่องเล่าทางประวัติศาสตร์” ในพระคัมภีร์มีลักษณะอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T084219Z" creationid="nathanwatkins" creationdate="20260409T111032Z">
+        <seg>รูปแบบวรรณกรรมหลักของพระะรรมปฐมกาลคือ เรื่องเล่า มีลักษณะเป็นประวัติศาสตร์ &lt;t0/&gt;ดังนั้น&lt;t1/&gt;เราจึงเรียกประเภทวรรณกรรมนี้ว่า &lt;t2/&gt;เรื่องเล่าทางประวัติศาสตร์ &lt;t3/&gt;พระธรรมประเภท “เรื่องเล่าทางประวัติศาสตร์” ในพระคัมภีร์มีลักษณะอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
