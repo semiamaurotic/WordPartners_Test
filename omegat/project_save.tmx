@@ -4272,8 +4272,8 @@
       <tuv lang="en-US">
         <seg>The units of thought immediately before and after the passage. Ask, &lt;t0/&gt;“&lt;t1/&gt;Why does the author say this &lt;t2/&gt;here?&lt;t3/&gt;”&lt;t4/&gt; How does what he says before and after this passage connect to this passage? How &lt;t5/&gt;does it develop his larger main idea?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260506T045017Z" creationid="nathanwatkins" creationdate="20260409T162912Z">
-        <seg>พิจารณาหน่วยความคิดที่อยู่หน้าและหลังข้อความโดยตรง แล้วถามว่า &lt;t0/&gt;“&lt;t1/&gt;ทำไมผู้เขียนถึงกล่าวข้อความนี้ &lt;t2/&gt;ไว้ตรงนี้?&lt;t3/&gt;”&lt;t4/&gt; สิ่งที่ผู้เขียนกล่าวก่อนและหลังข้อความนี้เชื่อมโยงกับข้อความนี้อย่างไร? และจะ&lt;t5/&gt;ช่วยขยายประเด็นหลักของผู้เขียนให้ชัดเจนขึ้นอย่างไร?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T092832Z" creationid="nathanwatkins" creationdate="20260409T162912Z">
+        <seg>พิจารณาหน่วยความคิดที่อยู่ก่อนหน้าและถัดจากพระธรรมตอนนี้ีโดยตรง แล้วถามว่า &lt;t0/&gt;“&lt;t1/&gt;ทำไมผู้เขียนถึงกล่าวข้อความนี้ไว้ตรงนี้?&lt;t3/&gt;”&lt;t4/&gt; สิ่งที่ผู้เขียนกล่าวก่อนและหลังข้อความนี้เชื่อมโยงกับข้อความนี้อย่างไร? และจะ&lt;t5/&gt;ช่วยขยายประเด็นหลักของผู้เขียนให้ชัดเจนขึ้นอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
