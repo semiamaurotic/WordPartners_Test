@@ -128,8 +128,8 @@
       <tuv lang="en-US">
         <seg>3. The Text of &lt;t0/&gt;Genesis</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T073953Z" creationid="nathanwatkins" creationdate="20260409T171304Z">
-        <seg>3. เนื้อหาใน &lt;t0/&gt;พระธรรมปฐมกาล</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T041600Z" creationid="nathanwatkins" creationdate="20260409T171304Z">
+        <seg>3. เนื้อหาใน&lt;t0/&gt;พระธรรมปฐมกาล</seg>
       </tuv>
     </tu>
     <tu>
@@ -2269,16 +2269,16 @@
       <tuv lang="en-US">
         <seg>In the second column&lt;t0/&gt;,&lt;t1/&gt; identify the frameworks you have about each theme. What frameworks does your church have? What frameworks does your culture have&lt;t2/&gt;?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T073938Z" creationid="nathanwatkins" creationdate="20260409T171205Z">
-        <seg>ในคอลัมน์ที่สอง&lt;t0/&gt;&lt;t1/&gt;ให้ระบุกรอบแนวความคิดที่คุณมีต่อแต่ละธีม คริสตจักรของคุณมีกรอบแนวความคิดอย่างไร? และวัฒนธรรมของคุณมีกรอบแนวความคิดอย่างไรบ้าง&lt;t2/&gt;?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T040453Z" creationid="nathanwatkins" creationdate="20260409T171205Z">
+        <seg>ในคอลัมน์ที่สอง&lt;t0/&gt;&lt;t1/&gt; ขอให้ระบุกรอบแนวความคิดที่คุณมีต่อแต่ละธีม คริสตจักรของคุณมีกรอบแนวความคิดอย่างไร? และวัฒนธรรมของคุณมีกรอบแนวความคิดอย่างไรบ้าง&lt;t2/&gt;?</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>In the third column&lt;t0/&gt;,&lt;t1/&gt; identify the texts in &lt;t2/&gt;Genesis&lt;t3/&gt; that confront the unbiblical frameworks or confirm the biblical frameworks in column two&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T064655Z" creationid="nathanwatkins" creationdate="20260409T171224Z">
-        <seg>ในคอลัมน์ที่สาม&lt;t0/&gt;&lt;t1/&gt;ให้ระบุข้อพระคัมภีร์ใน&lt;t2/&gt;ปฐมกาล&lt;t3/&gt;ที่โต้แย้งกรอบแนวความคิดที่ไม่สอดคล้องกับหลักการพระคัมภีร์ หรือยืนยันกรอบแนวความคิดที่สอดคล้องกับหลักการพระคัมภีร์ในคอลัมน์ที่สอง&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T040524Z" creationid="nathanwatkins" creationdate="20260409T171224Z">
+        <seg>ในคอลัมน์ที่สาม &lt;t0/&gt;&lt;t1/&gt;ให้ระบุข้อพระคัมภีร์ใน&lt;t2/&gt;ปฐมกาล&lt;t3/&gt;ที่โต้แย้งกรอบแนวความคิดที่ไม่สอดคล้องกับหลักการพระคัมภีร์ หรือยืนยันกรอบแนวความคิดที่สอดคล้องกับหลักการพระคัมภีร์ในคอลัมน์ที่สอง&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
