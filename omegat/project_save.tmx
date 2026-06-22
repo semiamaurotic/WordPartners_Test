@@ -1345,16 +1345,16 @@
       <tuv lang="en-US">
         <seg>From what you discovered in the genre and structure of the book, write down a summary sentence for the&lt;t0/&gt; . . .</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260602T050709Z" creationid="nathanwatkins" creationdate="20260409T170357Z">
-        <seg>จากสิ่งที่คุณค้นพบเกี่ยวกับประเภทวรรณกรรมและโครงสร้างของพระธรรมเล่มนี้ ขอให้คุณเขียนประโยคสรุปสำหรับ&lt;t0/&gt; . . .</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T022526Z" creationid="nathanwatkins" creationdate="20260409T170357Z">
+        <seg>จากสิ่งที่คุณค้นพบเกี่ยวกับประเภทวรรณกรรมและโครงสร้างของพระธรรมเล่มนี้ ขอให้คุณเขียนประโยคสรุปเกี่ยวกับ&lt;t0/&gt; . . .</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>From your &lt;t0/&gt;n&lt;t1/&gt;arrative &lt;t2/&gt;p&lt;t3/&gt;lotline of the &lt;t4/&gt;b&lt;t5/&gt;ook, how would you describe the introduction, rise in tension, climax, and resolution of the book&lt;t6/&gt;?&lt;t7/&gt; What direction does this story take?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T040458Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
-        <seg>จาก&lt;t0/&gt;โครงเรื่องหรือลำดับเหตุการณ์ของพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; แล้วเรื่องราวทั้งหมดกำลังมุ่งไปในทิศทางใด?</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T022414Z" creationid="nathanwatkins" creationdate="20260409T170417Z">
+        <seg>จาก&lt;t0/&gt;เส้นโครงเรื่องหรือเส้นลำดับเหตุการณ์ของพระธรรมปฐมกาลที่คุณได้ศึกษามา คุณจะอธิบายบทนำ ความตึงเครียดที่ทวีขึ้น จุดไคลแมกซ์ และจุดคลี่คลายของ&lt;t4/&gt;พ&lt;t5/&gt;ระธรรม&lt;t6/&gt;เล่มนี้อย่างไร?&lt;t7/&gt; แล้วเรื่องราวทั้งหมดกำลังมุ่งไปในทิศทางใด?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4737,8 +4737,8 @@
       <tuv lang="en-US">
         <seg>Transformational &lt;t0/&gt;i&lt;t1/&gt;ntent &lt;t2/&gt;and &lt;t3/&gt;m&lt;t4/&gt;ood</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T040545Z" creationid="nathanwatkins" creationdate="20260409T170625Z">
-        <seg>เจตนาสู่การเปลี่ยนแปลง &lt;t2/&gt;และ &lt;t3/&gt;อ&lt;t4/&gt;ารมณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T022622Z" creationid="nathanwatkins" creationdate="20260409T170625Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลง&lt;t2/&gt;และ&lt;t3/&gt;อ&lt;t4/&gt;ารมณ์</seg>
       </tuv>
     </tu>
     <tu>
