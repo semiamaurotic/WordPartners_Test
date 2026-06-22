@@ -5833,8 +5833,8 @@
       <tuv lang="en-US">
         <seg>[Translator, this page has been intentionally left blank so a chart &lt;t0/&gt;can&lt;t1/&gt; be inserted &lt;t2/&gt;here &lt;t3/&gt;later.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T065135Z" creationid="nathanwatkins" creationdate="20260409T171740Z">
-        <seg>[สำหรับผู้แปล: หน้านี้ตั้งใจเว้นว่างไว้เพื่อให้แผนภูมิ &lt;t0/&gt;สามารถ&lt;t1/&gt;นำมาแทรก &lt;t2/&gt;ที่นี่ &lt;t3/&gt;ในภายหลัง.</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T055107Z" creationid="nathanwatkins" creationdate="20260409T171740Z">
+        <seg>[หน้านี้เว้นว่างไว้เพื่อให้สามารถแทรกแผนภูมิได้ในภายหลัง]</seg>
       </tuv>
     </tu>
     <tu>
