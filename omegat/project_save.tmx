@@ -2533,8 +2533,8 @@
       <tuv lang="en-US">
         <seg>Main &lt;t0/&gt;i&lt;t1/&gt;dea &lt;t2/&gt;&amp;&lt;t3/&gt; &lt;t4/&gt;t&lt;t5/&gt;ransformational &lt;t6/&gt;i&lt;t7/&gt;ntent</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T065108Z" creationid="nathanwatkins" creationdate="20260409T171753Z">
-        <seg>ประเด็นหลัก &lt;t2/&gt;และ&lt;t3/&gt; &lt;t4/&gt;เ&lt;t5/&gt;จตนาสู่การเปลี่ยนแปลง</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T054616Z" creationid="nathanwatkins" creationdate="20260409T171753Z">
+        <seg>ประเด็นหลัก&lt;t2/&gt;และ&lt;t3/&gt;&lt;t4/&gt;เ&lt;t5/&gt;จตนาสู่การเปลี่ยนแปลง</seg>
       </tuv>
     </tu>
     <tu>
@@ -4673,8 +4673,8 @@
       <tuv lang="en-US">
         <seg>Tone&lt;t0/&gt; and mood</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T065124Z" creationid="nathanwatkins" creationdate="20260409T171604Z">
-        <seg>น้ำเสียง&lt;t0/&gt; และอารมณ์</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T054858Z" creationid="nathanwatkins" creationdate="20260409T171604Z">
+        <seg>น้ำเสียง&lt;t0/&gt;และอารมณ์</seg>
       </tuv>
     </tu>
     <tu>
