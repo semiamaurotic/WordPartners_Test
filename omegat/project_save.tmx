@@ -712,8 +712,8 @@
       <tuv lang="en-US">
         <seg>Carefully select &lt;t0/&gt;material that will help you to state, explain, and apply the main idea and transformational intent and structure of the text.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T062515Z" creationid="nathanwatkins" creationdate="20260409T171439Z">
-        <seg>จงคัดสรร&lt;t0/&gt;เนื้อหาอย่างรอบคอบเพื่อช่วยให้คุณสามารถระบุ อธิบาย และประยุกต์ใช้ประเด็นหลัก เจตนาสู่การเปลี่ยนแปลง และโครงสร้างของพระคัมภีร์ตอนนั้นๆ ได้อย่างชัดเจน</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T053737Z" creationid="nathanwatkins" creationdate="20260409T171439Z">
+        <seg>จงคัดสรร&lt;t0/&gt;เนื้อหาอย่างรอบคอบเพื่อช่วยให้คุณสามารถระบุ อธิบาย และประยุกต์ใช้ประเด็นหลัก เจตนาสู่การเปลี่ยนแปลง และโครงสร้างของเนื้อหาพระคัมภีร์ตอนนั้นๆ ได้อย่างชัดเจน</seg>
       </tuv>
     </tu>
     <tu>
@@ -816,8 +816,8 @@
       <tuv lang="en-US">
         <seg>Consider how the main idea and transformational intent of the text relates to biblical theology and leads us to proclaim Christ.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260413T074535Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>พิจารณาว่าประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของพระคัมภีร์ตอนนั้นๆ เชื่อมโยงกับหลักศาสนศาสตร์พระคัมภีร์อย่างไร และนำเราไปสู่การประกาศพระคริสต์ได้อย่างไร</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T053640Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>พิจารณาว่าประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของเนื้อหาพระคัมภีร์ตอนนั้นๆ เชื่อมโยงกับหลักศาสนศาสตร์พระคัมภีร์อย่างไร และนำเราไปสู่การประกาศพระคริสต์ได้อย่างไร</seg>
       </tuv>
     </tu>
     <tu>
@@ -3143,8 +3143,8 @@
       <tuv lang="en-US">
         <seg>Precise and compelling application flows from and is shaped&lt;t0/&gt; &lt;t1/&gt;by the &lt;t2/&gt;main idea and transformational intent&lt;t3/&gt;. Ask, &lt;t4/&gt;“&lt;t5/&gt;In light of this, how should we respond? What would it actually look like for the author&lt;t6/&gt;’s&lt;t7/&gt; tone, main idea&lt;t8/&gt;,&lt;t9/&gt; and transformational intent to be at work in our lives?&lt;t10/&gt;”</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260604T063802Z" creationid="nathanwatkins" creationdate="20260409T171511Z">
-        <seg>การประยุกต์ใช้ที่ชัดเจน ตรงประเด็น และทรงพลังนั้นควรถูกหล่อหลอมและไหลออกมาจาก&lt;t0/&gt; &lt;t1/&gt;&lt;t2/&gt;ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง&lt;t3/&gt;ให้คุณลองถามว่า &lt;t4/&gt;“&lt;t5/&gt;เมื่อเราเรียนรู้อย่างนี้แล้ว เราควรตอบสนองอย่างไร? หากน้ำเสียง ประเด็นหลัก&lt;t8/&gt;&lt;t9/&gt;และเจตนาสู่การเปลี่ยนแปลงของ&lt;t6/&gt;ผู้เขียน&lt;t7/&gt;ส่งผลต่อชีวิตของเราจริงๆ ความคิด ท่าที และการกระทำของเราจะเปลี่ยนไปอย่างไร?”&lt;t10/&gt;”</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T053843Z" creationid="nathanwatkins" creationdate="20260409T171511Z">
+        <seg>การประยุกต์ใช้ที่ชัดเจน ตรงประเด็น และทรงพลังนั้นควรถูกหล่อหลอมและไหลออกมาจาก&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;ประเด็นหลักและเจตนาสู่การเปลี่ยนแปลง&lt;t3/&gt; ให้คุณลองถามว่า &lt;t4/&gt;“&lt;t5/&gt;เมื่อเราเรียนรู้อย่างนี้แล้ว เราควรตอบสนองอย่างไร? หากน้ำเสียง ประเด็นหลัก&lt;t8/&gt;&lt;t9/&gt;และเจตนาสู่การเปลี่ยนแปลงของ&lt;t6/&gt;ผู้เขียน&lt;t7/&gt;ส่งผลต่อชีวิตของเราจริงๆ ความคิด ท่าที และการกระทำของเราจะเปลี่ยนไปอย่างไร?”&lt;t10/&gt;</seg>
       </tuv>
     </tu>
     <tu>
