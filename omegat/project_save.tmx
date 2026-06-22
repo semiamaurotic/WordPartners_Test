@@ -584,8 +584,8 @@
       <tuv lang="en-US">
         <seg>Before answering the questions below, you will want to review the explanation of Structure in Sessions 1, 4, 6, and 7. Please also review the discussions on &lt;t0/&gt;g&lt;t1/&gt;enealogies, &lt;t2/&gt;l&lt;t3/&gt;aw, and Tone &amp; Mood in Session 1.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T040106Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
-        <seg>ก่อนที่จะตอบคำถามต่อไปนี้ คุณควรทบทวนคำอธิบายเรื่องโครงสร้างในเซสชั่นที่ 1, 4, 6 และ 7 อีกทั้ง ทบทวนเนื้อหาเกี่ยวกับ &lt;t0/&gt;ล&lt;t1/&gt;ำดับเชื้อสาย &lt;t2/&gt;ธ&lt;t3/&gt;รรมบัญญัติ รวมถึงเรื่องน้ำเสียงและอารมณ์ในเซสชั่นที่ 1 ด้วย</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T022331Z" creationid="nathanwatkins" creationdate="20260409T170406Z">
+        <seg>ก่อนที่จะตอบคำถามต่อไปนี้ คุณควรทบทวนคำอธิบายเรื่องโครงสร้างในเซสชั่นที่ 1, 4, 6 และ 7 อีกทั้งทบทวนเนื้อหาเกี่ยวกับ&lt;t0/&gt;ล&lt;t1/&gt;ำดับเชื้อสาย &lt;t2/&gt;ธ&lt;t3/&gt;รรมบัญญัติ รวมถึงเรื่องน้ำเสียงและอารมณ์ในเซสชั่นที่ 1 ด้วย</seg>
       </tuv>
     </tu>
     <tu>
@@ -5921,8 +5921,8 @@
       <tuv lang="en-US">
         <seg>consider why the practice of this principle is important&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T034614Z" creationid="nathanwatkins" creationdate="20260409T170322Z">
-        <seg>พิจารณาว่าเหตุใดการนำหลักการนี้ไปปฏิบัติจึงมีความสำคัญ&lt;t0/&gt;.</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T022147Z" creationid="nathanwatkins" creationdate="20260409T170322Z">
+        <seg>พิจารณาว่าเหตุใดการนำหลักการนี้ไปปฏิบัติจึงมีความสำคัญ&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -6329,8 +6329,8 @@
       <tuv lang="en-US">
         <seg>understand, identify, and state the main idea and transformational intent&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260507T033206Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
-        <seg>ทำความเข้าใจ ระบุ และสรุปประเด็นหลัก รวมถึงเจตนาสู่การเปลี่ยนแปลง
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T022050Z" creationid="nathanwatkins" creationdate="20260409T170326Z">
+        <seg>ทำความเข้าใจ ระบุ และสรุปประเด็นหลักรวมถึงเจตนาสู่การเปลี่ยนแปลง
 &lt;t0/&gt;</seg>
       </tuv>
     </tu>
