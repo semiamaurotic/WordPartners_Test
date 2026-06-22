@@ -2758,8 +2758,8 @@
       <tuv lang="en-US">
         <seg>Notes</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260618T045751Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>หมายเหตุ</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T044719Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>บันทึก</seg>
       </tuv>
     </tu>
     <tu>
@@ -4360,8 +4360,8 @@
       <tuv lang="en-US">
         <seg>This &lt;t0/&gt;session is an important opportunity to reflect on what God is accomplishing through this workshop. We will use a series of questions to think through how &lt;t1/&gt;he &lt;t2/&gt;has challenged us and changed us and what we will do next&lt;t3/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T085110Z" creationid="nathanwatkins" creationdate="20260409T171312Z">
-        <seg>เซสชั่นนี้เป็นโอกาสสำคัญที่่เราจะได้ใคร่ครวญว่าพระเจ้ากำลังทรงกระทำอะไรในชีวิตของเราผ่านเวิร์กช็อปครั่งนี้ เราจะใช้ชุดคำถามต่อไปนี้เพื่อพิจารณาว่า &lt;t1/&gt;พระองค์ &lt;t2/&gt;ทรงท้าทายความคิดของเราและเปลี่ยนแปลงชีวิตของเราอย่างไร และเราควรจะทำอะไรต่อไป&lt;t3/&gt;</seg>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T044943Z" creationid="nathanwatkins" creationdate="20260409T171312Z">
+        <seg>เซสชั่นนี้เป็นโอกาสสำคัญที่เราจะได้ใคร่ครวญว่าพระเจ้ากำลังทรงกระทำอะไรในชีวิตของเราผ่านเวิร์กช็อปครั้งนี้ เราจะใช้ชุดคำถามต่อไปนี้เพื่อพิจารณาว่า&lt;t1/&gt;พระองค์&lt;t2/&gt;ทรงท้าทายความคิดของเราและเปลี่ยนแปลงชีวิตของเราอย่างไร และเราควรจะทำอะไรต่อไป&lt;t3/&gt;</seg>
       </tuv>
     </tu>
     <tu>
