@@ -5798,6 +5798,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>You do not need&lt;t0/&gt; to translate or delete this text.]</seg>
+      </tuv>
+      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T061837Z" creationid="Angkana Laksa" creationdate="20260622T061837Z">
+        <seg>[fuzzy]You do not need to translate or delete this text.]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>You will get the most out of this workbook by using it</seg>
       </tuv>
       <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
