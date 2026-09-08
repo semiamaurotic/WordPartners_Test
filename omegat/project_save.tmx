@@ -5200,8 +5200,8 @@
       <tuv lang="en-US">
         <seg>What does&lt;t0/&gt; it&lt;t1/&gt; &lt;t2/&gt;mean?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T092121Z" creationid="nathanwatkins" creationdate="20260409T162812Z">
-        <seg>&lt;t0/&gt;หลักการ&lt;t1/&gt; &lt;t2/&gt;หมายความว่าอย่างไร?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T074010Z" creationid="nathanwatkins" creationdate="20260409T162812Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;หมายความว่าอย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
