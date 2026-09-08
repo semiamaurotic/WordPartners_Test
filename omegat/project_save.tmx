@@ -944,8 +944,8 @@
       <tuv lang="en-US">
         <seg>Demonstrate&lt;t0/&gt;: &lt;t1/&gt;The &lt;t2/&gt;purpose of these sessions is to model expository preaching and teaching. Expository preaching and teaching &lt;t3/&gt;seeks&lt;t4/&gt; to proclaim the author’s message with his purpose and tone, showing how it unfolds the glories of Christ, &lt;t5/&gt;in order to&lt;t6/&gt; shepherd the transformation God intends. Put simply, expository preaching means that the transformational message of the text of Scripture is the point of the sermon&lt;t7/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T092248Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
-        <seg>สาธิต: จุดมุ่งหมายของเซสชั่นเหล่านี้คือ เพื่อเป็นแบบอย่างของการเทศนาและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนตามจุดประสงค์และน้ำเสียงของผู้เขียน และแสดงให้เห็นว่าสารนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่าย ๆ คือ การเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารของพระคัมภีร์ตอนนั้นๆ ซึ่งมีพลังในการเปลี่ยนแปลงชีวิต เป็นจุดศูนย์กลางของคำเทศนา</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260406T130855Z">
+        <seg>สาธิต: จุดมุ่งหมายของเซสชั่นเหล่านี้คือ เพื่อเป็นแบบอย่างของการเทศนาและการสอนแบบอรรถาธิบาย การเทศนาและการสอนแบบอรรถาธิบายมุ่งประกาศสารของผู้เขียนตามจุดประสงค์และน้ำเสียงของผู้เขียน และแสดงให้เห็นว่าสารนั้นเปิดเผยพระสิริของพระคริสต์อย่างไร เพื่อนำทางไปสู่การเปลี่ยนแปลงที่พระเจ้าทรงประสงค์ กล่าวอย่างง่ายๆ คือ การเทศนาแบบอรรถาธิบายหมายถึง การเทศนาที่มุ่งให้สารของพระคัมภีร์ตอนนั้นๆ ซึ่งมีพลังในการเปลี่ยนแปลงชีวิต เป็นจุดศูนย์กลางของคำเทศนา</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="en-US">
         <seg>Different scenes are connected to form a coherent story.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260422T093037Z" creationid="nathanwatkins" creationdate="20260409T120451Z">
-        <seg>ฉากต่าง ๆ ถูกนำมาเชื่อมโยงเข้าด้วยกันเพื่อร้อยเรียงเป็นเรื่องราวที่สอดคล้องต่อเนื่องกัน</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T120451Z">
+        <seg>ฉากต่างๆ ถูกนำมาเชื่อมโยงเข้าด้วยกันเพื่อร้อยเรียงเป็นเรื่องราวที่สอดคล้องต่อเนื่องกัน</seg>
       </tuv>
     </tu>
     <tu>
@@ -1804,8 +1804,8 @@
       <tuv lang="en-US">
         <seg>How did God work out this promise in the rest of Genesis with regard to the key themes?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260603T054826Z" creationid="nathanwatkins" creationdate="20260409T170956Z">
-        <seg>พระเจ้าทรงทำให้พระสัญญานี้ดำเนินไปอย่างไรตลอดส่วนที่เหลือของพระธรรมปฐมกาล โดยสัมพันธ์กับธีมหลักต่าง ๆ?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T170956Z">
+        <seg>พระเจ้าทรงทำให้พระสัญญานี้ดำเนินไปอย่างไรตลอดส่วนที่เหลือของพระธรรมปฐมกาล โดยสัมพันธ์กับธีมหลักต่างๆ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1844,8 +1844,8 @@
       <tuv lang="en-US">
         <seg>How does God continue to work out his good intentions toward &lt;t0/&gt;his&lt;t1/&gt; creation despite the obstacles along the way?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T072618Z" creationid="nathanwatkins" creationdate="20260409T162657Z">
-        <seg>แม้จะมีอุปสรรคต่าง ๆ ระหว่างทาง พระเจ้ายังคงทำให้พระประสงค์อันดีของพระองค์ต่อสิ่งทรงสร้างสำเร็จได้อย่างไร?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T162657Z">
+        <seg>แม้จะมีอุปสรรคต่างๆ ระหว่างทาง พระเจ้ายังคงทำให้พระประสงค์อันดีของพระองค์ต่อสิ่งทรงสร้างสำเร็จได้อย่างไร?</seg>
       </tuv>
     </tu>
     <tu>
@@ -1996,8 +1996,8 @@
       <tuv lang="en-US">
         <seg>How has the transformational intent of &lt;t0/&gt;Genesis&lt;t1/&gt; reshaped your frameworks? Put simply, what do you need to change now that God&lt;t2/&gt;’&lt;t3/&gt;s Word has spoken to you?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T044209Z" creationid="nathanwatkins" creationdate="20260406T092911Z">
-        <seg>เจตนาสู่การเปลี่ยนแปลงของพระธรรมปฐมกาลได้ปรับกรอบแนวความคิดของคุณเสียใหม่อย่างไรบ้าง? พูดให้ตรง ๆ ก็คือ เมื่อพระวจนะของพระเจ้าได้ตรัสกับคุณแล้ว คุณจำเป็นต้องเปลี่ยนอะไรบ้าง ?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260406T092911Z">
+        <seg>เจตนาสู่การเปลี่ยนแปลงของพระธรรมปฐมกาลได้ปรับกรอบแนวความคิดของคุณเสียใหม่อย่างไรบ้าง? พูดให้ตรงๆ ก็คือ เมื่อพระวจนะของพระเจ้าได้ตรัสกับคุณแล้ว คุณจำเป็นต้องเปลี่ยนอะไรบ้าง ?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2644,8 +2644,8 @@
       <tuv lang="en-US">
         <seg>Mood: What perspective, conviction, feelings, etc.&lt;t0/&gt;,&lt;t1/&gt; does the author intend to create in the reader?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260620T090117Z" creationid="nathanwatkins" creationdate="20260409T164813Z">
-        <seg>อารมณ์: ผู้เขียนตั้งใจจะสร้างมุมมอง ความเชื่อมั่น ความรู้สึก และอื่น ๆ&lt;t0/&gt;&lt;t1/&gt; แบบใดให้เกิดขึ้นในตัวผู้อ่าน?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T164813Z">
+        <seg>อารมณ์: ผู้เขียนตั้งใจจะสร้างมุมมอง ความเชื่อมั่น ความรู้สึก และอื่นๆ&lt;t0/&gt;&lt;t1/&gt; แบบใดให้เกิดขึ้นในตัวผู้อ่าน?</seg>
       </tuv>
     </tu>
     <tu>
@@ -2716,8 +2716,8 @@
       <tuv lang="en-US">
         <seg>No additional restrictions&lt;t0/&gt;:&lt;t1/&gt; You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260605T050702Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
-        <seg>ห้ามเพิ่มข้อจำกัดเพิ่มเติม: คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใด ๆ ที่จะจำกัดสิทธิ์ของผู้อื่นไม่ให้ใช้สิทธิ์ใด ๆ ที่สัญญาอนุญาตนี้อนุญาต</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260406T103739Z">
+        <seg>ห้ามเพิ่มข้อจำกัดเพิ่มเติม: คุณต้องไม่กำหนดข้อกำหนดทางกฎหมายหรือมาตรการทางเทคโนโลยีใดๆ ที่จะจำกัดสิทธิ์ของผู้อื่นไม่ให้ใช้สิทธิ์ใดๆ ที่สัญญาอนุญาตนี้อนุญาต</seg>
       </tuv>
     </tu>
     <tu>
@@ -2982,8 +2982,8 @@
       <tuv lang="en-US">
         <seg>Patterns in how God works which Jesus accomplishes – such as using the weak/unexpected, accomplishing good through suffering, sovereign reversals, etc.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T032143Z" creationid="nathanwatkins" creationdate="20260409T170901Z">
-        <seg>รูปแบบงานรับใช้ของพระเจ้าที่ปรากฏซ้ำ ๆ และสำเร็จครบถ้วนในพระเยซู อย่างเช่น ทรงใช้ผู้ที่อ่อนแอหรือสิ่งที่ไม่มีใครคาดคิด ทรงทำให้เกิดผลดีผ่านความทุกข์ยากลำบาก และทรงใช้อำนาจอธิปไตยของพระองค์เพื่อพลิกผันสถานการณ์</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T170901Z">
+        <seg>รูปแบบงานรับใช้ของพระเจ้าที่ปรากฏซ้ำๆ และสำเร็จครบถ้วนในพระเยซู อย่างเช่น ทรงใช้ผู้ที่อ่อนแอหรือสิ่งที่ไม่มีใครคาดคิด ทรงทำให้เกิดผลดีผ่านความทุกข์ยากลำบาก และทรงใช้อำนาจอธิปไตยของพระองค์เพื่อพลิกผันสถานการณ์</seg>
       </tuv>
     </tu>
     <tu>
@@ -3790,8 +3790,8 @@
       <tuv lang="en-US">
         <seg>Stories, along with other literary devices, are linked together to form the overall plot and reveal the main idea and transformational intent of the book.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260513T034522Z" creationid="nathanwatkins" creationdate="20260409T160059Z">
-        <seg>เรื่องราวต่าง ๆ และกลวิธีทางวรรณกรรมอื่น ๆ ถูกร้อยเรียงเข้าด้วยกันเพื่อประกอบขึ้นเป็นโครงเรื่องโดยรวม และเผยให้เห็นประเด็นหลักรวมถึงเจตนาสู่การเปลี่ยนแปลงของพระธรรมเล่มนั้นๆ </seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T160059Z">
+        <seg>เรื่องราวต่างๆ และกลวิธีทางวรรณกรรมอื่นๆ ถูกร้อยเรียงเข้าด้วยกันเพื่อประกอบขึ้นเป็นโครงเรื่องโดยรวม และเผยให้เห็นประเด็นหลักรวมถึงเจตนาสู่การเปลี่ยนแปลงของพระธรรมเล่มนั้นๆ </seg>
       </tuv>
     </tu>
     <tu>
@@ -3806,8 +3806,8 @@
       <tuv lang="en-US">
         <seg>Structure is like a bridge with columns that are arranged and connected in just the right way to support and bring a road to an intended destination. Likewise, an author uses the connection of units of thought to support his message and move the reader along an intended direction to an intended conclusion. The author uses a structure that fits the genre&lt;t0/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T084718Z" creationid="nathanwatkins" creationdate="20260409T111847Z">
-        <seg>โครงสร้างเป็นเหมือนสะพานที่มีเสาตอม่อที่ถูกจัดวางเรียงและเชื่อมต่อกันอย่างเหมาะสม เพื่อรองรับและนำเส้นทางไปสู่จุดหมายที่ตั้งใจไว้ ในทำนองเดียวกัน ผู้เขียนใช้การเชื่อมโยงของหน่วยความคิดต่าง ๆ เพื่อรองรับสารของเขา และนำพาผู้อ่านไปตามทิศทางที่วางไว้จนถึงบทสรุปที่มุ่งหมาย โดยใช้โครงสร้างที่เหมาะสมกับรูปแบบวรรณกรรม&lt;t0/&gt;</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T111847Z">
+        <seg>โครงสร้างเป็นเหมือนสะพานที่มีเสาตอม่อที่ถูกจัดวางเรียงและเชื่อมต่อกันอย่างเหมาะสม เพื่อรองรับและนำเส้นทางไปสู่จุดหมายที่ตั้งใจไว้ ในทำนองเดียวกัน ผู้เขียนใช้การเชื่อมโยงของหน่วยความคิดต่างๆ เพื่อรองรับสารของเขา และนำพาผู้อ่านไปตามทิศทางที่วางไว้จนถึงบทสรุปที่มุ่งหมาย โดยใช้โครงสร้างที่เหมาะสมกับรูปแบบวรรณกรรม&lt;t0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3822,8 +3822,8 @@
       <tuv lang="en-US">
         <seg>Structure:&lt;t0/&gt; &lt;t1/&gt;Was the structure of the passage found and presented according to the specific &lt;t2/&gt;g&lt;t3/&gt;enre? Were the main units of thought identified and shown as to how they are arranged to accomplish the author’s purpose?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260611T034446Z" creationid="nathanwatkins" creationdate="20260409T163910Z">
-        <seg>โครงสร้าง:&lt;t0/&gt; &lt;t1/&gt;มีการวิเคราะห์และนำเสนอโครงสร้างของพระธรรมตอนนี้ตาม&lt;t2/&gt;ป&lt;t3/&gt;ระเภทวรรณกรรมที่เฉพาะเจาะจงหรือไม่? มีการระบุหน่วยความคิดหลักต่าง ๆ และแสดงให้เห็นหรือไม่ว่าหน่วยความคิดเหล่านั้นถูกจัดเรียงอย่างไรเพื่อให้บรรลุจุดประสงค์ของผู้เขียน?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T163910Z">
+        <seg>โครงสร้าง:&lt;t0/&gt; &lt;t1/&gt;มีการวิเคราะห์และนำเสนอโครงสร้างของพระธรรมตอนนี้ตาม&lt;t2/&gt;ป&lt;t3/&gt;ระเภทวรรณกรรมที่เฉพาะเจาะจงหรือไม่? มีการระบุหน่วยความคิดหลักต่างๆ และแสดงให้เห็นหรือไม่ว่าหน่วยความคิดเหล่านั้นถูกจัดเรียงอย่างไรเพื่อให้บรรลุจุดประสงค์ของผู้เขียน?</seg>
       </tuv>
     </tu>
     <tu>
@@ -4094,8 +4094,8 @@
       <tuv lang="en-US">
         <seg>The key is to understand the right pieces of the context. This involves wrestling with questions like, &lt;t0/&gt;What&lt;t1/&gt; does the author say? Why does he say it in this way? Why does he say it here? What is surprising about it?&lt;t2/&gt; These questions lead us to the right information and help us discover the author’s main idea and transformational intent.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260617T093015Z" creationid="nathanwatkins" creationdate="20260409T163014Z">
-        <seg>กุญแจสำคัญคือการเข้าใจองค์ประกอบของบริบทที่ถูกต้อง ซึ่งต้องอาศัยการขบคิดและไตร่ตรองคำถามต่าง ๆ อย่างเช่น ผู้เขียนพูดถึงอะไร? ทำไมเขาจึงพูดแบบนั้น? ทำไมเขาจึงพูดไว้ตรงนี้? มีอะไรที่น่าประหลาดใจในข้อความนี้บ้าง? คำถามเหล่านี้จะพาเราไปสู่ข้อมูลที่ถูกต้อง และช่วยให้เราค้นพบประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T163014Z">
+        <seg>กุญแจสำคัญคือการเข้าใจองค์ประกอบของบริบทที่ถูกต้อง ซึ่งต้องอาศัยการขบคิดและไตร่ตรองคำถามต่างๆ อย่างเช่น ผู้เขียนพูดถึงอะไร? ทำไมเขาจึงพูดแบบนั้น? ทำไมเขาจึงพูดไว้ตรงนี้? มีอะไรที่น่าประหลาดใจในข้อความนี้บ้าง? คำถามเหล่านี้จะพาเราไปสู่ข้อมูลที่ถูกต้อง และช่วยให้เราค้นพบประเด็นหลักและเจตนาสู่การเปลี่ยนแปลงของผู้เขียน</seg>
       </tuv>
     </tu>
     <tu>
@@ -4399,8 +4399,8 @@
       <tuv lang="en-US">
         <seg>This chart shows how the principles are connected and lead to an expository sermon.</seg>
       </tuv>
-      <tuv lang="th" changeid="OmegaT Aligner" changedate="20260406T052850Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
-        <seg>แผนผังนี้แสดงให้เห็นว่า หลักการต่าง ๆ มีความเชื่อมโยงกันอย่างไรและนำไปสู่การเทศนาแบบอรรถาธิบายอย่างไร</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="OmegaT Aligner" creationdate="20260406T052850Z">
+        <seg>แผนผังนี้แสดงให้เห็นว่า หลักการต่างๆ มีความเชื่อมโยงกันอย่างไรและนำไปสู่การเทศนาแบบอรรถาธิบายอย่างไร</seg>
       </tuv>
     </tu>
     <tu>
@@ -4488,16 +4488,16 @@
       <tuv lang="en-US">
         <seg>This skill is learned by listening to expository preaching as much as being instructed in it. For this reason&lt;t0/&gt;,&lt;t1/&gt; we will listen to an expository message from God’s Word</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260622T044351Z" creationid="nathanwatkins" creationdate="20260406T093041Z">
-        <seg>ทักษะนี้ไม่ได้เรียนรู้จากการอบรมเพียงอย่างเดียว แต่ยังเรียนรู้จากการฟังคำเทศนาที่ดีได้ด้วย เราเรียนรู้การเทศนาเชิงอธิบายโดยซึมซับผ่านการฟังได้พอ ๆ กับเรียนรู้ผ่านการอบรม ด้วยเหตุนี้ เราจะฟังคำเทศนาอรรถาธิบายจากพระวจนะของพระเจ้า</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260406T093041Z">
+        <seg>ทักษะนี้ไม่ได้เรียนรู้จากการอบรมเพียงอย่างเดียว แต่ยังเรียนรู้จากการฟังคำเทศนาที่ดีได้ด้วย เราเรียนรู้การเทศนาเชิงอธิบายโดยซึมซับผ่านการฟังได้พอๆ กับเรียนรู้ผ่านการอบรม ด้วยเหตุนี้ เราจะฟังคำเทศนาอรรถาธิบายจากพระวจนะของพระเจ้า</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en-US">
         <seg>This skill is learned by listening to good preaching as much as being instructed about it; expositional preaching tends to be caught as much as taught. For this &lt;t0/&gt;reason&lt;t1/&gt; we will listen to an expository message from God’s Word&lt;t2/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T080300Z" creationid="nathanwatkins" creationdate="20260409T163234Z">
-        <seg>ทักษะนี้สามารถเรียนรู้ได้จากการฟังคำเทศนาที่ดีพอๆ กับการได้รับคำสอน เพราะการเทศนาแบบอรรถาธิบายมักเป็นสิ่งที่ “ซึมซับและเรียนรู้จากแบบอย่าง” ได้พอ ๆ กับจากการสอนโดยตรง ด้วย&lt;t0/&gt;เหตุผล&lt;t1/&gt;นี้ เราจะมารับฟังคำเทศนาแบบอรรถาธิบายจากพระวจนะของพระเจ้าด้วยกัน&lt;t2/&gt;</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T163234Z">
+        <seg>ทักษะนี้สามารถเรียนรู้ได้จากการฟังคำเทศนาที่ดีพอๆ กับการได้รับคำสอน เพราะการเทศนาแบบอรรถาธิบายมักเป็นสิ่งที่ “ซึมซับและเรียนรู้จากแบบอย่าง” ได้พอๆ กับจากการสอนโดยตรง ด้วย&lt;t0/&gt;เหตุผล&lt;t1/&gt;นี้ เราจะมารับฟังคำเทศนาแบบอรรถาธิบายจากพระวจนะของพระเจ้าด้วยกัน&lt;t2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5000,8 +5000,8 @@
       <tuv lang="en-US">
         <seg>We will practice below answering the kinds of questions we need to ask for understanding &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260609T062808Z" creationid="nathanwatkins" creationdate="20260409T160136Z">
-        <seg>เราจะฝึกตอบคำถามประเภทต่าง ๆ ต่อไปนี้ที่จำเป็นต้องถามเพื่อทำความเข้าใจ&lt;t0/&gt;เรื่อง&lt;t1/&gt;เล่าทาง&lt;t2/&gt;ประวัติ&lt;t3/&gt;ศาสตร์&lt;t4/&gt;</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T160136Z">
+        <seg>เราจะฝึกตอบคำถามประเภทต่างๆ ต่อไปนี้ที่จำเป็นต้องถามเพื่อทำความเข้าใจ&lt;t0/&gt;เรื่อง&lt;t1/&gt;เล่าทาง&lt;t2/&gt;ประวัติ&lt;t3/&gt;ศาสตร์&lt;t4/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -5024,8 +5024,8 @@
       <tuv lang="en-US">
         <seg>We’ll practice using the same principles in a variety of books containing different types of &lt;t0/&gt;b&lt;t1/&gt;iblical literature (&lt;t2/&gt;g&lt;t3/&gt;enre). Then, you’ll be able to use the principles to study other books of the same kind of literature and discover the message God has communicated in those books&lt;t4/&gt;.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260420T031559Z" creationid="nathanwatkins" creationdate="20260407T155747Z">
-        <seg>เราจะฝึกใช้หลักการเดียวกันนี้กับพระธรรมหลากหลายเล่มที่เป็นรูปแบบวรรณกรรมในพระคัมภีร์ (ประเภทวรรณกรรม) จากนั้นคุณจะสามารถใช้หลักการเหล่านี้ศึกษาพระธรรมอื่น ๆ ที่เป็นวรรณกรรมประเภทเดียวกัน และค้นพบสารที่พระเจ้าทรงสื่อสารผ่านพระธรรมเหล่านั้น</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260407T155747Z">
+        <seg>เราจะฝึกใช้หลักการเดียวกันนี้กับพระธรรมหลากหลายเล่มที่เป็นรูปแบบวรรณกรรมในพระคัมภีร์ (ประเภทวรรณกรรม) จากนั้นคุณจะสามารถใช้หลักการเหล่านี้ศึกษาพระธรรมอื่นๆ ที่เป็นวรรณกรรมประเภทเดียวกัน และค้นพบสารที่พระเจ้าทรงสื่อสารผ่านพระธรรมเหล่านั้น</seg>
       </tuv>
     </tu>
     <tu>
@@ -5672,8 +5672,8 @@
       <tuv lang="en-US">
         <seg>Why would the story(&lt;t0/&gt;ies&lt;t1/&gt;) of Genesis be important for the Israelites to remember as they entered into the Promised Land?</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260616T074428Z" creationid="nathanwatkins" creationdate="20260409T163102Z">
-        <seg>ทำไมเรื่องราว (&lt;t0/&gt;ต่าง ๆ&lt;t1/&gt;) ในพระธรรมปฐมกาลจึงเป็นเรื่องสำคัญที่ชาวอิสราเอลควรจดจำไว้ ในขณะที่พวกเขากำลังเข้าสู่ดินแดนแห่งพันธสัญญา?</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T163102Z">
+        <seg>ทำไมเรื่องราว (&lt;t0/&gt;ต่างๆ&lt;t1/&gt;) ในพระธรรมปฐมกาลจึงเป็นเรื่องสำคัญที่ชาวอิสราเอลควรจดจำไว้ ในขณะที่พวกเขากำลังเข้าสู่ดินแดนแห่งพันธสัญญา?</seg>
       </tuv>
     </tu>
     <tu>
@@ -5696,8 +5696,8 @@
       <tuv lang="en-US">
         <seg>With the genre of &lt;t0/&gt;h&lt;t1/&gt;istorical &lt;t2/&gt;n&lt;t3/&gt;arrative, recognizing the elements of narrative (characters, setting, and plot) an&lt;t4/&gt;d identifying the plotline (or &lt;t5/&gt;n&lt;t6/&gt;arrative &lt;t7/&gt;a&lt;t8/&gt;rch) helps us discover the units of thought that make up the story’s structure.</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260618T084738Z" creationid="nathanwatkins" creationdate="20260409T163506Z">
-        <seg>ในประเภทวรรณกรรมแบบเรื่องเล่าทางประวัติศาสตร์ เราสามารถค้นพบหน่วยความคิดต่าง ๆ ที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่องได้ โดยการระบุลำดับเหตุการณ์ (หรือเส้นโค้งของเรื่องเล่า)และการสังเกตองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง)  </seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T163506Z">
+        <seg>ในประเภทวรรณกรรมแบบเรื่องเล่าทางประวัติศาสตร์ เราสามารถค้นพบหน่วยความคิดต่างๆ ที่ประกอบกันขึ้นเป็นโครงสร้างของเรื่องได้ โดยการระบุลำดับเหตุการณ์ (หรือเส้นโค้งของเรื่องเล่า)และการสังเกตองค์ประกอบของเรื่องเล่า (ตัวละคร ฉาก และโครงเรื่อง)  </seg>
       </tuv>
     </tu>
     <tu>
@@ -5768,8 +5768,8 @@
       <tuv lang="en-US">
         <seg>Write down some words or ideas that express the attitude, perspective, conviction, feelings, etc.&lt;t0/&gt;,&lt;t1/&gt; the author intends to create in the reader&lt;t2/&gt;.&lt;t3/&gt; (&lt;t4/&gt;T&lt;t5/&gt;his is the &lt;t6/&gt;m&lt;t7/&gt;ood&lt;t8/&gt;.&lt;t9/&gt;)</seg>
       </tuv>
-      <tuv lang="th" changeid="Angkana Laksa" changedate="20260620T092249Z" creationid="nathanwatkins" creationdate="20260409T170116Z">
-        <seg>จดถ้อยคำหรือแนวคิดที่สะท้อนถึงทัศนคติ มุมมอง ความเชื่อมั่น ความรู้สึก หรืออารมณ์ต่าง ๆ ที่ผู้เขียนตั้งใจจะสร้างให้เกิดขึ้นในจิตใจของผู้อ่าน&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;(&lt;t4/&gt;นี่&lt;t5/&gt;คือ&lt;t6/&gt;อ&lt;t7/&gt;ารมณ์ที่ผู้เขียนต้องการสร้าง)</seg>
+      <tuv lang="th" changeid="nathanwatkins" changedate="20260908T070642Z" creationid="nathanwatkins" creationdate="20260409T170116Z">
+        <seg>จดถ้อยคำหรือแนวคิดที่สะท้อนถึงทัศนคติ มุมมอง ความเชื่อมั่น ความรู้สึก หรืออารมณ์ต่างๆ ที่ผู้เขียนตั้งใจจะสร้างให้เกิดขึ้นในจิตใจของผู้อ่าน&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;(&lt;t4/&gt;นี่&lt;t5/&gt;คือ&lt;t6/&gt;อ&lt;t7/&gt;ารมณ์ที่ผู้เขียนต้องการสร้าง)</seg>
       </tuv>
     </tu>
     <tu>
